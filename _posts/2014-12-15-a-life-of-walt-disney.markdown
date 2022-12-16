@@ -19,7 +19,7 @@ syntaxHighlighter: no
 
 ### Course Outline
 
-##### **Week 1 - Introduction to the Course: Video Games and Narrative Cinema**
+##### **Week 1 - Introduction to the Course**
 
 - **Read** Ngyuen *Games: Agency as Art* (selections)
 - **Read** Galloway "Gamic Action, Four Moments"
@@ -57,19 +57,19 @@ syntaxHighlighter: no
 
 #### Unit 2: Authorship & Identity
 
-##### **Week 6 - Histories of Violence** (i.e., Myths of American identity)
+##### **Week 6 - Histories of Violence** 
 - **Read** something on *Red Dead Redemption* from Ashlee Bird
 - **Watch** *Buck and the Preacher* (1972), dir. Sidney Poitier
 - **Voice Thread** *Red Dead Redemption 2* (2018)
 - **Play** *Stardew Valley* (2016)
 
-##### **Week 7 - Manifest Destiny, Mediated** (i.e., the settler colonial pastoral)
+##### **Week 7 - Manifest Destiny, Mediated** 
 - **Read** ["Retracing the *Oregon Trail*" William J. Bauer, Jr., Margaret Huettl, Katrina M. Phillips](https://online.ucpress.edu/ch/article-abstract/99/3/53/189887/Retracing-The-Oregon-Trail)
 - **Watch** *Ravenous* (1999), dir. Antonia Bird
 - **Voice Thread** *The Oregon Trail* (1985)
 - **Play** *Stardew Valley* (2016)
 
-##### **Week 8 - Sovereignty and Representation** (i.e., the politics of authorship)
+##### **Week 8 - Sovereignty and Representation** 
 - **Read** Elisabeth La Pensee et al. "Soveriegn Games"
 - **Watch** *The Revenant* (2015), dir. Alejandro González Iñárritu
 - **Voice Thread** *Never Alone (Kisima Inŋitchuŋa)* (2014)
@@ -88,7 +88,7 @@ syntaxHighlighter: no
 ##### **Week 10 - Narrative Flows**
 - **Read** Wark, "Fury Road: The Four Flows"; something on narrative flow in game design
 - **Watch** *Mad Max: Fury Road* (2015), dir. George Millar 
-- **Voice Thread** [*Rage* (2010)](https://www.youtube.com/watch?v=GcdUFAphJKc}
+- **Voice Thread** [*Rage* (2010)](https://www.youtube.com/watch?v=GcdUFAphJKc)
 - **Play** *Cyberpunk: 2077*
 
 ##### **Week 11 - Ontological Dependencies**
@@ -129,37 +129,3 @@ syntaxHighlighter: no
 - **Review** Instructor Feedback on ROUGH Cut
 - **Submit** Video Essay FINAL Cut
 - **Attend** Course Wrap Screening Party
-														
----
-
-Week 01 - 0.1 Intro
-
-Week 02 - 1.1 Technologies of Wonder and Dread
-
-Week 03 - 1.2 Mechanisms of Consumption
-
-Week 04 - 1.3 Apparatus of Exploitation and Control
-
-Week 05 - 0.2 Pink Time #1 and Project Planning Conferences
-
-Week 06 - 2.1 Histories of Violence
-
-Week 07 - 2.2 Manifest Destiny, Mediated
-
-Week 08 - 2.3 Sovereignty and Representation
-
-Week 09 - 0.3 Pink Time #2 and Digital Composition Workshop 
-
-Week 10 - 3.1 Narrative Flows
-
-Week 11 - 3.2 Ontological Dependencies
-
-Week 12 - 3.3 Strategic Extractions
-
-Week 13 - 0.4 Pink Time #3 and Project Progress Report
-
-Week 14 - 0.5 Conclusion 
-
-Week 15 - 0.6 Project Revisions & Workshop 
-
-Week 16 - FINAL EXAMS
