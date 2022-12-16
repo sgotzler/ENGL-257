@@ -15,7 +15,7 @@ tagline:             'ENGL-257'
 description:         'a course on video games and narrative cinema'
 url:                 site url
 rss:                 rss feed url
-baseurl:             '/ENGL-257/'
+baseurl:             '/'
 baseurl_posts_img:   '/assets/images/posts/'
 baseurl_featured_img: '/assets/images/hero/'
 baseurl_featured_thumbnail: '/assets/images/thumbnail/'
