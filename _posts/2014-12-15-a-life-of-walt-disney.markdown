@@ -77,7 +77,7 @@ syntaxHighlighter: no
 
 ---
 
-#### **Week 9 - Pink Time #2 and Digital Composition Workshop** 
+##### **Week 9 - Pink Time #2 and Digital Composition Workshop** 
 - **Watch** Video Essay example 2 (one with video games)
 - **Attend** Adobe Premier Tutorial w/ MDC Staff & Capture Card Tutorial with instructor
 
@@ -111,7 +111,7 @@ syntaxHighlighter: no
 
 ---
 
-##### **Week 14 - Conclusion to the Course: Agency as Art, and as Alienation**
+##### **Week 14 - Conclusion to the Course**
 - **Read** 
 - **Read** 
 - **Play**
