@@ -15,11 +15,11 @@ tagline:             'ENGL-257'
 description:         'a course on video games and narrative cinema'
 url:                 site url
 rss:                 rss feed url
-baseurl:             '/'
-baseurl_posts_img:   '/assets/images/posts/'
-baseurl_featured_img: '/assets/images/hero/'
-baseurl_featured_thumbnail: '/assets/images/thumbnail/'
-baseurl_javascripts: '/assets/javascripts/'
+baseurl:             '/ENGL-257/'
+baseurl_posts_img:   {{site.baseurl}}'/assets/images/posts/'
+baseurl_featured_img: {{site.baseurl}}'/assets/images/hero/'
+baseurl_featured_thumbnail: {{site.baseurl}}'/assets/images/thumbnail/'
+baseurl_javascripts: {{site.baseurl}}'/assets/javascripts/'
 icon:                your site icon path # /assets/img/icon.png [best 300px X 300px]
 disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
