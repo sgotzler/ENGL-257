@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Comics"
+title:  "Week 2 - Technologies of Wonder and Dread"
 date:   1930-01-13 01:00:00
 date:   1930-01-13 01:00:00
 excerpt: "Mickey first appeared in comics after he had appeared in 15 commercially successful animated shorts and was easily recognized by ..."
