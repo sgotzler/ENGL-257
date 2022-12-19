@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Course Outline and Overview"
+title:  "Course Overview and Outline"
 date:   2022-01-10 01:00:00
 last_modified_at:  2023-01-10 01:00:00
 excerpt: 
@@ -15,7 +15,11 @@ syntaxHighlighter: no
 ---
 ## Video Games and Narrative Cinema
 
+### Course Overview
+
 *ADD COURSE DESCRIPTION*
+
+---
 
 ### Course Outline
 
