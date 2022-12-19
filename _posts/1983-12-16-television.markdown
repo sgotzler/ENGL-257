@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Video Essay Projects"
-date:   1983-12-16 01:00:00
-date:   1983-12-16 01:00:00
+date:   2023-01-10 01:00:00
+date:   2023-01-10 01:00:00
 excerpt: "Mickey first appeared animated in color in Parade of the Award Nominees in 1932, however the film strip was..."
 categories: history
 tags:  mickey
