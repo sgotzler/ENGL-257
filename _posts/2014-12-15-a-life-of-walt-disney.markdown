@@ -25,12 +25,11 @@ syntaxHighlighter: no
 
 ##### **Week 1 - Introduction to the Course**
 
-- **Read** Ngyuen *Games: Agency as Art* (selections)
 - **Read** Galloway "Gamic Action, Four Moments"
 
 ---
 
-#### Unit 1: Industries 
+#### Unit 1: Industries & Cultural Production
 
 ##### **Week 2 - Technologies of Wonder and Dread**
 
@@ -39,14 +38,14 @@ syntaxHighlighter: no
 - **Voice Thread** [*Lemmings* (1991)](https://www.youtube.com/watch?v=xB94GO6KYeg)
 - **Play** *Inside* (2016)
 
-##### **Week 3 - Mechanisms of Consumption**
-- **Read** Mulvey, "Visual Pleasure and the Narrative Cinema"; Shane Denson, *Discorrelated Images* (selection)
+##### **Week 3 - Apparatus of Exploitation and Control**
+- **Read** Mulvey, "Visual Pleasure and the Narrative Cinema"; ____
 - **Watch** *Videodrome* (1983), dir. David Cronenberg
 - **Voice Thread** [*Pony Island* (2016)](https://www.youtube.com/watch?v=xwZGarhGBgc)
 - **Play** *Inside* (2016)
 
-##### **Week 4 - Apparatus of Exploitation and Control**
-- **Read** 
+##### **Week 4 - Mechanisms of Perception**
+- **Read** ____ 
 - **Watch** *Nope* (2022), dir. Jordan Peele
 - **Voice Thread** [*Pokemon: SNAP!* (1999)](https://www.youtube.com/watch?v=rVvqqJGEeHc)
 - **Play** *Inside* (2016)
@@ -87,25 +86,25 @@ syntaxHighlighter: no
 
 ---
 
-#### Unit 3: Adaptations & Design
+#### Unit 3: Adaptative Environments
 
 ##### **Week 10 - Narrative Flows**
 - **Read** Wark, "Fury Road: The Four Flows"; something on narrative flow in game design
 - **Watch** *Mad Max: Fury Road* (2015), dir. George Millar 
 - **Voice Thread** [*Rage* (2010)](https://www.youtube.com/watch?v=GcdUFAphJKc)
-- **Play** *Cyberpunk: 2077*
+- **Play** 
 
 ##### **Week 11 - Ontological Dependencies**
 - **Read** _____; something on ontological relations in game design
 - **Watch** *Blade Runner 2049* (2017), dir. Denis Villaneuve
-- **Voice Thread** [*Blade Runner: Enhanced Edition* (2022)](https://www.youtube.com/watch?v=lyrVyBj0yHM)
-- **Play** *Cyberpunk: 2077*
+- **Voice Thread** [*Blade Runner: Enhanced Edition* (2022)](https://www.youtube.com/watch?v=lyrVyBj0yHM) / *Cyberpunk 2077*?
+- **Play** 
 
 ##### **Week 12 - Strategies of Extraction**
 - **Read** ______; something on real-time strategy in game design
 - **Watch** *Dune* (2021), dir. Denis Villaneuve
 - **Voice Thread** [*Dune II* (1992)](https://www.youtube.com/watch?v=gOscXf0Fpmk)
-- **Play** *Cyberpunk: 2077*
+- **Play** 
 
 ---
 
