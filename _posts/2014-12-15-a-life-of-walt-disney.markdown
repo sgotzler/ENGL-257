@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Course Overview and Outline"
-date:   2023-01-10 01:00:00
-last_modified_at:  2023-01-10 01:00:00
+date:   2022-12-19 01:00:00
+last_modified_at:  2022-12-19 01:00:00
 excerpt: 
 categories: 
 tags:  
