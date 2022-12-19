@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Week 3 - Apparatus of Exploitation and Control"
-date:   2022-12-24 01:00:00
-date:   2022-12-24 01:00:00
+date:   2022-12-13 01:00:00
+date:   2022-12-13 01:00:00
 excerpt: "In Mickey's early films he was often characterized not as a hero, but as an ineffective young suitor to Minnie Mouse..."
 categories: history
 tags:  mickey
