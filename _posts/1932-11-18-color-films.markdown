@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Week 1 - Introduction to the Course"
-date:   2022-12-25 01:00:00
-date:   2023-12-25 01:00:00
+date:   2022-12-15 01:00:00
+date:   2023-12-15 01:00:00
 excerpt: "Mickey first appeared animated in color in Parade of the Award Nominees in 1932, however the film strip was..."
 categories: history
 tags:  mickey
