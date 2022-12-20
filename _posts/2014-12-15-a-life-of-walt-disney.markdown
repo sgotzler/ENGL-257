@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Course Overview and Outline"
-date:   2022-12-19 01:00:00
+date:   2022-12-13 01:00:00
 last_modified_at:  2022-12-19 01:00:00
 excerpt: 
 categories: 
@@ -100,7 +100,7 @@ syntaxHighlighter: no
 - **Voice Thread** [*Blade Runner: Enhanced Edition* (2022)](https://www.youtube.com/watch?v=lyrVyBj0yHM) / *Cyberpunk 2077*?
 - **Play** 
 
-##### **Week 12 - Strategies of Extraction**
+##### **Week 12 - Temporal Extractions**
 - **Read** ______; something on real-time strategy in game design
 - **Watch** *Dune* (2021), dir. Denis Villaneuve
 - **Voice Thread** [*Dune II* (1992)](https://www.youtube.com/watch?v=gOscXf0Fpmk)
