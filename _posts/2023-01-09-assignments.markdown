@@ -83,7 +83,7 @@ Think of this less as a formal presentation, and more as a commitment to extra p
 
 *Expectations and Effort*: Students will need to coordinate with their partners and correspond with the instructor in advance (either on email or over zoom) to ensure that prep is going smoothly. Facilitation duties will be assessed 20 pt. Scale, covering: planning, preparation, contribution, and execution. Further expectations/criteria for facilitation will be detailed on canvas, at a future date.
 
-These facilitations will be scheduled for duties corresponding to weeks 5-9 and weeks 11-14 of the class.
+These facilitations will be scheduled for duties corresponding to weeks 6-8 and weeks 10-12 of the class.
 
 **NOTE:** While students are encouraged to sign-up for the week whose material interests them most, they should also think carefully about which week works best for their personal schedule and the workload in their other classes.
 

@@ -81,7 +81,7 @@ syntaxHighlighter: no
 - **Play** *Stardew Valley* (2016)
 
 ##### **Week 8 - Sovereignty and Representation** 
-- **Read** Elisabeth La Pensee et al. "Towards Soveriegn Games"
+- **Read** Elisabeth La Pensee et al. "Towards Sovereign Games"
 - **Watch** *The Revenant* (2015), dir. Alejandro González Iñárritu
 - **Voice Thread** *Never Alone (Kisima Inŋitchuŋa)* (2014)
 - **Play** *Stardew Valley* (2016)
@@ -104,13 +104,13 @@ syntaxHighlighter: no
 
 ##### **Week 11 - Ontological Dependencies**
 - **Read** Haendler & Neumann, "Ontology-based Analysis of Game Designs for Software Refactoring"
-- **Watch** *Blade Runner 2049* (2017), dir. Denis Villaneuve
+- **Watch** *Blade Runner 2049* (2017), dir. Denis Villeneuve
 - **Voice Thread** *Cyberpunk 2077* (2020)
 - **Play** *Death Stranding* (2019)
 
 ##### **Week 12 - Temporal Extractions**
-- **Read** Fent & Kojola, "Politial Ecologies of Time and Temporality in Resource Extraction"
-- **Watch** *Dune* (2021), dir. Denis Villaneuve
+- **Read** Fent & Kojola, "Political Ecologies of Time and Temporality in Resource Extraction"
+- **Watch** *Dune* (2021), dir. Denis Villeneuve
 - **Voice Thread** [*Dune II* (1992)](https://www.youtube.com/watch?v=gOscXf0Fpmk)
 - **Play** *Death Stranding* (2019)
 
@@ -125,7 +125,7 @@ syntaxHighlighter: no
 ##### **Week 14 - Conclusion to the Course**
 - **Read** Galloway, "Countergaming"
 - **Play** *Death Stranding* (2019)
-- **Sumbit** Video Essay ROUGH Cut
+- **Submit** Video Essay ROUGH Cut
 
 ---
 
