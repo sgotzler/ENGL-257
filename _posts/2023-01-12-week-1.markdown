@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Week 1 - Introduction to the Course"
+date:   2023-01-10 01:00:00
+date:   2023-01-10 03:00:00
+excerpt: 
+categories:
+tags:
+image:
+  feature: introduction.png
+  topPosition: -200px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+##### **Week 1 - Introduction to the Course: Video Games and Narrative Cinema**
+
+- **Read** Galloway "Gamic Action, Four Moments"; Ross *Working-Class Hollywood* (selection)
+- **Watch** *Modern Times* (1936), dir. Charlie Chaplin (excerpted)
+- **Play/VoiceThread** *Rom Check Fail*
+

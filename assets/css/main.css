@@ -529,14 +529,14 @@ body {
 }
 
 .textLogo--white {
-  background-image: url(../images/logo-text-white.svg);
+  background-image: url(../images/logo-text-white.png);
 }
 
 .textLogo--sidebar {
   width: 100%;
-  height: auto;
-  background-size: contain;
-  background-position: center;
+  height: 100px;
+  background-size: 100%;
+  background-position: 0;
   opacity: 0.8;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
 }
@@ -548,15 +548,15 @@ body {
 
 .textLogo--frontpage {
   position: absolute;
-  top: 132px;
+  top: 0px;
   left: 50%;
   -webkit-transform: translateX(-50%);
       -ms-transform: translateX(-50%);
           transform: translateX(-50%);
   z-index: 500;
   margin: 0;
-  width: 276px;
-  height: 50px;
+  width: 425px;
+  height: 250px;
   background-size: 100%;
   background-position: 0;
   opacity: 0.9;
@@ -1684,7 +1684,7 @@ body {
   overflow: hidden;
 }
 
-.section-backgroundImage .post-featuredImage {
+.section-backgroundImage site.baseurl.post-featuredImage {
   min-width: 100%;
   min-height: 28.5rem;
   width: 2000px;
@@ -2268,7 +2268,7 @@ body {
 .modal-toggle-group.active {
   opacity: 1;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-  visibility: visible;
+  visibility: hidden;
 }
 
 .modal-toggle-group.active.scaleIn {
@@ -2303,7 +2303,7 @@ body {
 }
 
 .modal-toggle-wrapper.active {
-  opacity: 0;
+  opacity: 100;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
   -webkit-transform: rotate(360deg);
   -ms-transform: rotate(360deg);

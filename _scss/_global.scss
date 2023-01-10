@@ -32,7 +32,7 @@ body {
 
 .textLogo {
   display: block;
-  background-image: url(../images/logo-text-black.svg);
+  background-image: url(../images/project-title.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: 0 0;
@@ -59,7 +59,7 @@ body {
 
 .textLogo--frontpage {
   position: absolute;
-  top: 132px;
+  top: 100px;
   left: 50%;
   transform: translateX(-50%);
   z-index: $zIndex-5--textlogo-frontpage;

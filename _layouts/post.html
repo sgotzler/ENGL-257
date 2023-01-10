@@ -32,7 +32,7 @@ layout: default
               </time>
             </li>
             <li class="postMeta-author">
-              By {{ site.author.name }}
+              By Steve Gotzler
             </li>
             <li class="postMeta-tags">
               {{ page.categories }}
@@ -79,8 +79,8 @@ layout: default
         "></div>
         <div class="section-title u-tableCell u-verticalAlignMiddle">
           <div class="container">
-            <h4>Next story:</h4>
-            <a class="prev" href="{{page.previous.url}}">
+            <h4>Previous Section:</h4>
+            <a class="prev" href="{{site.baseurl}}{{page.previous.url}}">
               <h2>{{page.previous.title}}</h2>
             </a>
           </div>

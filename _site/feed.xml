@@ -1,86 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
-		<title>site name</title>
-		<description>description</description>
+		<title>Video Games and Narrative Cinema</title>
+		<description>a course on video games and narrative cinema</description>
 		<link>http://localhost:9001</link>
 		<atom:link href="http://localhost:9001/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Video Games and Narrative Cinema</title>
+				<title>Course Overview and Outline</title>
 				
 				
-					<description>Walter Elias Disney was an American entrepreneur, cartoonist, animator, voice actor, and film producer. As a prominent...</description>
+					<description>&lt;h2 id=&quot;video-games-and-narrative-cinema&quot;&gt;Video Games and Narrative Cinema&lt;/h2&gt;
+
+</description>
 				
-				<pubDate>Mon, 10 Jan 2022 01:00:00 +0000</pubDate>
-				<link>http://localhost:9001/a-life-of-walt-disney</link>
-				<guid isPermaLink="true">http://localhost:9001/a-life-of-walt-disney</guid>
+				<pubDate>Mon, 09 Jan 2023 01:00:00 +0000</pubDate>
+				<link>http://localhost:9001/course-overview</link>
+				<guid isPermaLink="true">http://localhost:9001/course-overview</guid>
 			</item>
 		
 			<item>
-				<title>Mickey Mouse</title>
+				<title>Assignments &amp; Materials</title>
 				
 				
-					<description>Mickey Mouse is a funny animal cartoon character and the official mascot of...</description>
+					<description>&lt;h3 id=&quot;required-materials&quot;&gt;Required Materials&lt;/h3&gt;
+
+</description>
 				
-				<pubDate>Fri, 28 Nov 2014 01:00:00 +0000</pubDate>
-				<link>http://localhost:9001/mickey-mouse</link>
-				<guid isPermaLink="true">http://localhost:9001/mickey-mouse</guid>
+				<pubDate>Tue, 10 Jan 2023 01:00:00 +0000</pubDate>
+				<link>http://localhost:9001/assignments</link>
+				<guid isPermaLink="true">http://localhost:9001/assignments</guid>
 			</item>
 		
 			<item>
-				<title>Television and later films</title>
+				<title>Video Essay Projects</title>
 				
 				
-					<description>Mickey first appeared animated in color in Parade of the Award Nominees in 1932, however the film strip was...</description>
+					<description>&lt;h5 id=&quot;details-and-resources-for-video-essay-projects-coming-soon&quot;&gt;&lt;em&gt;Details and Resources for Video Essay Projects COMING SOON!&lt;/em&gt;&lt;/h5&gt;
+</description>
 				
-				<pubDate>Fri, 16 Dec 1983 01:00:00 +0000</pubDate>
-				<link>http://localhost:9001/television</link>
-				<guid isPermaLink="true">http://localhost:9001/television</guid>
+				<pubDate>Tue, 10 Jan 2023 02:00:00 +0000</pubDate>
+				<link>http://localhost:9001/video-essays</link>
+				<guid isPermaLink="true">http://localhost:9001/video-essays</guid>
 			</item>
 		
 			<item>
-				<title>Color films</title>
+				<title>Week 1 - Introduction to the Course</title>
 				
 				
-					<description>Mickey first appeared animated in color in Parade of the Award Nominees in 1932, however the film strip was...</description>
+					<description>&lt;h5 id=&quot;week-1---introduction-to-the-course-video-games-and-narrative-cinema&quot;&gt;&lt;strong&gt;Week 1 - Introduction to the Course: Video Games and Narrative Cinema&lt;/strong&gt;&lt;/h5&gt;
+
+</description>
 				
-				<pubDate>Fri, 18 Nov 1932 01:00:00 +0000</pubDate>
-				<link>http://localhost:9001/color-films</link>
-				<guid isPermaLink="true">http://localhost:9001/color-films</guid>
-			</item>
-		
-			<item>
-				<title>Comics</title>
-				
-				
-					<description>Mickey first appeared in comics after he had appeared in 15 commercially successful animated shorts and was easily recognized by ...</description>
-				
-				<pubDate>Mon, 13 Jan 1930 01:00:00 +0000</pubDate>
-				<link>http://localhost:9001/comics</link>
-				<guid isPermaLink="true">http://localhost:9001/comics</guid>
-			</item>
-		
-			<item>
-				<title>Black and white films</title>
-				
-				
-					<description>In Mickey's early films he was often characterized not as a hero, but as an ineffective young suitor to Minnie Mouse...</description>
-				
-				<pubDate>Thu, 28 Mar 1929 01:00:00 +0000</pubDate>
-				<link>http://localhost:9001/black-and-white-films</link>
-				<guid isPermaLink="true">http://localhost:9001/black-and-white-films</guid>
-			</item>
-		
-			<item>
-				<title>Mickey Mouse's Debut</title>
-				
-				
-					<description>Disney had Ub Iwerks secretly begin animating a new cartoon while still under contract with Universal...</description>
-				
-				<pubDate>Sun, 18 Nov 1928 01:00:00 +0000</pubDate>
-				<link>http://localhost:9001/debut</link>
-				<guid isPermaLink="true">http://localhost:9001/debut</guid>
+				<pubDate>Tue, 10 Jan 2023 03:00:00 +0000</pubDate>
+				<link>http://localhost:9001/week-1</link>
+				<guid isPermaLink="true">http://localhost:9001/week-1</guid>
 			</item>
 		
 	</channel>

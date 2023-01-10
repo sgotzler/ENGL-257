@@ -9,7 +9,7 @@ permalink:           /:title
 # Setup
 timezone:            your timezone # eg. Asia/Kathmandu
 locale:              your locale language # eg. en_us
-name:				               ENG-257
+name:				         Video Games and Narrative Cinema
 title:               Video Games and Narrative Cinema
 tagline:             'ENGL-257'
 description:         'a course on video games and narrative cinema'
@@ -20,12 +20,12 @@ baseurl_posts_img:   '/ENGL-257/assets/images/posts/'
 baseurl_featured_img: '/ENGL-257/assets/images/hero/'
 baseurl_featured_thumbnail: '/ENGL-257/assets/images/thumbnail/'
 baseurl_javascripts: '/ENGL-257/ssets/javascripts/'
-icon:                your site icon path # /assets/img/icon.png [best 300px X 300px]
+icon:                your site icon path # /ENGL-257/assets/img/favicon.jpg [best 300px X 300px]
 disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
-author:
-  name:           	 your name
-  url:            	 your site url
+author:              
+  name:           	     your name
+  url:            	     your site url
   facebook:          username
   twitter:           username
   google_plus:       username
