@@ -2,7 +2,7 @@
 layout: post
 title:  "Course Overview and Outline"
 date:   2023-01-09 01:00:00
-last_modified_at:  2022-1-19 01:00:00
+last_modified_at:  2022-01-09 01:00:00
 excerpt: 
 categories: 
 tags:  
@@ -31,7 +31,7 @@ syntaxHighlighter: no
 
 ##### **Week 1 - Introduction to the Course: Video Games and Narrative Cinema**
 
-- **Read** Galloway "Gamic Action, Four Moments"; Ross *Working-Class Hollywood* (selection)
+- **Read** Galloway "Gamic Action, Four Moments"
 - **Watch** *Modern Times* (1936), dir. Charlie Chaplin (excerpted)
 - **Play/VoiceThread** *Rom Check Fail*
 
@@ -41,7 +41,7 @@ syntaxHighlighter: no
 
 ##### **Week 2 - Technologies of Wonder and Dread**
 
-- **Read** Galloway, "Social Realism"; Benjamin, "The Work of Art in the Age of Mechanical Reproduction"
+- **Read** Benjamin, "The Work of Art in the Age of Mechanical Reproduction"; Ross *Working-Class Hollywood* (selection)
 - **Watch** *Metropolis* (1928), dir. Fritz Lang
 - **Voice Thread** [*Lemmings* (1991)](https://www.youtube.com/watch?v=xB94GO6KYeg)
 - **Play** *Inside* (2016)
@@ -98,7 +98,7 @@ syntaxHighlighter: no
 
 ##### **Week 10 - Narrative Flows**
 - **Read** Wark, "Fury Road: The Four Flows"
-- **Watch** *Mad Max: Fury Road* (2015), dir. George Millar 
+- **Watch** *Mad Max: Fury Road* (2015), dir. George Miller 
 - **Voice Thread** [*Rage* (2010)](https://www.youtube.com/watch?v=GcdUFAphJKc)
 - **Play** *Death Stranding* (2019)
 
