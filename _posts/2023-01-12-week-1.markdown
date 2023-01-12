@@ -14,14 +14,18 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-##### **Week 1 - Introduction to the Course: Video Games and Narrative Cinema**
+##### **Week 1 - Introduction to the Course**
 
-###### Tuesday 01/10 
+---
+
+###### Tuesday 01/10 — Video Games and Narrative Cinema
 - Overview of Course Outline; Assignments & Expectations
 - Peer Introductions
 - [**Course Syllabus PDF on Canvas**](https://uncch.instructure.com/courses/17305/files/?preview=2611189)
 
-###### Thursday 01/12
+---
+
+###### Thursday 01/12 — Grammars of Action
 
 ###### *Before Class*
 
@@ -31,5 +35,5 @@ syntaxHighlighter: no
 ###### *In Class*
 
 - **Discuss** Galloway and Chaplin
-- **Play/VoiceThread** *Rom Check Fail*
+- **Play/View** *Rom Check Fail*
 
