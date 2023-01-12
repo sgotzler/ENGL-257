@@ -42,7 +42,7 @@ syntaxHighlighter: no
 ##### **Week 2 - Technologies of Wonder and Dread**
 
 - **Read** Benjamin, "The Work of Art in the Age of Mechanical Reproduction"; Ross *Working-Class Hollywood* (selection)
-- **Watch** *Metropolis* (1928), dir. Fritz Lang
+- **Watch** *Metropolis* (1927), dir. Fritz Lang
 - **Voice Thread** [*Lemmings* (1991)](https://www.youtube.com/watch?v=xB94GO6KYeg)
 - **Play** *Inside* (2016)
 
