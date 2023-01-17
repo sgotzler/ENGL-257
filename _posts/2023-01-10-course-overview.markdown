@@ -43,7 +43,7 @@ syntaxHighlighter: no
 
 - **Read** Benjamin, "The Work of Art in the Age of Mechanical Reproduction"; Ross *Working-Class Hollywood* (selection)
 - **Watch** *Metropolis* (1927), dir. Fritz Lang
-- **Voice Thread** [*Lemmings* (1991)](https://www.youtube.com/watch?v=xB94GO6KYeg)
+- **Voice Thread** [*Lemmings* (1991)](https://uncch.instructure.com/courses/17305/assignments/182691)
 - **Play** *Inside* (2016)
 
 ##### **Week 3 - Apparatus of Exploitation and Control**
