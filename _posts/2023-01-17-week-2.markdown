@@ -35,7 +35,7 @@ syntaxHighlighter: no
 ###### Thursday 01/19 
 
 ###### *Before Class*
-- **VoiceThread** [*Lemmings* (1991)](https://uncch.instructure.com/courses/17305/assignments/182691)
+- **VoiceThread** *Lemmings* (1991) [**See assignment on Canvas**](https://uncch.instructure.com/courses/17305/assignments/182691)
 
 ###### *In Class*
 - **Discuss** *Lemmings*
