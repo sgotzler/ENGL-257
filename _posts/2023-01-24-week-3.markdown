@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Week 3 - Apparatus of Exploitation and Control"
-date:   2023-01-19 01:00:00
-date:   2023-01-19 01:00:00
+title:  "Week 3 - Apparatus of Control"
+date:   2023-01-24 01:00:00
+date:   2023-01-24 01:00:00
 excerpt: 
 categories:
 tags:

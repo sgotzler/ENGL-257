@@ -46,16 +46,16 @@ syntaxHighlighter: no
 - **Voice Thread** *Lemmings* (1991)
 - **Play** *Inside* (2016)
 
-##### **Week 3 - Apparatus of Exploitation and Control**
+##### **Week 3 - Apparatus of Control**
 - **Read** Galloway, "Allegories of Control"; Mulvey, "Visual Pleasure and the Narrative Cinema"
 - **Watch** *Videodrome* (1983), dir. David Cronenberg
-- **Voice Thread** [*Pony Island* (2016)](https://www.youtube.com/watch?v=xwZGarhGBgc)
+- **Voice Thread** *Pony Island* (2016)
 - **Play** *Inside* (2016)
 
 ##### **Week 4 - Mechanisms of Perception**
 - **Read** Galloway, "Origins of the First Person Shooter"; Beller, "Camera Obscura After All: The Racist Writing with Light"
 - **Watch** *Nope* (2022), dir. Jordan Peele
-- **Voice Thread** [*Pokemon: SNAP!* (1999)](https://www.youtube.com/watch?v=rVvqqJGEeHc)
+- **Voice Thread** *Pokémon: SNAP!* (1999)
 - **Play** *Inside* (2016)
 
 ---
