@@ -13,6 +13,10 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
+##### **Week 4 — Mechanisms of Perception**
+
+---
+
 ###### Tuesday 01/31
 
 ###### *Before Class*
