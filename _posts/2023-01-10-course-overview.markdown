@@ -89,7 +89,7 @@ syntaxHighlighter: no
 ---
 
 ##### **Week 9 - Pink Time #2 and Digital Composition Workshop** 
-- **Watch** Video Essay genre example 2 (TBD)
+- **Watch** [Ian Bryce Jones, "Special Effectivies"](http://mediacommons.org/intransition/special-effectivities?fbclid=IwAR2aBlrkkFzZAPgPf8jA3FKC-NAIRcprhQKzVYpRAbz9HLfvwq5mHWywfuA)
 - **Attend** Adobe Premier Tutorial w/ MDC Staff & Capture Card Tutorial with instructor
 
 ---
