@@ -36,7 +36,8 @@
 				<title>Video Essay Projects</title>
 				
 				
-					<description>&lt;h5 id=&quot;details-and-resources-for-video-essay-projects-coming-soon&quot;&gt;&lt;em&gt;Details and Resources for Video Essay Projects COMING SOON!&lt;/em&gt;&lt;/h5&gt;
+					<description>&lt;h3 id=&quot;video-essay-projects&quot;&gt;&lt;strong&gt;Video Essay Projects&lt;/strong&gt;&lt;/h3&gt;
+
 </description>
 				
 				<pubDate>Tue, 10 Jan 2023 02:00:00 +0000</pubDate>
@@ -74,13 +75,26 @@
 				<title>Week 3 - Apparatus of Control</title>
 				
 				
-					<description>&lt;h6 id=&quot;tuesday-0124&quot;&gt;Tuesday 01/24&lt;/h6&gt;
+					<description>&lt;h5 id=&quot;week-3---apparatus-of-control&quot;&gt;&lt;strong&gt;Week 3 - Apparatus of Control&lt;/strong&gt;&lt;/h5&gt;
 
 </description>
 				
 				<pubDate>Tue, 24 Jan 2023 01:00:00 +0000</pubDate>
 				<link>http://localhost:9001/week-3</link>
 				<guid isPermaLink="true">http://localhost:9001/week-3</guid>
+			</item>
+		
+			<item>
+				<title>Week 4 - Mechanisms of Perception</title>
+				
+				
+					<description>&lt;h5 id=&quot;week-4--mechanisms-of-perception&quot;&gt;&lt;strong&gt;Week 4 — Mechanisms of Perception&lt;/strong&gt;&lt;/h5&gt;
+
+</description>
+				
+				<pubDate>Thu, 26 Jan 2023 01:00:00 +0000</pubDate>
+				<link>http://localhost:9001/week-4</link>
+				<guid isPermaLink="true">http://localhost:9001/week-4</guid>
 			</item>
 		
 	</channel>

@@ -40,12 +40,11 @@ The foundation of everything we do in this course will be our weekly readings, f
 
 Critical and scholarly sources will be excerpted, and uploaded to Canvas. Several of these readings will be required during the first unit (weeks 1-4), but will become optional once the peer discussion facilitation begins (weeks 6-8; 10-12). That being said, students are encouraged to examine or skim optional readings at their discretion and according to their inclination, as many readings may be helpful for developing their video essays. 
 
-Each week a portion of our class time in the Game Room will be used to facilitate extended play of featured titles. To facilitate this, we will work in small groups to play, watch, and discuss these titles at the 5 gaming stations.
+Each week a portion of our class time in the Gameroom will be used to engage in extended play of featured titles. To facilitate this, we will work in small groups to play, watch, and discuss these titles at the 5 gaming stations.
 
-In addition to gameplay sessions held during class time, we will be watching nine feature length films—some exceeding 120 minutes in runtime. Students will be responsible for viewing the film for each week closely and in its entirety prior to attending class. We will also be regularly viewing video capture of gameplay footage from a variety of games (approx. 10-30min each)—to form the basis of our discussion.
-Depending on availability, I may also hold live streams on twitch during select evenings outside of class — in the event that these streaming sessions do occur they would be entirely optional, and participation or viewing of them would have no impact on a student’s grade.
+In addition to gameplay sessions held during class time, we will be watching nine feature length films—some exceeding 120 minutes in runtime. Students will be responsible for viewing the film for each week closely and in its entirety prior to attending class. We will also be regularly viewing video capture of gameplay footage from a variety of games (approx. 10-30min each)—to form the basis of our discussion. Depending on availability, I may also hold live streams on twitch during select evenings outside of class — in the event that these streaming sessions do occur they would be entirely optional, and participation or viewing of them would have no impact on a student’s grade.
 
-*Expectation and Effort*: Nevertheless, students will be expected to complete a regular weekly viewing load of anywhere between 90-150 minutes of films and gameplay capture footage. While there is no formal mechanism for a participation grade in this course, the best way to ensure that you earn a successful grade, and have the most meaningful learning experience, is to complete the weekly viewings on time and ahead of discussion. 
+*Expectation and Effort*: Students will be expected to complete a regular weekly viewing load of anywhere between 90-150 minutes of films and gameplay capture footage. While there is no formal mechanism for a participation grade in this course, the best way to ensure that you produce a successful final project, and have the most meaningful learning experience, is to complete the weekly viewings on time and ahead of discussion. 
 
 ---
 
@@ -55,7 +54,7 @@ In this course, we will be keeping play journals. These journals will be created
 
 You will typically have 1 journal entry assigned per week, and they will consist of either free-write exercises, critical reflection prompts, or comparative exercises guided by the films that we watch each week. 
 
-**NOTE:** Students will need to create a google-doc during the first week of the course and share the link with the instructor by 11:59PM ET on THU 01.19.23 (the date of the first journal reflection)—be sure to enable “suggestion” privileges.
+**NOTE:** Students will need to create a google-doc during the first week of the course and share the link with the instructor by 11:59PM ET on THU 01.19.23 (the date of the first extended play session)—be sure to enable “suggestion” privileges.
 
 *Expectations and Effort*: student effort should not exceed 30 min., but should amount to at least 15 min. per journal entry, and entries should conform to a range between 150-300 words. These journals will be assessed 3 times throughout the semester, once at the conclusion of each unit. Each journal entry will be assessed on an effort/completion basis as follows:
  
@@ -71,7 +70,7 @@ Throughout the course we will utilize a software integration in Canvas called Vo
 
 VoiceThread responses will be used to engage a wider range of video games in the class than we would otherwise be able to accomplish in-person, and they will also supplement the extended plays of our 3 select titles in the gaming room during class time.
 
-*Expectations and Effort*: Full details for VoiceThread expectations and criteria will be detailed on Canvas.
+*Expectations and Effort*: Full details for VoiceThread expectations and criteria will be detailed [**on Canvas**](https://uncch.instructure.com/courses/17305/assignments/182694).
 
 ---
 
@@ -91,7 +90,7 @@ These facilitations will be scheduled for duties corresponding to weeks 6-8 and 
 
 #### Pink Time: Self-Directed Mid-Term
 
-In this course, we will utilize a pedagogical tool called “Pink Time” – I’ll say more about this prior to our first engagement with it, but in brief, PINK TIME is a teaching strategy designed to enable self-directed activity that enhances both student engagement and learning outcomes by emphasizing autonomy, mastery, and purpose (it is an approach whose effectiveness is evidence-based, not just hooey!)— https://www.pinktime.org/ 
+In this course, we will utilize a pedagogical tool called “Pink Time” – I’ll say more about this prior to our first engagement with it, but in brief, PINK TIME is a teaching strategy designed to enable self-directed activity that enhances both student engagement and learning outcomes by emphasizing autonomy, mastery, and purpose (it is an approach whose effectiveness is evidence-based, not just hooey!)— [**Read More**](https://www.pinktime.org/) 
 
 Each time that we engage in Pink Time, students will produce a brief —and honest—reflection and assessment of their work, and assign themselves a grade. Ideally, these 3 sessions could build organically upon each other and might add up to a coherent experience – though they might diverge as well, and represent several different avenues of exploration which you tried out during the term.
 
@@ -103,21 +102,18 @@ Pink Time sessions will be held in weeks 5, 9, and 13. The Gameroom will be open
 
 #### FINAL: Video Essay Project
 
-The capstone assignment for this course will be a video essay project that we will screen together as a class at the end of the semester and publish online. These essays will showcase our various explorations of, and interventions in, the study of video games and narrative cinema. 
+The capstone assignment for this course is a video essay project that we will screen together as a class at the end of the semester. These essays will showcase our various explorations of, and interventions in, the study of video games and narrative cinema. 
 
-Students will use these video essay project to make original arguments about the interpenetrated histories, forms, and/or genres of video games and narrative cinema, by drawing on primary sources from the course syllabus and conducting secondary research on their own. In the process, we will work together to craft visual arguments about the media examined in the class.
+Students will use these video essay project to make original arguments about the interpenetrated histories, forms, and/or genres of video games and narrative cinema, by drawing on primary sources from the course syllabus and conducting secondary research on their own. In the process, we will work together to craft visual arguments about the different forms of visual culture examined in the class.
 
 Throughout the semester we will scaffold this assignment by holding additional technical instruction and tutorials, by viewing and analyzing other video essays as models, and by working in groups to provide feedback and advice on composition, editing, and revision of these projects. 
 
-*Expectation and Effort*: Students will schedule a 1-on-1 conference with their instructor during week 5 to begin brainstorming ideas for their contribution. This meeting will be followed by the submission of a brief, but formal, proposal for their video essay. These proposals should be no more than 2 pages in length and should include: 
-- (1) a description of the student’s video essay focus and topic
-- (2) a justification of the chosen focus and topic’s relevance to the course aims and content
-- (3) a preliminary outline of a plan of work w/timeline for completing the project
+*Expectation and Effort*: Students will schedule a 1-on-1 conference with their instructor during week 5 to begin brainstorming ideas for their contribution. This meeting will be followed by the submission of a brief, but formal, proposal for their video essay. Later in the semester students will engage in practical exercises to gain experience working with multimedia software, and submit a progress report containing a story-board and draft script.
  
-The finished video essays should be 10-15min in length, must utilize a minimum of 3 secondary sources drawn either from the course syllabus or independent student research, and should engage in analysis of both video games and films as primary sources.
+The finished video essays should be 5-7 min. in length, must utilize a minimum of 2 secondary sources drawn either from the course syllabus or independent student research, and should engage in analysis of both video games and films as primary sources.
 
-Instruction during weeks 5, 9, 13, and 15 will be dedicated solely to developing these video essay projects. Initial conferences will be conducted in week 5, proposals will be submitted and assessed in week 9, a progress report will be submitted in week 13, and a rough-cut during weeks 14-15. 
+Instruction during weeks 5, 9, 13, and 15 will be dedicated solely to developing these video essay projects. Initial conferences will be conducted in week 5, proposals will be submitted and assessed in advance of week 9, a progress report will be submitted in week 13, and a rough-cut during weeks 14-15. 
 
-Further details re: the video essay project will be published on the Course Website soon.
+For further details see: [**Video Essay Projects**](https://sgotzler.github.io/ENGL-257//video-essays).
 
 
