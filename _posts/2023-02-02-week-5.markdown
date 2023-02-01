@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Week 5 - Video Essays: Ideation and Planning"
+date:   2023-02-01 01:00:00
+last_modified_at:  2023-02-01 01:00:00
+excerpt: 
+categories: 
+tags: 
+image:
+  feature: week5.jpg
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+##### **Week 5 — Video Essays Phase 1: Ideation and Planning**
+
+---
+
+###### Tuesday 02/07
+
+###### *Before Conference*
+- **Read** Tynes and Viano, "A Case for Writing Visually"[**Available via *media commons***](http://mediacommons.org/intransition/2015/03/12/frames-mind)
+- **Watch** Tynes and Viano, "Frames of Mind" [**Available via *media commons***](http://mediacommons.org/intransition/2015/03/12/frames-mind)
+
+###### *In Lieu of Class*
+- **Meet** w/ Instructor for 1-on-1 conference — Access Conference Schedule [**via Canvas**](https://uncch.instructure.com/courses/17305/assignments/184200)
+
+---
+
+###### Thursday 02/09 
+
+###### *Pink Time #1*
+- [**See Canvas for Assignment Details**](https://uncch.instructure.com/courses/17305/assignments/186024)
