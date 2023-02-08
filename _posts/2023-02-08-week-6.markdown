@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "Week 6 - Histories of Violence"
+date:   2023-02-07 01:00:00
+last_modified_at:  2023-02-07 01:00:00
+excerpt: 
+categories: 
+tags: 
+image:
+  feature: week6.jpg
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+##### **Week 6 — Histories of Violence**
+
+---
+
+###### Tuesday 02/14
+
+###### **NO CLASS: Wellness Day**
+
+---
+
+###### Thursday 02/16 
+
+###### *Before Class*
+- **Watch** *Buck and the Preacher* (1972), dir. Sidney Poitier [**Available via Canvas**](https://uncch.instructure.com/courses/17305/discussion_topics/153513)
+- **VoiceThread** *Red Dead Redemption 2* (2018) [**See assignment on Canvas**](https://uncch.instructure.com/courses/17305/assignments/186783)
+
+*OPTIONAL Readings:*
+
+- Mask, "Black Masculinity on Horseback: from *Duel at Diablo* to *Buck and the Preacher*...and beyond" [**PDF on Canvas**](https://uncch.instructure.com/courses/17305/files/folder/Readings?preview=2791190); 
+
+- Bird, "The Mechanical Machinations of Manifest Destiny: Winning the West and Vanishing the Indian in *Red Dead Redemption 2*" [**PDF on Canvas**](https://uncch.instructure.com/courses/17305/files/folder/Readings?preview=2791189)
+
+###### *In-Class*
+- **Discuss** Poitier, *Red Dead Redemption 2*
+- **Facilitation** Group 1 (Ben, Maia, Connor, Zechariah)

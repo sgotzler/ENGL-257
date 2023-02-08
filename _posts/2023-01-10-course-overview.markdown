@@ -40,7 +40,6 @@ syntaxHighlighter: no
 #### Unit 1: Media Industries & Cultural Production
 
 ##### **Week 2 - Technologies of Wonder and Dread**
-
 - **Read** Benjamin, "The Work of Art in the Age of Mechanical Reproduction"; Ross *Working-Class Hollywood* (selection)
 - **Watch** *Metropolis* (1927), dir. Fritz Lang
 - **Voice Thread** *Lemmings* (1991)
@@ -69,10 +68,10 @@ syntaxHighlighter: no
 #### Unit 2: Authorship & Identity
 
 ##### **Week 6 - Histories of Violence** 
-- **Read** Bird, "Digital Dispossessions"
 - **Watch** *Buck and the Preacher* (1972), dir. Sidney Poitier
 - **Voice Thread** *Red Dead Redemption 2* (2018)
 - **Play** *Stardew Valley* (2016)
+- **Readings** Mask, "Black Masculinity on Horseback: from *Duel at Diablo* to *Buck and the Preacher*...and beyond"; Bird, "The Mechanical Machinations of Manifest Destiny: Winning the West and Vanishing the Indian in *Red Dead Redemption 2*"
 
 ##### **Week 7 - Manifest Destiny, Mediated** 
 - **Read** ["Retracing the *Oregon Trail*" William J. Bauer, Jr., Margaret Huettl, Katrina M. Phillips](https://online.ucpress.edu/ch/article-abstract/99/3/53/189887/Retracing-The-Oregon-Trail)
