@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Week 6 - Histories of Violence"
-date:   2023-02-07 01:00:00
-last_modified_at:  2023-02-07 01:00:00
+date:   2023-02-08 01:00:00
+last_modified_at:  2023-02-08 01:00:00
 excerpt: 
 categories: 
 tags: 
