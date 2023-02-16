@@ -29,7 +29,7 @@ syntaxHighlighter: no
 
 ###### *Before Class*
 - **Watch** *Ravenous* (1999), dir. Antonia Bird [**Available via Canvas**](https://uncch.instructure.com/courses/17305/discussion_topics/153513)
-- **VoiceThread** *The Oregon Trail* (1990) [**See assignment on Canvas**]()
+- **VoiceThread** *The Oregon Trail* (1990) [**See assignment on Canvas**](https://uncch.instructure.com/courses/17305/assignments/188205)
 
 *OPTIONAL Readings:*
 
