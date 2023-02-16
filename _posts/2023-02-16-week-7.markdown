@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "Week 7 - Manifest Destiny, Mediated"
+date:   2023-02-16 01:00:00
+last_modified_at:  2023-02-16 01:00:00
+excerpt: 
+categories: 
+tags: 
+image:
+  feature: week7.webp
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+##### **Week 7 — Manifest Destiny, Mediated**
+
+---
+
+###### Tuesday 02/21
+
+###### *In Class*
+- **Play** *Stardew Valley* (2016) 
+- **Preview** *The Oregon Trail*
+
+---
+
+###### Thursday 02/23
+
+###### *Before Class*
+- **Watch** *Ravenous* (1999), dir. Antonia Bird [**Available via Canvas**](https://uncch.instructure.com/courses/17305/discussion_topics/153513)
+- **VoiceThread** *The Oregon Trail* (1990) [**See assignment on Canvas**]()
+
+*OPTIONAL Readings:*
+
+- Jagoda, "*Stardew Valley* (or, Becoming an Entrepreneur of Oneself)" [**PDF on Canvas**](https://uncch.instructure.com/courses/17305/files/folder/Readings?preview=2857219);
+
+- Slater, "Who Gets to Die of Dysentary?: Ideology, Geography, and *The Oregon Trail*" [**PDF on Canvas**](https://uncch.instructure.com/courses/17305/files/folder/Readings?preview=2857220)
+
+###### *In Class*
+- **Discuss** *Stardew Valley*
+- **Discuss** Bird and *The Oregon Trail*
