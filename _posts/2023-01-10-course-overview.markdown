@@ -74,10 +74,10 @@ syntaxHighlighter: no
 - **Readings** Mask, "Black Masculinity on Horseback: from *Duel at Diablo* to *Buck and the Preacher*...and beyond"; Bird, "The Mechanical Machinations of Manifest Destiny: Winning the West and Vanishing the Indian in *Red Dead Redemption 2*"
 
 ##### **Week 7 - Manifest Destiny, Mediated** 
-- **Read** ["Retracing the *Oregon Trail*" William J. Bauer, Jr., Margaret Huettl, Katrina M. Phillips](https://online.ucpress.edu/ch/article-abstract/99/3/53/189887/Retracing-The-Oregon-Trail)
 - **Watch** *Ravenous* (1999), dir. Antonia Bird
 - **Voice Thread** *The Oregon Trail* (1985)
 - **Play** *Stardew Valley* (2016)
+- **Readings** Jagoda, "*Stardew Valley* (or, Becoming an Entrepreneur of Oneself)"; Slater, "Who Gets to Die of Dysentary?: Ideology, Geography, and *The Oregon Trail*"
 
 ##### **Week 8 - Sovereignty and Representation** 
 - **Read** Elisabeth La Pensee et al. "Towards Sovereign Games"
