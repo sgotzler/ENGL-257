@@ -80,7 +80,7 @@ syntaxHighlighter: no
 - **Readings** Jagoda, "*Stardew Valley* (or, Becoming an Entrepreneur of Oneself)"; Slater, "Who Gets to Die of Dysentary?: Ideology, Geography, and *The Oregon Trail*"
 
 ##### **Week 8 - Sovereignty and Representation** 
-- **Read** Elisabeth La Pensee et al. "Towards Sovereign Games"
+- **Read** La Pensee et al. "Towards Sovereign Games"; Bird, "Digital Dispossessions"
 - **Watch** *The Revenant* (2015), dir. Alejandro González Iñárritu
 - **Voice Thread** *Never Alone (Kisima Inŋitchuŋa)* (2014)
 - **Play** *Stardew Valley* (2016)

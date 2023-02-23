@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "Week 8 - Sovereignty and Representation"
+date:   2023-02-23 01:00:00
+last_modified_at:  2023-02-23 01:00:00
+excerpt: 
+categories: 
+tags: 
+image:
+  feature: week8.jpg
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+##### **Week 8 — Sovereignty and Representation**
+
+---
+
+###### Tuesday 02/28
+
+###### *In Class*
+- **Play** *Stardew Valley* (2016) 
+
+---
+
+###### Thursday 03/02
+
+###### *Before Class*
+- **Watch** *The Revenant* (2015), dir. Alejandro González Iñárritu [**Available via Canvas**](https://uncch.instructure.com/courses/17305/discussion_topics/153513)
+- **VoiceThread** *Never Alone (Kisima Inŋitchuŋa)* (2014) [**See assignment on Canvas**](https://uncch.instructure.com/courses/17305/assignments/189004)
+
+*OPTIONAL Readings:*
+
+- Bird, "Digital Dispossessions" [**PDF on Canvas**](https://uncch.instructure.com/courses/17305/files/folder/Readings?preview=2905193);
+
+- La Pensee et al, "Towards Sovereign Games" [**PDF on Canvas**](https://uncch.instructure.com/courses/17305/files/folder/Readings?preview=2905194)
+
+###### *In Class*
+- **Discuss** Iñárritu
+- **Discuss** La Pensee, Bird, and *Never Alone*
