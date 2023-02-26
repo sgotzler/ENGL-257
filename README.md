@@ -9,5 +9,3 @@ It was built Gotzler using the jekyll theme ['MICKEY'](https://github.com/vincen
 ## License
 
 Open sourced under the [MIT license](LICENSE.md).
-
-**Disclaimer: This Jekyll theme is not affiliated with Disney. Obviously :)**
