@@ -94,7 +94,7 @@ This instructional session will be held during the our normal class time on **Tu
 
 All students will submit a formal progress report for their video essay projects by Friday, April 14th.
 
-Proposals should be assembled as a single document (either PDF or word document) and must contain each of the following elements:
+Progress Reports should be assembled as a single document (either PDF or word document) and must contain each of the following elements:
 
 1. **Bibliography -** A complete bibliography of all works cited (primary and secondary) in the video essay, formatted according to MLA style.
 
@@ -113,7 +113,7 @@ For our scripts, we want to maximize depth over breadth. As such, analytical foc
 
 **PLEASE NOTE:** Upon review, students may be asked to hold a follow-up conference with the instructor in order to address any potential bottlenecks, or problems.
 
-Progress Reports will be submitted [**via Canvas**]()
+Progress Reports will be submitted [**via Canvas**](https://uncch.instructure.com/courses/17305/assignments/190454)
 
 
 
