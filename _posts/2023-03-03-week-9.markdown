@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Week 9 - Video Essays: Composition and Production"
+date:   2023-03-03 01:00:00
+last_modified_at:  2023-03-03 01:00:00
+excerpt: 
+categories: 
+tags: 
+image:
+  feature: week9.jpg
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+##### **Week 9 — Video Essays Phase 2: Composition and Production**
+
+---
+
+###### Tuesday 03/07
+
+###### *Before Conference*
+- **Watch** Ian Bryce Jones, "Special Effectivities" [**Available via *media commons***](http://mediacommons.org/intransition/special-effectivities)
+- **Review** "Premier Pro Quickstart Guide" [**Available via MDC**](https://guides.lib.unc.edu/ld.php?content_id=67370743)
+- **Register** for Adobe CC through ITS, and [**install** Premiere Pro](https://adobe.unc.edu) for video editing.
+
+###### *In Class*
+- **Meet** w/ MDC Specialist for Instructional Session on Adobe Premier Pro **Class held in UL 205** 
+
+---
+
+###### Thursday 03/09 
+
+###### *Pink Time #2*
+- [**See Canvas for Assignment Details**](https://uncch.instructure.com/courses/17305/assignments/190111)

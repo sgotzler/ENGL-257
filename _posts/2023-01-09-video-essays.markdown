@@ -70,3 +70,4 @@ These plans need not follow any single format, and in fact, should ideally be ta
 **PLEASE NOTE:** Upon review, students may be asked to revise and resubmit their proposals if any of these areas have not been adequately addressed.
 
 Proposals will be submitted [**via Canvas**](https://uncch.instructure.com/courses/17305/assignments/184297)
+
