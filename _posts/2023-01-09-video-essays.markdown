@@ -23,7 +23,7 @@ syntaxHighlighter: no
 ###### Throughout the semester we will scaffold this assignment by holding additional technical instruction and tutorials, by viewing and analyzing other video essays as models, and by working in groups to provide feedback and advice on composition, editing, and revision of these projects. 
 
 ###### [Phase 1: Ideation and Planning](#head1)
-###### Phase 2: Composition and Production
+###### [Phase 2: Composition and Production](#head2)
 ###### Phase 3: Editing and Revision
 
 ---
@@ -51,7 +51,7 @@ Students can schedule a conference appointment [**via Canvas**](https://uncch.in
 
 ##### **Video Essay Proposals**
 
-All students will submit a formal proposal for their portfolio projects by Friday, March 03rd.
+All students will submit a formal proposal for their video essay projects by Friday, March 03rd.
 
 Proposals should be no more than 2-3 pages in length (incl. timeline), and must address each of the following three areas:
 
@@ -70,4 +70,50 @@ These plans need not follow any single format, and in fact, should ideally be ta
 **PLEASE NOTE:** Upon review, students may be asked to revise and resubmit their proposals if any of these areas have not been adequately addressed.
 
 Proposals will be submitted [**via Canvas**](https://uncch.instructure.com/courses/17305/assignments/184297)
+
+---
+
+#### <a name="head2"></a>**Phase 2: Composition and Production**
+
+In the second phase of the project, students will attend an instructional session at the Media & Design Center at the undergraduate library to familiarize themselves with the video production and editing tools available in the Adobe software suite. Following this session at the MDC, production of the video essays will then commence in earnest. Students will begin gathering appropriate film and gameplay clips, storyboarding their essay projects, and composing a draft of their scripts. This phase will culminate in the submission of a formal progress report.
+
+##### **Instructional Session at the MDC**
+
+Students should come to this session with their laptops ready to use with appropriate software installed. Students should also feel free to bring specific questions about particular video composition techniques (e.g., textual overlay; small multiples; side-by-side; or diagrammatic overlays) that they are interested in incorporating into their video essay projects.
+
+Before attending their conference students should complete the following: 
+
+- **View** the sample video essay [“Special Effectivities” by Ian Bryce Jones](http://mediacommons.org/intransition/special-effectivities)
+- **Review** ["Premier Pro Quickstart Guide"](https://guides.lib.unc.edu/ld.php?content_id=67370743)
+
+You should leave this instructional session feeling confident to continue learning to use Adobe Premier through further experimentation and self-guided reference to MDC materials. 
+
+This instructional session will be held during the our normal class time on **Tuesday 03/07** in **UL 205**
+
+##### **Video Essay Progress Reports**
+
+All students will submit a formal progress report for their video essay projects by Friday, April 14th.
+
+Proposals should be assembled as a single document (either PDF or word document) and must contain each of the following elements:
+
+1. **Bibliography -** A complete bibliography of all works cited (primary and secondary) in the video essay, formatted according to MLA style.
+
+2. **Media Clip Library -** a link to a shared OneDrive or Google Drive folder containing all film, and gameplay clips to be used in the composition of the video essay. **(NOTE: clips should be of a sufficient cumulative length to compose a 5-7min video)**
+
+3. **Storyboard -** a storyboard file, integrating visual content blocking (media clips), chunked descriptive outline of scripted content to be recorded in voice-over, and any planned additional audio features (e.g., music, sound effects, or audio only clips from film/games). **(~1-3 pages)**
+
+4. **Draft Script —** a complete rough draft of the scripted dialogue that you will incorporate as voice-over for the essay. **(500-800 words)**
+
+For our scripts, we want to maximize depth over breadth. As such, analytical focus is paramount to crafting a effective script. The visual components of your composition should do as much or more argumentative work as your spoken words, (e.g., illustrating key concepts, demonstrating comparative frames, justifying analytical claims). In an essay of this length, scripts should strive for a synthesis of secondary texts and primary examples within the following scope.
+
+**Draft Scripts Should:**
+- identify and illustrate 1 observed pattern of textual detail and/or gamic action 
+- introduce and explain 1 insight drawn from secondary research
+- elaborate and demonstrate 1 theoretical/critical concept
+
+**PLEASE NOTE:** Upon review, students may be asked to hold a follow-up conference with the instructor in order to address any potential bottlenecks, or problems.
+
+Progress Reports will be submitted [**via Canvas**]()
+
+
 
