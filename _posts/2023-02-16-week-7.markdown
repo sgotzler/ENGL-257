@@ -31,12 +31,12 @@ syntaxHighlighter: no
 - **Watch** *Ravenous* (1999), dir. Antonia Bird [**Available via Canvas**](https://uncch.instructure.com/courses/17305/discussion_topics/153513)
 - **VoiceThread** *The Oregon Trail* (1985) [**See assignment on Canvas**](https://uncch.instructure.com/courses/17305/assignments/188205)
 
-*OPTIONAL Readings:*
+###### Readings:
 
-- Jagoda, "*Stardew Valley* (or, Becoming an Entrepreneur of Oneself)" [**PDF on Canvas**](https://uncch.instructure.com/courses/17305/files/folder/Readings?preview=2857219);
+- Patrick Jagoda, "*Stardew Valley* (or, Becoming an Entrepreneur of Oneself)" [**PDF on Canvas**](https://uncch.instructure.com/courses/17305/files/folder/Readings?preview=2857219);
 
-- Slater, "Who Gets to Die of Dysentary?: Ideology, Geography, and *The Oregon Trail*" [**PDF on Canvas**](https://uncch.instructure.com/courses/17305/files/folder/Readings?preview=2857220)
+- Katherine Slater, "Who Gets to Die of Dysentary?: Ideology, Geography, and *The Oregon Trail*" [**PDF on Canvas**](https://uncch.instructure.com/courses/17305/files/folder/Readings?preview=2857220)
 
 ###### *In Class*
 - **Discuss** Jagoda and *Stardew Valley*
-- **Discuss** Slater, Bird, and *The Oregon Trail*
+- **Discuss** Slater, Bird, *The Oregon Trail* and *When Rivers Were Trails*
