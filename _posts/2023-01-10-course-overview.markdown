@@ -96,9 +96,9 @@ syntaxHighlighter: no
 #### Unit 3: Adaptative Environments
 
 ##### **Week 10 - Narrative Flows**
-- **Read** Wark, "Fury Road: The Four Flows"
+- **Read** Wark, "Fury Road: The Four Flows": "What is 'FLOW' Theory in Game Design?"
 - **Watch** *Mad Max: Fury Road* (2015), dir. George Miller 
-- **Voice Thread** [*Rage* (2010)](https://www.youtube.com/watch?v=GcdUFAphJKc)
+- **Voice Thread** *Mad Max* (2015)
 - **Play** *Death Stranding* (2019)
 
 ##### **Week 11 - Ontological Dependencies**

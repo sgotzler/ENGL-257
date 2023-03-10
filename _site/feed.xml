@@ -144,7 +144,7 @@
 
 </description>
 				
-				<pubDate>Thu, 23 Feb 2023 01:00:00 +0000</pubDate>
+				<pubDate>Tue, 28 Feb 2023 01:00:00 +0000</pubDate>
 				<link>http://localhost:9001/week-8</link>
 				<guid isPermaLink="true">http://localhost:9001/week-8</guid>
 			</item>
@@ -157,9 +157,22 @@
 
 </description>
 				
-				<pubDate>Fri, 03 Mar 2023 01:00:00 +0000</pubDate>
+				<pubDate>Tue, 07 Mar 2023 01:00:00 +0000</pubDate>
 				<link>http://localhost:9001/week-9</link>
 				<guid isPermaLink="true">http://localhost:9001/week-9</guid>
+			</item>
+		
+			<item>
+				<title>Week 10 - Narrative Flows</title>
+				
+				
+					<description>&lt;h5 id=&quot;week-10--narrative-flows&quot;&gt;&lt;strong&gt;Week 10 — Narrative Flows&lt;/strong&gt;&lt;/h5&gt;
+
+</description>
+				
+				<pubDate>Fri, 10 Mar 2023 01:00:00 +0000</pubDate>
+				<link>http://localhost:9001/week-10</link>
+				<guid isPermaLink="true">http://localhost:9001/week-10</guid>
 			</item>
 		
 	</channel>

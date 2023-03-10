@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Week 8 - Sovereignty and Representation"
-date:   2023-02-23 01:00:00
-last_modified_at:  2023-02-23 01:00:00
+date:   2023-02-28 01:00:00
+last_modified_at:  2023-02-28 01:00:00
 excerpt: 
 categories: 
 tags: 

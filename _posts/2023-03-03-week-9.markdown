@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Week 9 - Video Essays: Composition and Production"
-date:   2023-03-03 01:00:00
-last_modified_at:  2023-03-03 01:00:00
+date:   2023-03-07 01:00:00
+last_modified_at:  2023-03-07 01:00:00
 excerpt: 
 categories: 
 tags: 
