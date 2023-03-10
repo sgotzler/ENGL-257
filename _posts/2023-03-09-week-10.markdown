@@ -33,7 +33,7 @@ syntaxHighlighter: no
 
 ###### Readings:
 
-- McKenzie Wark, "Fury Road: The Four Flows"" [**Available on Public Seminar**](https://publicseminar.org/2015/05/fury-road/);
+- McKenzie Wark, "Fury Road: The Four Flows" [**Available on Public Seminar**](https://publicseminar.org/2015/05/fury-road/);
 
 - "What is FLOW THEORY in game design? - The Basics - (Part 1)" [**Video on YouTube**](https://www.youtube.com/watch?v=3H8pQyyXxHg)
 
