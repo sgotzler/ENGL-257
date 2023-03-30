@@ -19,9 +19,9 @@ syntaxHighlighter: no
 
 ###### In this hands-on gaming course, students will decipher the narrative design of video games while exploring the legacy of cinema to gameplay. They will also apply critical gaming concepts (agency, world-building, point of view, authorship, representation, narrative choice, play) to evaluate cinema as a ludic and participatory artform beyond conventional narrative elements. 
 
-###### We will approach the intersections of video games and narrative cinema through three interconnected frameworks: production, authorship, and adaptation. First, we’ll examine games and films as the historical products of discrete media industries. We’ll look into the history of cinema and digital gaming alongside readings in media theory that will help us analyze films and video games in ways that disclose this material history through close reading. Next, we’ll introduce theories of authorship for situating visual style and narrative voice. Through an analysis of these formal features, we’ll interrogate the ways that the narratives of texts like video games and films negotiate, subvert, or reproduce, historical patterns of violence, dispossession, and power. To ground our discussions historically, we’ll examine a sequence of games and films that mediate the memory and experience of settler-colonialism in North America—considering the work of several auteur figures, both in game design and filmmaking. Finally, we’ll spend some time exploring the adaptive exchanges across these different media as features of their narrative and gameplay. Looking to select readings in critical theory, computer science, and eco-criticism we’ll conclude the course by thinking about the theory and design of interactive environments (in games, and in films) as indicative of particular strategies for rendering environmental flows, social relations, and speculative temporalities.
+###### We will approach the intersections of video games and cinema through three interconnected frameworks: narrative, re-mediation, and adaptation. First, we’ll examine games and films as the historical products of discrete media industries. We’ll look into the history of cinema and digital gaming alongside readings in media theory that will help us analyze films and video games in ways that disclose narratives of this material history through close reading. Next, we’ll interrogate the ways that the narratives of video games and films negotiate, subvert, or reproduce, historical patterns of violence, dispossession, and power. To ground our discussions historically, we’ll examine a sequence of games and films that re-mediate the memory and experience of settler-colonialism in North America. Finally, we’ll spend some time exploring the adaptive exchanges across these different media as features of their narrative form and gameplay. Looking to select readings in critical theory, computer science, and eco-criticism we’ll conclude the course by thinking about the theory and design of interactive environments (in games, and in films) as indicative of particular strategies for rendering environmental flows, social relations, and speculative temporalities.
 
-###### We will watch influential films from a variety genres and historical periods including horror, science-fiction, thrillers, and musicals drawn from across the silent era, classic Hollywood, and contemporary blockbusters. During each unit, we will also engage in critical extended play sessions of select game titles, and view and discuss gameplay footage from a host of others. Games played in the course will include *INSIDE* (2016), *Stardew Valley* (2016), and *Death Stranding* (2019). Other games to be viewed and discussed may include: *Rom Check Fail* (2008), *Lemmings* (1991), *Pony Island* (2016), *Doki Doki Literature Club* (2017), *Pokemon: SNAP!* (1999), *Red Dead Redemption 2* (2018), *The Oregon Trail* (1985), *Never Alone - Kisima Inŋitchuŋa* (2014), *Mad Max* (2015), *Cyberpunk 2077* (2020), *Dune II* (1992).
+###### We will watch influential films from a variety of genres and historical periods including horror, science-fiction, thrillers, and musicals drawn from across the silent era, classic Hollywood, and contemporary blockbusters. During each unit, we will also engage in critical extended play sessions of select game titles, and view and discuss gameplay footage from a host of others. Games played in the course will include *INSIDE* (2016), *Stardew Valley* (2016), and *Death Stranding* (2019). Other games to be viewed and discussed may include: *Rom Check Fail* (2008), *Lemmings* (1991), *Pony Island* (2016), *Doki Doki Literature Club* (2017), *Pokemon: SNAP!* (1999), *Red Dead Redemption 2* (2018), *The Oregon Trail* (1985), *Never Alone - Kisima Inŋitchuŋa* (2014), *Mad Max* (2015), *Cyberpunk 2077* (2020), *Dune II* (1992).
 
 ---
 
@@ -37,7 +37,7 @@ syntaxHighlighter: no
 
 ---
 
-#### Unit 1: Media Industries & Cultural Production
+#### Unit 1: Narratives of Technology
 
 ##### **Week 2 - Technologies of Wonder and Dread**
 - **Read** Benjamin, "The Work of Art in the Age of Mechanical Reproduction"; Ross *Working-Class Hollywood* (selection)
@@ -65,7 +65,7 @@ syntaxHighlighter: no
 
 ---
 
-#### Unit 2: Authorship & Identity
+#### Unit 2: Historical Re-Mediations
 
 ##### **Week 6 - Histories of Violence** 
 - **Watch** *Buck and the Preacher* (1972), dir. Sidney Poitier
@@ -96,19 +96,19 @@ syntaxHighlighter: no
 #### Unit 3: Adaptative Environments
 
 ##### **Week 10 - Narrative Flows**
-- **Read** Wark, "Fury Road: The Four Flows": "What is 'FLOW' Theory in Game Design?"
+- **Read** Wark, "Fury Road: The Four Flows";"What is 'FLOW' Theory in Game Design?"
 - **Watch** *Mad Max: Fury Road* (2015), dir. George Miller 
 - **Voice Thread** *Mad Max* (2015)
 - **Play** *Death Stranding* (2019)
 
 ##### **Week 11 - Ontological Dependencies**
-- **Read** Haendler & Neumann, "Ontology-based Analysis of Game Designs for Software Refactoring"
+- **Read** Vint, "Vitality and reproduction in *Blade Runner 2049*"; "Dependency Inversion Principle for Software Development"
 - **Watch** *Blade Runner 2049* (2017), dir. Denis Villeneuve
 - **Voice Thread** *Cyberpunk 2077* (2020)
 - **Play** *Death Stranding* (2019)
 
-##### **Week 12 - Temporal Extractions**
-- **Read** Fent & Kojola, "Political Ecologies of Time and Temporality in Resource Extraction"
+##### **Week 12 - Extractive Loops**
+- **Read** Fent & Kojola, "Political Ecologies of Time and Temporality in Resource Extraction"; "What are Loops in Game Design?"
 - **Watch** *Dune* (2021), dir. Denis Villeneuve
 - **Voice Thread** [*Dune II* (1992)](https://www.youtube.com/watch?v=gOscXf0Fpmk)
 - **Play** *Death Stranding* (2019)
