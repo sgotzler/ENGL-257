@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "Week 12 - Extractive Loops"
+date:   2023-03-23 01:00:00
+last_modified_at:  2023-03-23 01:00:00
+excerpt: 
+categories: 
+tags: 
+image:
+  feature: week12.jpg
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+##### **Week 12 — Extractive Loops**
+
+---
+
+###### Tuesday 04/04
+
+###### *Before Class*
+- **Watch** *Dune: Part One* (2021), dir. Denis Villeneuve [**Available via Canvas**](https://uncch.instructure.com/courses/17305/discussion_topics/153513)
+- **VoiceThread** *Dune II* (1992) [**See assignment on Canvas**](https://uncch.instructure.com/courses/17305/assignments/194382)
+
+###### Readings:
+
+- Ashley Fint and Erik Kojola, "Political Ecologies of Time and Temporality in Resource Extraction" [**Available on Canvas**](https://uncch.instructure.com/courses/17305/files/folder/Readings?preview=3203875);
+
+- "What are Loops in Game Design?" [**Video on YouTube**](https://www.youtube.com/watch?v=PMj8Q4ViKzs)
+
+###### *In Class*
+- **Facilitation** Group 6 (Josh, Morgan, Sebastian) 
+- **Discuss** Villeneuve, *Dune II* and *Death Stranding*
+
+---
+
+###### Thursday 04/06
+
+###### **NO CLASS: Wellness Day**
