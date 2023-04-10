@@ -19,7 +19,7 @@ syntaxHighlighter: no
 
 ###### Tuesday 03/07
 
-###### *Before Conference*
+###### *Before Class*
 - **Watch** Ian Bryce Jones, "Special Effectivities" [**Available via *media commons***](http://mediacommons.org/intransition/special-effectivities)
 - **Review** "Premier Pro Quickstart Guide" [**Available via MDC**](https://guides.lib.unc.edu/ld.php?content_id=67370743)
 - **Register** for Adobe CC through ITS, and [**install** Premiere Pro](https://adobe.unc.edu) for video editing.
