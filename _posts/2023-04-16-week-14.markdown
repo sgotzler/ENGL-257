@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Week 14 - Video Essays: Editing and Revision"
-date:   2023-04-10 01:00:00
-last_modified_at:  2023-04-10 01:00:00
+date:   2023-04-16 01:00:00
+last_modified_at:  2023-04-16 01:00:00
 excerpt: 
 categories: 
 tags: 
@@ -17,7 +17,7 @@ syntaxHighlighter: no
 
 ---
 
-###### Tuesday 04/11
+###### Tuesday 04/18
 
 ###### *In Class*
 - **Discuss** Voice Over Recording Logistics
@@ -26,7 +26,7 @@ syntaxHighlighter: no
 
 ---
 
-###### Thursday 04/13 
+###### Thursday 04/20 
 
 ###### *Before Class*
 - **Read** Galloway, "Countergaming" [**Available via Canvas**](https://uncch.instructure.com/courses/17305/files/folder/Readings?preview=3338966)
