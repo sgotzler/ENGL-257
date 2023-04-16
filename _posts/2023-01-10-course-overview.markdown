@@ -121,15 +121,17 @@ syntaxHighlighter: no
 
 ---
 
-##### **Week 14 - Conclusion to the Course**
+##### **Week 14 - Project Revisions and Editing Workshop**
+- **Attend** Rough Cut Assembly Workshop
 - **Review** Instructor Feedback on Progress Report 
 - **Read** Galloway, "Countergaming"
 
 ---
 
-##### **Week 15 - Project Revisions and Editing Workshop**
+##### **Week 15 - Conclusion to the Course**
 - **Submit** Video Essay ROUGH Cut
 - **Attend** Editing Workshop in GL Gameroom
+- **Complete** Course Evaluations and Feedback Survey
 
 ---
 

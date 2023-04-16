@@ -24,7 +24,7 @@ syntaxHighlighter: no
 
 ###### [Phase 1: Ideation and Planning](#head1)
 ###### [Phase 2: Composition and Production](#head2)
-###### Phase 3: Editing and Revision
+###### [Phase 3: Editing and Revision](#head3)
 
 ---
 
@@ -114,6 +114,53 @@ For our scripts, we want to maximize depth over breadth. As such, analytical foc
 **PLEASE NOTE:** Upon review, students may be asked to hold a follow-up conference with the instructor in order to address any potential bottlenecks, or problems.
 
 Progress Reports will be submitted [**via Canvas**](https://uncch.instructure.com/courses/17305/assignments/190454)
+
+---
+
+#### <a name="head3"></a>**Phase 3: Editing and Revision**
+
+In the final phase of the project, students will assemble a rough cut of their video essay projects, offer constructive feedback to each other through peer review, and engage in iterative composition practices to refine and revise their video essays prior to submission. These activites will be conducted through a series of in-class workshops during weeks 14 and 15.
+
+##### **Rough Cut Assembly Workshop**
+
+Our first editing workshop will take place on Tuesday, April 18th. Students should come to this session with their laptops ready to use with appropriate software installed. In-class, students will begin working towards a complete rough cut assembly of their video essay projects. 
+
+**In this session students will:**
+- discuss voice over recording logistics, and make plans for recording.
+- re-visit and expand work timelines from proposal for final phase.
+- begin assembling the rough cut of their video essay.
+
+
+**By the end of this session students should have:**
+- created a new Premier Pro Project for their video essays.
+- imported their media library into Premier.
+- completed editorial assembly of at least 1 section of the essay (i.e., rough cutting and timing of 90-120 sec.).
+
+There will also be time during this session to review instructor feedback on the progress reports, and schedule time for follow-ups during office hours.
+
+A complete assembled rough cut is due by 12:00PM on Tuesday, April 25th.
+
+Rough Cuts will be submitted [**via Canvas**](https://uncch.instructure.com/courses/17305/assignments/197245)
+
+##### **Rough Cut Editing Workshop**
+
+Our second editing workshop will take place on Tuesday, April 25th. Students should come to this session with their complete rough cuts assembled and submitted via canvas. In-class, students will work in small groups to view eachother's essays and offer peer review feedback for revision and further editing.  
+
+**In this session students will:**
+- share progress with their peers, and view peer rough cuts.
+- generate insights, both practical and critical, for making iterative editorial changes.
+- collaboratively plan a timeline for revision and final submission.
+
+**By the end of this session students should have:**
+- viewed and offered critical feedback on at least 3 other video essays by their peers.
+- recieved critical feedback on their video essay rough cuts from at least 3 of their peers.
+- generated a revision plan outlining specific edits and change notes for final cuts.
+
+There will also be time during this session to schedule time for instructor follow-up during office hours.
+
+A complete revised final cut is due by 11:59PM on Tuesday, May 2nd.
+
+Final Cuts will be submitted [**via Canvas**](https://uncch.instructure.com/courses/17305/assignments/197247)
 
 
 

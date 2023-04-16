@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Week 14 - Video Essays: Editing and Revision"
+date:   2023-04-10 01:00:00
+last_modified_at:  2023-04-10 01:00:00
+excerpt: 
+categories: 
+tags: 
+image:
+  feature: week14.webp
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+##### **Week 14 — Video Essays Phase 3: Editing and Revision**
+
+---
+
+###### Tuesday 04/11
+
+###### *In Class*
+- **Discuss** Voice Over Recording Logistics
+- **Conduct** Rough Cut Assembly Workshop
+- **Review** Instructor Feedback on Progress Reports
+
+---
+
+###### Thursday 04/13 
+
+###### *Before Class*
+- **Read** Galloway, "Countergaming" [**Available via Canvas**](https://uncch.instructure.com/courses/17305/files/folder/Readings?preview=3338966)
+
+###### *In Class*
+- **Discuss** Galloway
+- **Conduct** Video Essay Check-In 
+
+###### *Rough Cut DUE - Tuesday 04/25*
+- [**See Canvas for Assignment Details**](https://uncch.instructure.com/courses/17305/assignments/197245)
