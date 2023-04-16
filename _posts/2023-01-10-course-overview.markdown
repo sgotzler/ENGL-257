@@ -111,25 +111,24 @@ syntaxHighlighter: no
 - **Read** Fent & Kojola, "Political Ecologies of Time and Temporality in Resource Extraction"; "What are Loops in Game Design?"
 - **Watch** *Dune* (2021), dir. Denis Villeneuve
 - **Voice Thread** [*Dune II* (1992)](https://www.youtube.com/watch?v=gOscXf0Fpmk)
-- **Play** *Death Stranding* (2019)
 
 ---
 
 ##### **Week 13 - Pink Time #3 and Project Progress Report** 
+- **Play** *Death Stranding* (2019)
 - **Watch** Video Essay genre sample 3 (TBD)
 - **Submit** project progress report for feedback / check-in
 
 ---
 
 ##### **Week 14 - Conclusion to the Course**
+- **Review** Instructor Feedback on Progress Report 
 - **Read** Galloway, "Countergaming"
-- **Play** *Death Stranding* (2019)
-- **Submit** Video Essay ROUGH Cut
 
 ---
 
 ##### **Week 15 - Project Revisions and Editing Workshop**
-- **Review** Instructor Feedback on Progress Report 
+- **Submit** Video Essay ROUGH Cut
 - **Attend** Editing Workshop in GL Gameroom
 
 ---
