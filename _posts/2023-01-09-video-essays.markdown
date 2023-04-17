@@ -123,7 +123,7 @@ In the final phase of the project, students will assemble a rough cut of their v
 
 ##### **Rough Cut Assembly Workshop**
 
-Our first editing workshop will take place on Tuesday, April 18th. Students should come to this session with their laptops ready to use with appropriate software installed. In-class, students will begin working towards a complete rough cut assembly of their video essay projects. 
+Our first editing workshop will take place on Tuesday, April 18th. Students should come to this session with their laptops ready to use with appropriate software installed. In class, students will begin working towards a complete rough cut assembly of their video essay projects. 
 
 **In this session students will:**
 - discuss voice over recording logistics, and make plans for recording.
@@ -144,7 +144,7 @@ Rough Cuts will be submitted [**via Canvas**](https://uncch.instructure.com/cour
 
 ##### **Rough Cut Editing Workshop**
 
-Our second editing workshop will take place on Tuesday, April 25th. Students should come to this session with their complete rough cuts assembled and submitted via canvas. In-class, students will work in small groups to view eachother's essays and offer peer review feedback for revision and further editing.  
+Our second editing workshop will take place on Tuesday, April 25th. Students should come to this session with their complete rough cuts assembled and submitted via canvas. In class, students will work in small groups to view each other's essays and offer peer review feedback for revision and further editing.  
 
 **In this session students will:**
 - share progress with their peers, and view peer rough cuts.
