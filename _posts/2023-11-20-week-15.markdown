@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Week 15 - Conclusion to the Course"
-date:   2023-04-19 01:00:00
-last_modified_at:  2023-04-19 01:00:00
+title:  "Week 15 - Video Essays: Editing and Assembly"
+date:   2023-11-20 01:00:00
+last_modified_at:  2023-11-20 01:00:00
 excerpt: 
 categories: 
 tags: 
@@ -13,7 +13,7 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-##### **Week 15 — Conclusion to the Course**
+##### **Week 15 — Video Essays: Editing and Assembly**
 
 ---
 

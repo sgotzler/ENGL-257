@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Week 10 - Narrative Flows"
-date:   2023-03-21 01:00:00
-last_modified_at:  2023-03-21 01:00:00
+title:  "Week 10 - Adaptive Exchanges"
+date:   2023-10-20 01:00:00
+last_modified_at:  2023-10-20 01:00:00
 excerpt: 
 categories: 
 tags: 
@@ -13,7 +13,7 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-##### **Week 10 — Narrative Flows**
+##### **Week 10 — Adaptive Exchange**
 
 ---
 

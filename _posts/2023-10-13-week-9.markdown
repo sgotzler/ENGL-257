@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Week 9 - Video Essays: Composition and Production"
-date:   2023-03-07 01:00:00
-last_modified_at:  2023-03-07 01:00:00
+title:  "Week 9 - Unsettling the Remediations of Colonialism"
+date:   2023-10-13 01:00:00
+last_modified_at:  2023-10-13 01:00:00
 excerpt: 
 categories: 
 tags: 
@@ -13,7 +13,7 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-##### **Week 9 — Video Essays Phase 2: Composition and Production**
+##### **Week 9 — Unsettling the Re-Mediations of Colonialism**
 
 ---
 

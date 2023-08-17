@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Week 14 - Video Essays: Editing and Revision"
-date:   2023-04-16 01:00:00
-last_modified_at:  2023-04-16 01:00:00
+title:  "Week 14 - Holiday Break"
+date:   2023-11-17 01:00:00
+last_modified_at:  2023-11-17 01:00:00
 excerpt: 
 categories: 
 tags: 
@@ -13,7 +13,7 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-##### **Week 14 — Video Essays Phase 3: Editing and Revision**
+##### **Week 14 — Holiday Break**
 
 ---
 

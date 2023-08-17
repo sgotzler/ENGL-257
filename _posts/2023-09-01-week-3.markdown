@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Week 3 - Apparatus of Control"
+date:   2023-09-01 01:00:00
+date:   2023-09-01 01:00:00
+excerpt: 
+categories:
+tags:
+image:
+  feature: week3.jpg
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+##### **Week 3 - Apparatus of Control**
+
+---
+
+###### Monday 09/04 - LABOR DAY - NO CLASS
+
+---
+
+###### Wednesday 09/06 - *Videodrome* and allegories of postmodern control
+
+- **Watch** *Videodrome* (1983), dir. David Cronenberg; *Perfect Vermin* (2020); *Pony Island* (2016) [**Available via Canvas**](https://uncch.instructure.com/courses/33866/discussion_topics/230654)
+- **Read** Galloway, "Allegories of Control" [**PDF on Canvas**](https://uncch.instructure.com/courses/33866/files/folder/Readings?preview=4600654)
+
+---
+
+###### Friday 09/10 - Section: Critical Play Session
+- **Play** *INSIDE* (2016) 

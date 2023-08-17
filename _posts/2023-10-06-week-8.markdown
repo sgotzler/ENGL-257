@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Week 8 - Sovereignty and Representation"
-date:   2023-02-28 01:00:00
-last_modified_at:  2023-02-28 01:00:00
+title:  "Week 8 - Digital Dispossessions of Manifest Destiny"
+date:   2023-10-06 01:00:00
+last_modified_at:  2023-10-06 01:00:00
 excerpt: 
 categories: 
 tags: 
@@ -13,7 +13,7 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-##### **Week 8 — Sovereignty and Representation**
+##### **Week 8 — Digital Dispossessions of Manifest Destiny**
 
 ---
 

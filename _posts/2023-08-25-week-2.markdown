@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Week 2 - Machines of Wonder"
+date:   2023-08-25 01:00:00
+date:   2023-08-25 01:00:00
+excerpt: 
+categories:
+tags:
+image:
+  feature: week2.jpg
+  topPosition: -100px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+##### **Week 2 - Machines of Wonder**
+
+---
+
+###### Monday 08/28 - Close Reading + Critical Play 
+- **Discuss** Close Reading Practices and Play Journal Assignments
+
+---
+
+###### Wednesday 08/30 - *Metropolis* and lemmings modernism
+- **Watch** *Metropolis* (1927), dir. Fritz Lang [**Available on YouTube**](https://www.youtube.com/watch?v=2i_31SFY34g); *Lemmings* (1991)
+- **Read** Benjamin, "The Work of Art in The Age of Mechanical Reproduction" [**PDF on Canvas**](https://uncch.instructure.com/courses/33866/files/folder/Readings?preview=4600647)
+
+---
+
+###### Friday 09/01 - Section: Critical Play Session 
+- **Play** *INSIDE* (2016) 
+

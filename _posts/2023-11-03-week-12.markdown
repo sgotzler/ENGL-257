@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Week 12 - Extractive Loops"
-date:   2023-04-04 01:00:00
-last_modified_at:  2023-04-04 01:00:00
+title:  "Week 12 - Ontological Dependencies"
+date:   2023-11-03 01:00:00
+last_modified_at:  2023-11-03 01:00:00
 excerpt: 
 categories: 
 tags: 
@@ -13,7 +13,7 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-##### **Week 12 — Extractive Loops**
+##### **Week 12 — Ontological Dependencies**
 
 ---
 
