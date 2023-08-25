@@ -58,5 +58,18 @@
 				<guid isPermaLink="true">http://localhost:9001/week-1</guid>
 			</item>
 		
+			<item>
+				<title>Week 2 - Machines of Wonder</title>
+				
+				
+					<description>&lt;h5 id=&quot;week-2---machines-of-wonder&quot;&gt;&lt;strong&gt;Week 2 - Machines of Wonder&lt;/strong&gt;&lt;/h5&gt;
+
+</description>
+				
+				<pubDate>Fri, 25 Aug 2023 01:00:00 +0000</pubDate>
+				<link>http://localhost:9001/week-2</link>
+				<guid isPermaLink="true">http://localhost:9001/week-2</guid>
+			</item>
+		
 	</channel>
 </rss>
