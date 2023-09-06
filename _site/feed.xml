@@ -59,16 +59,29 @@
 			</item>
 		
 			<item>
-				<title>Week 2 - Machines of Wonder</title>
+				<title>Week 3 - Machines of Wonder</title>
 				
 				
-					<description>&lt;h5 id=&quot;week-2---machines-of-wonder&quot;&gt;&lt;strong&gt;Week 2 - Machines of Wonder&lt;/strong&gt;&lt;/h5&gt;
+					<description>&lt;h5 id=&quot;week-3---machines-of-wonder&quot;&gt;&lt;strong&gt;Week 3 - Machines of Wonder&lt;/strong&gt;&lt;/h5&gt;
 
 </description>
 				
 				<pubDate>Fri, 25 Aug 2023 01:00:00 +0000</pubDate>
-				<link>http://localhost:9001/week-2</link>
-				<guid isPermaLink="true">http://localhost:9001/week-2</guid>
+				<link>http://localhost:9001/week-3</link>
+				<guid isPermaLink="true">http://localhost:9001/week-3</guid>
+			</item>
+		
+			<item>
+				<title>Week 4 - Apparatus of Control</title>
+				
+				
+					<description>&lt;h5 id=&quot;week-4---apparatus-of-control&quot;&gt;&lt;strong&gt;Week 4 - Apparatus of Control&lt;/strong&gt;&lt;/h5&gt;
+
+</description>
+				
+				<pubDate>Fri, 01 Sep 2023 01:00:00 +0000</pubDate>
+				<link>http://localhost:9001/week-4</link>
+				<guid isPermaLink="true">http://localhost:9001/week-4</guid>
 			</item>
 		
 	</channel>

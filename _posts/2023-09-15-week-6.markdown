@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 5 - Video Essay Projects: Ideation and Modeling"
+title:  "Week 6 - Video Essay Projects: Ideation and Modeling"
 date:   2023-09-15 01:00:00
 last_modified_at:  2023-09-15 01:00:00
 excerpt: 
@@ -13,7 +13,7 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-##### **Week 5 — Video Essays Phase 1: Ideation and Planning**
+##### **Week 6 — Video Essays Phase 1: Ideation and Planning**
 
 ---
 

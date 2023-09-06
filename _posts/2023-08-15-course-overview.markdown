@@ -37,48 +37,47 @@ syntaxHighlighter: no
 - **Read** Galloway "Gamic Action, Four Moments"
 - **Play** TBD by TA
 
-##### **Week 2 - Machines of Wonder**
+##### **Week 3 - Machines of Wonder**
 - **Watch** *Metropolis* (1927), dir. Fritz Lang; *Lemmings* (1991)
 - **Read** Benjamin, "The Work of Art in the Age of Mechanical Reproduction"
 - **Play** *Inside* (2016)
 
-##### **Week 3 - Apparatus of Control**
+##### **Week 4 - Apparatus of Control**
 - **Watch** *Videodrome* (1983), dir. David Cronenberg; *Perfect Vermin* (2020); *Pony Island* (2016)*Pony Island* (2016)
 - **Read** Galloway, "Allegories of Control"
 - **Play** *Inside* (2016)
 
-##### **Week 4 - Mechanisms of Perception**
+##### **Week 5 - Mechanisms of Perception**
 - **Watch** *Nope* (2022), dir. Jordan Peele; *Pokémon: SNAP!* (1999)
 - **Read** Beller, "Camera Obscura After All: The Racist Writing with Light"
 - **Play** *Inside* (2016)
-
-##### **Week 5 - Video Essays: Ideation and Modeling**
-- **Watch** [Tynes and Viano "Frames of Mind" from *In Transition*](http://mediacommons.org/intransition/2015/03/12/frames-mind); [Ian Bryce Jones, "Special Effectivies"](http://mediacommons.org/intransition/special-effectivities?fbclid=IwAR2aBlrkkFzZAPgPf8jA3FKC-NAIRcprhQKzVYpRAbz9HLfvwq5mHWywfuA); [Rick Warner, "Tarkovsky/This Side of the Screen"](https://vimeo.com/205626288); [Ben van Welzen "Avatar in the Machine: The Fracture of Avatarial Identity in *SUPERHOT*"](https://uncch.instructure.com/courses/33866/discussion_topics/230654) 
 
 ---
 
 #### Unit 2
 
 ---
-##### **Week 6 - Historical Re-Mediations**
-- **Watch** *Oklahoma!* (1955), dir. Fred Zinnerman (excerpted); *Stardew Valley* (2016)
-- **Read** Galloway, "Origins of the First Person Shooter"
+##### **Week 6 - Video Essays: Ideation and Genre Modeling**
+- **Watch** [Tynes and Viano "Frames of Mind" from *In Transition*](http://mediacommons.org/intransition/2015/03/12/frames-mind); [Ian Bryce Jones, "Special Effectivies"](http://mediacommons.org/intransition/special-effectivities?fbclid=IwAR2aBlrkkFzZAPgPf8jA3FKC-NAIRcprhQKzVYpRAbz9HLfvwq5mHWywfuA); [Rick Warner, "Tarkovsky/This Side of the Screen"](https://vimeo.com/205626288); [Ben van Welzen "Avatar in the Machine: The Fracture of Avatarial Identity in *SUPERHOT*"](https://uncch.instructure.com/courses/33866/discussion_topics/230654) 
 - **Play** *Red Dead Redemption 2* (2018)
 
-##### **Week 7 - Colonial Play and Western Cinema** 
+##### **Week 7 - Historical Re-Mediations: Colonial Play and Western Cinema** 
 - **Watch** *Buck and the Preacher* (1972), dir. Sidney Poitier
-- **Read** Bird, "Digital Dispossessions" 
+- **Read** Galloway, "Origins of the First Person Shooter"; Bird, "Digital Dispossessions" 
 - **Play** *The Oregon Trail* (1985); *When Rivers Were Trails* (2019)
+
 
 ##### **Week 8 - Digital Dispossessions of Manifest Destiny** 
 - **Watch** *Ravenous* (1999), dir. Antonia Bird
 - **Read** Slater, "Who Gets to Die of Dysentery? Ideology, Geography, and *The Oregon Trail*”
 - **Play** *Never Alone (Kisima Inŋitchuŋa)* (2014)
 
+
 ##### **Week 9 - Unsettling the Re-Mediations of Colonialism** 
 - **Watch** *The Revenant* (2015), dir. Alejandro González Iñárritu
 - **Read** La Pensée et al. "Towards Sovereign Games"; Bird, "Digital Dispossessions"
 - **Play** N/A
+
 
 ---
 
