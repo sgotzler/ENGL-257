@@ -21,7 +21,7 @@ syntaxHighlighter: no
 ###### Monday 08/21 — Introduction to the Course
 - Overview of Course; Assignments & Expectations
 - Instructor & TA Introductions
-- [**Course Syllabus on Canvas**](https://uncch.instructure.com/courses/33866/files?preview=4708036)
+- [**Course Syllabus on Canvas**](https://uncch.instructure.com/courses/33866/files?preview=4882941)
 
 ---
 
