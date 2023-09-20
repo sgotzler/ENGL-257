@@ -63,7 +63,7 @@ syntaxHighlighter: no
 
 ##### **Week 7 - Historical Re-Mediations: Colonial Play and Western Cinema** 
 - **Watch** *Buck and the Preacher* (1972), dir. Sidney Poitier
-- **Read** Galloway, "Origins of the First Person Shooter"; Bird, "Digital Dispossessions" 
+- **Read** Bird, "Digital Dispossessions" 
 - **Play** *The Oregon Trail* (1985); *When Rivers Were Trails* (2019)
 
 
@@ -75,7 +75,7 @@ syntaxHighlighter: no
 
 ##### **Week 9 - Unsettling the Re-Mediations of Colonialism** 
 - **Watch** *The Revenant* (2015), dir. Alejandro González Iñárritu
-- **Read** La Pensée et al. "Towards Sovereign Games"; Bird, "Digital Dispossessions"
+- **Read** La Pensée et al. "Towards Sovereign Games"
 - **Play** N/A
 
 
@@ -101,7 +101,6 @@ syntaxHighlighter: no
 - **Play** *Death Stranding* (2019)
 
 ##### **Week 13 - Extractive Loops**
-
 - **Watch** *Dune* (2021), dir. Denis Villeneuve;[*Dune II* (1992)](https://www.youtube.com/watch?v=gOscXf0Fpmk)
 - **Read** Fent & Kojola, "Political Ecologies of Time and Temporality in Resource Extraction"; "What are Loops in Game Design?"
 - **Play** *Death Stranding* (2019)
