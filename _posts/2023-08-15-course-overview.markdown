@@ -63,13 +63,13 @@ syntaxHighlighter: no
 
 ##### **Week 7 - Historical Re-Mediations: Colonial Play and Western Cinema** 
 - **Watch** *Buck and the Preacher* (1972), dir. Sidney Poitier
-- **Read** Bird, "Digital Dispossessions" 
+- **Read** Bird, "The Mechanical Machinations of Manifest Destiny: Winning the West and Vanishing the Indian in *Red Dead Redemption 2*"
 - **Play** *The Oregon Trail* (1985); *When Rivers Were Trails* (2019)
 
 
 ##### **Week 8 - Digital Dispossessions of Manifest Destiny** 
 - **Watch** *Ravenous* (1999), dir. Antonia Bird
-- **Read** Slater, "Who Gets to Die of Dysentery? Ideology, Geography, and *The Oregon Trail*”
+- **Read** Slater, "Who Gets to Die of Dysentery? Ideology, Geography, and *The Oregon Trail*”; Bird, "Digital Dispossessions" 
 - **Play** *Never Alone (Kisima Inŋitchuŋa)* (2014)
 
 

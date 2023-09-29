@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Week 8 - Digital Dispossessions of Manifest Destiny"
+title:  "Week 8 - Manifest Destiny"
 date:   2023-10-06 01:00:00
 last_modified_at:  2023-10-06 01:00:00
 excerpt: 
 categories: 
 tags: 
 image:
-  feature: week8.jpg
+  feature: week7.webp
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
@@ -17,26 +17,26 @@ syntaxHighlighter: no
 
 ---
 
-###### Tuesday 02/28
+###### Tuesday 02/21
 
 ###### *In Class*
 - **Play** *Stardew Valley* (2016) 
+- **Preview** *The Oregon Trail* (1985)
 
 ---
 
-###### Thursday 03/02
+###### Thursday 02/23
 
 ###### *Before Class*
-- **Watch** *The Revenant* (2015), dir. Alejandro González Iñárritu [**Available via Canvas**](https://uncch.instructure.com/courses/17305/discussion_topics/153513)
-- **VoiceThread** *Never Alone (Kisima Inŋitchuŋa)* (2014) [**See assignment on Canvas**](https://uncch.instructure.com/courses/17305/assignments/189004)
+- **Watch** *Ravenous* (1999), dir. Antonia Bird [**Available via Canvas**](https://uncch.instructure.com/courses/17305/discussion_topics/153513)
+- **VoiceThread** *The Oregon Trail* (1985) [**See assignment on Canvas**](https://uncch.instructure.com/courses/17305/assignments/188205)
 
 ###### Readings:
 
-- Bird, "Digital Dispossessions" [**PDF on Canvas**](https://uncch.instructure.com/courses/17305/files/folder/Readings?preview=2905193);
+- Patrick Jagoda, "*Stardew Valley* (or, Becoming an Entrepreneur of Oneself)" [**PDF on Canvas**](https://uncch.instructure.com/courses/17305/files/folder/Readings?preview=2857219);
 
-- La Pensée et al, "Towards Sovereign Games" [**PDF on Canvas**](https://uncch.instructure.com/courses/17305/files/folder/Readings?preview=2905194)
+- Katherine Slater, "Who Gets to Die of Dysentary?: Ideology, Geography, and *The Oregon Trail*" [**PDF on Canvas**](https://uncch.instructure.com/courses/17305/files/folder/Readings?preview=2857220)
 
 ###### *In Class*
-- **Discuss** Iñárritu
-- **Play** *Never Alone*
-- **Discuss** La Pensée, Bird, and *Never Alone*
+- **Discuss** Jagoda and *Stardew Valley*
+- **Discuss** Slater, Bird, *The Oregon Trail* and *When Rivers Were Trails*
