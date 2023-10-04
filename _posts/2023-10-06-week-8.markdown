@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Week 8 - Manifest Destiny"
-date:   2023-10-06 01:00:00
-last_modified_at:  2023-10-06 01:00:00
+title:  "Week 8 - Digital Dispossessions of Manifest Destiny"
+date:   2023-10-04 01:00:00
+last_modified_at:  2023-10-04 01:00:00
 excerpt: 
 categories: 
 tags: 
@@ -17,26 +17,21 @@ syntaxHighlighter: no
 
 ---
 
-###### Tuesday 02/21
+###### Monday 10/09 - *The Oregon Trail* and *When Rivers Were Trails* Discussion: Digital Dispossessions
 
-###### *In Class*
-- **Play** *Stardew Valley* (2016) 
-- **Preview** *The Oregon Trail* (1985)
+- **Read** Bird, "Digital Dispossessions" [**PDF on Canvas**](https://uncch.instructure.com/courses/33866/files/folder/Readings?preview=4600659); Katherine Slater, "Who Gets to Die of Dysentary?: Ideology, Geography, and *The Oregon Trail*" [**PDF on Canvas**](https://uncch.instructure.com/courses/33866/files/folder/Readings?preview=4600661)
 
 ---
 
-###### Thursday 02/23
+###### Wednesday 10/11 - *Ravenous* - Manifest Destiny, Mediated
 
-###### *Before Class*
-- **Watch** *Ravenous* (1999), dir. Antonia Bird [**Available via Canvas**](https://uncch.instructure.com/courses/17305/discussion_topics/153513)
-- **VoiceThread** *The Oregon Trail* (1985) [**See assignment on Canvas**](https://uncch.instructure.com/courses/17305/assignments/188205)
+- **Watch** *Ravenous* (1999), dir. Antonia Bird [**Available via Canvas**](https://uncch.instructure.com/courses/33866/discussion_topics/230654)
 
-###### Readings:
+---
 
-- Patrick Jagoda, "*Stardew Valley* (or, Becoming an Entrepreneur of Oneself)" [**PDF on Canvas**](https://uncch.instructure.com/courses/17305/files/folder/Readings?preview=2857219);
+###### Friday 10/13 - Critical Play Session
 
-- Katherine Slater, "Who Gets to Die of Dysentary?: Ideology, Geography, and *The Oregon Trail*" [**PDF on Canvas**](https://uncch.instructure.com/courses/17305/files/folder/Readings?preview=2857220)
+- **Play** *Never Alone (Kisima Inŋitchuŋa)* (2014) 
 
-###### *In Class*
-- **Discuss** Jagoda and *Stardew Valley*
-- **Discuss** Slater, Bird, *The Oregon Trail* and *When Rivers Were Trails*
+
+
