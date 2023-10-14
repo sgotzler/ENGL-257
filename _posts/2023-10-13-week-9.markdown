@@ -7,7 +7,7 @@ excerpt:
 categories: 
 tags: 
 image:
-  feature: week9.jpg
+  feature: week8.jpg
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
@@ -17,24 +17,19 @@ syntaxHighlighter: no
 
 ---
 
-###### Tuesday 03/07
+###### Monday 10/16 - *Never Alone* Discussion: Sovereignty and Representation
 
-###### *In Class*
-- **Meet** w/ MDC Specialist for Instructional Session on Adobe Premier Pro **Class held in UL 205** 
+- **Read** La Pensée et al, "Towards Sovereign Games" [**PDF on Canvas**](https://uncch.instructure.com/courses/33866/files/folder/Readings?preview=4600658)
 
 ---
 
-###### Thursday 03/02
+###### Wednesday 10/18 - *The Revenant* - Indigineity and ir/realism in the settle-colonial pastoral
 
-###### *Before Class*
-- **Watch** *The Revenant* (2015), dir. Alejandro González Iñárritu [**Available via Canvas**](https://uncch.instructure.com/courses/17305/discussion_topics/153513)
-- **VoiceThread** *Never Alone (Kisima Inŋitchuŋa)* (2014) [**See assignment on Canvas**](https://uncch.instructure.com/courses/17305/assignments/189004)
+- **Watch** *The Revenant* (2015), dir. Alejandro González Iñárritu [**Available via Canvas**](https://uncch.instructure.com/courses/33866/discussion_topics/230654)
 
-###### Readings:
+---
 
-- La Pensée et al, "Towards Sovereign Games" [**PDF on Canvas**](https://uncch.instructure.com/courses/17305/files/folder/Readings?preview=2905194)
+###### Friday 10/20 - FALL BREAK
 
-###### *In Class*
-- **Discuss** Iñárritu
-- **Play** *Never Alone*
-- **Discuss** La Pensée, Bird, and *Never Alone*
+- **NO SECTION**
+
