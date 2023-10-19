@@ -32,7 +32,7 @@ syntaxHighlighter: no
 #### Unit 1
 
 ---
-##### [**Week 1 - Narratives of Technology**](https://sgotzler.github.io/ENGL-257//week-1)
+##### **Week 1 - Narratives of Technology**
 - **Watch** *Modern Times* (1936), dir. Charlie Chaplin (excerpted); *Rom Check Fail!*
 - **Read** Galloway "Gamic Action, Four Moments"
 - **Play** TBD by TA
