@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Week 10 - Adaptive Exchanges"
+date:   2023-10-19 01:00:00
+last_modified_at:  2023-10-19 01:00:00
+excerpt: 
+categories: 
+tags: 
+image:
+  feature: week15.jpg
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+##### **Week 10 — Adaptive Exchanges**
+
+---
+
+###### Monday 10/23 - Pink Time #2
+- NO CLASS - Pink Time
+
+---
+
+###### Wednesday 10/25 - Adaptive Exchanges
+- debrief Pink Time #2
+- Unit 3 Introduction: Adaptation, Exchange, Environment
+
+---
+
+###### Friday 10/27 - Critical Play Session
+- **Play** *Death Stranding* (2019) 
+
