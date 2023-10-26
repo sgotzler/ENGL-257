@@ -16,6 +16,21 @@ syntaxHighlighter: no
 ##### **Week 12 — Ontological Dependencies**
 
 ---
+###### Thursday 03/30
+
+###### *Before Class*
+- **Watch** *Blade Runner 2049* (2017), dir. Denis Villeneuve [**Available via Canvas**](https://uncch.instructure.com/courses/17305/discussion_topics/153513)
+- **VoiceThread** *Cyberpunk 2077* (2020) [**See assignment on Canvas**](https://uncch.instructure.com/courses/17305/assignments/193559)
+
+###### Readings:
+
+- Sherryl Vint, "Vitality and reproduction in *Blade Runner 2049*" [**Available on Canvas**](https://uncch.instructure.com/courses/17305/files/folder/Readings?preview=3127839);
+
+- "Low Level Design 108 - Dependency Inversion Principle" [**Video on YouTube**](https://www.youtube.com/watch?v=_CQuOfIqaGE)
+
+###### *In Class*
+- **Facilitation** Group 5 (Frank, Lauren, Rio, Joshua)
+- **Discuss** Villeneuve, *Cyberpunk 2077* and *Death Stranding*
 
 ###### Tuesday 04/04
 

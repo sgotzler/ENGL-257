@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Week 11 - Narrative Flows"
-date:   2023-10-27 01:00:00
-last_modified_at:  2023-10-27 01:00:00
+date:   2023-10-26 01:00:00
+last_modified_at:  2023-10-26 01:00:00
 excerpt: 
 categories: 
 tags: 
 image:
-  feature: week11.jpg
+  feature: week10.jpg
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
@@ -17,39 +17,17 @@ syntaxHighlighter: no
 
 ---
 
-###### Tuesday 03/28
-
-###### *In Class*
-- **Play** *Death Stranding* (2019) 
+###### Monday 10/30 -  *Death Stranding* Discussion: environmental orientation
+- **Watch** "What is FLOW THEORY in game design? - The Basics - (Part 1)" [**Video on YouTube**](https://www.youtube.com/watch?v=3H8pQyyXxHg)
+- **Read** Braxton Soderman, "Introduction" from *Against Flow: Video Games and the Flowing Subject* (2021) [**Available via Canvas**](https://uncch.instructure.com/courses/33866/files/folder/Readings?preview=5615603)
 
 ---
 
-###### *Before Class*
-- **Watch** *Mad Max: Fury Road* (2015), dir. George Miller [**Available via Canvas**](https://uncch.instructure.com/courses/17305/discussion_topics/153513)
-- **VoiceThread** *Mad Max* (2015) [**See assignment on Canvas**](https://uncch.instructure.com/courses/17305/assignments/191573)
+###### Wednesday 11/01 - *Mad Max: Fury Road* - flow cinema
+- **Watch** *Mad Max: Fury Road* (2015), dir. George Miller [**Available via Canvas**](https://uncch.instructure.com/courses/33866/discussion_topics/230654)
+- **Read** McKenzie Wark, "Fury Road: The Four Flows" [**Available on Public Seminar**](https://publicseminar.org/2015/05/fury-road/);
 
-###### Readings:
+---
 
-- McKenzie Wark, "Fury Road: The Four Flows" [**Available on Public Seminar**](https://publicseminar.org/2015/05/fury-road/);
-
-- "What is FLOW THEORY in game design? - The Basics - (Part 1)" [**Video on YouTube**](https://www.youtube.com/watch?v=3H8pQyyXxHg)
-
-###### *In Class*
-- **Facilitation** Group 4 (Shareen, Leni, Rain)
-- **Discuss** Miller, *Mad Max* and *Death Stranding*
-
-###### Thursday 03/30
-
-###### *Before Class*
-- **Watch** *Blade Runner 2049* (2017), dir. Denis Villeneuve [**Available via Canvas**](https://uncch.instructure.com/courses/17305/discussion_topics/153513)
-- **VoiceThread** *Cyberpunk 2077* (2020) [**See assignment on Canvas**](https://uncch.instructure.com/courses/17305/assignments/193559)
-
-###### Readings:
-
-- Sherryl Vint, "Vitality and reproduction in *Blade Runner 2049*" [**Available on Canvas**](https://uncch.instructure.com/courses/17305/files/folder/Readings?preview=3127839);
-
-- "Low Level Design 108 - Dependency Inversion Principle" [**Video on YouTube**](https://www.youtube.com/watch?v=_CQuOfIqaGE)
-
-###### *In Class*
-- **Facilitation** Group 5 (Frank, Lauren, Rio, Joshua)
-- **Discuss** Villeneuve, *Cyberpunk 2077* and *Death Stranding*
+###### Friday 10/27 - Critical Play Session
+- **Play** *Death Stranding* (2019) 
