@@ -7,7 +7,7 @@ excerpt:
 categories: 
 tags: 
 image:
-  feature: week12.jpg
+  feature: week11.jpg
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
@@ -15,41 +15,13 @@ syntaxHighlighter: no
 ---
 ##### **Week 12 — Ontological Dependencies**
 
----
-###### Thursday 03/30
-
-###### *Before Class*
-- **Watch** *Blade Runner 2049* (2017), dir. Denis Villeneuve [**Available via Canvas**](https://uncch.instructure.com/courses/17305/discussion_topics/153513)
-- **VoiceThread** *Cyberpunk 2077* (2020) [**See assignment on Canvas**](https://uncch.instructure.com/courses/17305/assignments/193559)
-
-###### Readings:
-
-- Sherryl Vint, "Vitality and reproduction in *Blade Runner 2049*" [**Available on Canvas**](https://uncch.instructure.com/courses/17305/files/folder/Readings?preview=3127839);
-
-- "Low Level Design 108 - Dependency Inversion Principle" [**Video on YouTube**](https://www.youtube.com/watch?v=_CQuOfIqaGE)
-
-###### *In Class*
-- **Facilitation** Group 5 (Frank, Lauren, Rio, Joshua)
-- **Discuss** Villeneuve, *Cyberpunk 2077* and *Death Stranding*
-
-###### Tuesday 04/04
-
-###### *Before Class*
-- **Watch** *Dune: Part One* (2021), dir. Denis Villeneuve [**Available via Canvas**](https://uncch.instructure.com/courses/17305/discussion_topics/153513)
-- **VoiceThread** *Dune II* (1992) [**See assignment on Canvas**](https://uncch.instructure.com/courses/17305/assignments/194382)
-
-###### Readings:
-
-- Ashley Fint and Erik Kojola, "Political Ecologies of Time and Temporality in Resource Extraction" [**Available on Canvas**](https://uncch.instructure.com/courses/17305/files/folder/Readings?preview=3203875);
-
-- "What are Loops in Game Design?" [**Video on YouTube**](https://www.youtube.com/watch?v=PMj8Q4ViKzs)
-
-###### *In Class*
-- **Facilitation** Group 6 (Josh, Morgan, Sebastian) 
-- **Discuss** Villeneuve, *Dune II* and *Death Stranding*
+###### Monday 11/06 - *Death Stranding* Discussion: chains of dependency
+- ***Death Stranding*** - finish cut-scenes and gameplay up to [01:25:46] [**Video on YouTube**](https://www.youtube.com/watch?v=2_p9wLMNOeM)
+- **Watch** *Cyberpunk 2077* (2020)[**Available via Canvas**](https://uncch.instructure.com/courses/33866/discussion_topics/230654)
 
 ---
 
-###### Thursday 04/06
-
-###### **NO CLASS: Wellness Day**
+###### Wednesday 11/08 - *Blade Runner: 2049* - dependency inversions and social reproduction
+- **Watch** *Blade Runner: 2049* (2017), dir. Denis Villeneuve [**Available via Canvas**](https://uncch.instructure.com/courses/33866/discussion_topics/230654)
+- **Watch** "Low Level Design 108 - Dependency Inversion Principle" [**Video on YouTube**](https://www.youtube.com/watch?v=_CQuOfIqaGE)
+- **Read** Sherryl Vint, "Vitality and reproduction in *Blade Runner 2049*" [**Available on Canvas**](https://uncch.instructure.com/courses/33866/files/folder/Readings?preview=4600662)
