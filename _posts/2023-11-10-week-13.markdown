@@ -7,7 +7,7 @@ excerpt:
 categories: 
 tags: 
 image:
-  feature: week13a.jpg
+  feature: week12.jpg
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
@@ -17,42 +17,18 @@ syntaxHighlighter: no
 
 ---
 
-###### Tuesday 04/04
+###### Monday 11/13
 
-###### *Before Class*
-- **Watch** *Dune: Part One* (2021), dir. Denis Villeneuve [**Available via Canvas**](https://uncch.instructure.com/courses/17305/discussion_topics/153513)
-- **VoiceThread** *Dune II* (1992) [**See assignment on Canvas**](https://uncch.instructure.com/courses/17305/assignments/194382)
-
-###### Readings:
-
-- Ashley Fint and Erik Kojola, "Political Ecologies of Time and Temporality in Resource Extraction" [**Available on Canvas**](https://uncch.instructure.com/courses/17305/files/folder/Readings?preview=3203875);
-
-- "What are Loops in Game Design?" [**Video on YouTube**](https://www.youtube.com/watch?v=PMj8Q4ViKzs)
-
-###### *In Class*
-- **Facilitation** Group 6 (Josh, Morgan, Sebastian) 
-- **Discuss** Villeneuve, *Dune II* and *Death Stranding*
+- **Video Essay Workshop 1** Storyboarding and Script-Blocking
 
 ---
 
-###### Thursday 04/06
-
-###### **NO CLASS: Wellness Day**
-
-###### Tuesday 04/11
-
-###### *Before Class*
-- **Watch** Rick Warner, "Tarkovsky / This Side of the Screen" [**Available via *vimeo***](https://vimeo.com/205626288)
-
-###### *In Class*
-- **Play** *Death Stranding*
+###### Wednesday 11/15 *Dune, Part One* - extractivist temporalities and narrative loops
+- **Watch** *Dune: Part One* (2021), dir. Denis Villeneuve [**Available via Canvas**](https://uncch.instructure.com/courses/33866/discussion_topics/230654)
+- **Read** Ashley Fint and Erik Kojola, "Political Ecologies of Time and Temporality in Resource Extraction" [**Available on Canvas**](https://uncch.instructure.com/courses/33866/files/folder/Readings?preview=4600664)
+- **Watch** "What are Loops in Game Design?" [**Video on YouTube**](https://www.youtube.com/watch?v=PMj8Q4ViKzs)
 
 ---
 
-###### Thursday 04/13 
-
-###### *Pink Time #3*
-- [**See Canvas for Assignment Details**](https://uncch.instructure.com/courses/17305/assignments/194379)
-
-###### *Progress Report DUE - Friday 04/14*
-- [**See Canvas for Assignment Details**](https://uncch.instructure.com/courses/17305/assignments/190454)
+###### Friday 11/17 - Critical Play Session
+- **Play** *Death Stranding* (2019) 
