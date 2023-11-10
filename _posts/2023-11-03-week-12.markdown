@@ -25,3 +25,8 @@ syntaxHighlighter: no
 - **Watch** *Blade Runner: 2049* (2017), dir. Denis Villeneuve [**Available via Canvas**](https://uncch.instructure.com/courses/33866/discussion_topics/230654)
 - **Watch** "Low Level Design 108 - Dependency Inversion Principle" [**Video on YouTube**](https://www.youtube.com/watch?v=_CQuOfIqaGE)
 - **Read** Sherryl Vint, "Vitality and reproduction in *Blade Runner 2049*" [**Available on Canvas**](https://uncch.instructure.com/courses/33866/files/folder/Readings?preview=4600662)
+
+---
+
+###### Friday 11/10 - Critical Play Session
+- **Play** *Death Stranding* (2019) 
