@@ -1,38 +1,35 @@
 ---
 layout: post
-title:  "Week 14 - Holiday Break"
+title:  "Week 14 - Death Stranding"
 date:   2023-11-17 01:00:00
 last_modified_at:  2023-11-17 01:00:00
 excerpt: 
 categories: 
 tags: 
 image:
-  feature: week14.webp
+  feature: week13b.jpg
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-##### **Week 14 — Holiday Break**
+##### **Week 14 — Death Stranding**
 
 ---
 
-###### Tuesday 04/18
+###### Monday 11/20
 
-###### *In Class*
-- **Discuss** Voice Over Recording Logistics
-- **Conduct** Rough Cut Assembly Workshop, pt.1
-- **Review** Instructor Feedback on Progress Reports
+- **Discuss** *Death Stranding*
+- **Visit** Dr. Graham Culbertson - ENGL-113: Introduction to Critical Game Studies
 
 ---
 
-###### Thursday 04/20 
+###### Wednesday 11/22
 
-###### *In Class*
-- **Review** Instructor Feedback on Progress Reports
-- **Conduct** Video Essay Check-In 
-- **Conduct** Rough Cut Assembly Workshop, pt.2
+- **NO CLASS** - HOLIDAY BREAK
 
+---
 
-###### *Rough Cut DUE - Tuesday 04/25*
-- [**See Canvas for Assignment Details**](https://uncch.instructure.com/courses/17305/assignments/197245)
+###### Friday 11/24
+
+- **NO CLASS** - HOLIDAY BREAK
