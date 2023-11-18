@@ -13,6 +13,30 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
+##### **Week 14 — Holiday Break**
+
+---
+
+###### Tuesday 04/18
+
+###### *In Class*
+- **Discuss** Voice Over Recording Logistics
+- **Conduct** Rough Cut Assembly Workshop, pt.1
+- **Review** Instructor Feedback on Progress Reports
+
+---
+
+###### Thursday 04/20 
+
+###### *In Class*
+- **Review** Instructor Feedback on Progress Reports
+- **Conduct** Video Essay Check-In 
+- **Conduct** Rough Cut Assembly Workshop, pt.2
+
+
+###### *Rough Cut DUE - Tuesday 04/25*
+- [**See Canvas for Assignment Details**](https://uncch.instructure.com/courses/17305/assignments/197245)
+
 ##### **Week 15 — Video Essays: Editing and Assembly**
 
 ---

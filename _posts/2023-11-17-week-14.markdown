@@ -7,7 +7,7 @@ excerpt:
 categories: 
 tags: 
 image:
-  feature: week13b.jpg
+  feature: week13.jpg
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
