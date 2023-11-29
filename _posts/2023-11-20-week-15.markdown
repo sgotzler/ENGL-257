@@ -7,60 +7,29 @@ excerpt:
 categories: 
 tags: 
 image:
-  feature: week15.jpg
+  feature: week9.jpg
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-##### **Week 14 — Holiday Break**
+##### **Week 15 – Video Essays: Editing and Assembly**
 
 ---
 
-###### Tuesday 04/18
-
-###### *In Class*
-- **Discuss** Voice Over Recording Logistics
-- **Conduct** Rough Cut Assembly Workshop, pt.1
-- **Review** Instructor Feedback on Progress Reports
+###### Monday 11/27
+- **Attend** Adobe PremierPro Instructional Session with Media & Design Center
+- **Review** Adobe resources on [the MDC site](https://guides.lib.unc.edu/media-design-center/videoguides)
 
 ---
 
-###### Thursday 04/20 
-
-###### *In Class*
-- **Review** Instructor Feedback on Progress Reports
-- **Conduct** Video Essay Check-In 
-- **Conduct** Rough Cut Assembly Workshop, pt.2
-
-
-###### *Rough Cut DUE - Tuesday 04/25*
-- [**See Canvas for Assignment Details**](https://uncch.instructure.com/courses/17305/assignments/197245)
-
-##### **Week 15 — Video Essays: Editing and Assembly**
+###### Wednesday 11/29 
+- **Attend** Media Capture and Assembly Workshop
+- **Review** Instructor Feedback on Storyboard + Draft Script
 
 ---
 
-###### Tuesday 04/25
+###### Friday 12/01
+- **Attend** Video Essay Clinic w/ TA in Recitation
 
-###### *Before Class*
-- **Submit** Rough Cut [**See Canvas for Assignment Details**](https://uncch.instructure.com/courses/17305/assignments/197245)
 
-###### *In Class*
-- **Conduct** Rough Cut Peer Review Workshop
-- **Review** Instructor Feedback on Rough Cuts
-
----
-
-###### Thursday 04/27 
-
-###### *Before Class*
-- **Read** Galloway, "Countergaming" [**Available via Canvas**](https://uncch.instructure.com/courses/17305/files/folder/Readings?preview=3338966)
-
-###### *In Class*
-- **Discuss** Galloway
-- **Complete** Course Feedback Survey
-- **Submit** Course Evalluations
-
-###### *Final Cut DUE - Tuesday 05/02*
-- [**See Canvas for Assignment Details**](https://uncch.instructure.com/courses/17305/assignments/197247)
