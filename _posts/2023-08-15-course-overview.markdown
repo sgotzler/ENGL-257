@@ -127,5 +127,5 @@ syntaxHighlighter: no
 ---
 
 ##### **FINAL EXAMS**
-- **Submit** Video Essay FINAL Cut
-- **Attend** Course Wrap Screening Party (Date/Time TBD)
+- **Submit** Video Essay FINAL Cut by 11:59PM ET on 12/11
+- **Attend** Course Wrap Screening Party - THU 12/14 4-6PM ET
