@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Final Exam - Screening Party"
+date:   2023-12-08 01:00:00
+last_modified_at:  2023-12-08 01:00:00
+excerpt: 
+categories: 
+tags: 
+image:
+  feature: screening-party.jpg
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+##### **Final Exams**
+
+---
+
+###### Monday 12/11
+- **Submit** Video Essay Final Cuts by 11:59PM ET - [see details on Canvas](https://uncch.instructure.com/courses/33866/assignments/279945)
+
+---
+
+###### Thursday 12/14 - Final Exam Period
+- **Attend** Screening Party in GL 101 4-6PM ET
+
+
