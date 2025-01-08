@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Course Overview and Outline"
-date:   2023-08-15 01:00:00
-last_modified_at:  2023-08-15 01:00:00
+date:   2025-01-06 01:00:00
+last_modified_at:  2025-01-06 01:00:00
 excerpt: 
 categories: 
 tags:  
@@ -17,11 +17,11 @@ syntaxHighlighter: no
 
 ### Course Overview
 
-###### In this hands-on gaming course, students will decipher the narrative design of video games while exploring the legacy of cinema to gameplay. They will also apply critical gaming concepts (agency, flow, point of view, authorship, representation, narrative choice, loops) to evaluate cinema as a ludic and participatory artform beyond conventional narrative elements. 
+###### In this hands-on gaming course, students will decipher the narrative design of video games while exploring the legacy of cinema to gameplay. They will also apply critical gaming concepts (agency, flow, point of view, authorship, representation, narrative choice, loops) to evaluate cinema as a ludic and participatory artform beyond conventional narrative elements.
 
-###### We will approach our study of video games and cinema through three interconnected frameworks: narrative, re-mediation, and adaptation. First, we’ll examine games and films as the historical products of discrete media industries. We’ll look into the history of cinema and digital gaming alongside readings in media theory that will help us analyze films and video games as texts that often disclose divergent narratives of technology. Next, we’ll interrogate the ways that the narratives of video games and films negotiate, subvert, or reproduce, historical patterns of violence, dispossession, and power. To ground our discussions historically, we’ll examine a sequence of games and films that re-mediate the memory and experience of settler-colonialism in North America. Finally, we’ll spend some time exploring the adaptive exchanges across these different media as features of their narrative form and gameplay. Looking to select readings in critical theory, computer science, and eco-criticism we’ll conclude the course by thinking about the theory and design of interactive environments (in games, and in films) as indicative of particular strategies for rendering environmental flows, social relations, and speculative temporalities.
+###### We will approach our study of video games and cinema through three interconnected frameworks: as media technologies, visual cultures, and narrative forms. First, we’ll examine games and films as the historical products of discrete media industries. We’ll investigate the history of cinema and digital gaming alongside readings in media theory that will help us analyze films and video games as forms of visual culture that often disclose divergent narratives of technology. We’ll look to select readings in critical theory, computer science, and eco-criticism to consider the theory and design of interactive environments (in games, and in films) as indicative of operational logics for rendering playable models environmental flows, social ontologies, and speculative temporalities. We’ll conclude the course by interrogating the ways that video games and cinema present narrative experiences that negotiate, subvert, or reproduce, historical patterns of violence and power. To ground our discussions historically, we’ll examine a sequence of games and films that re-mediate the complex relationships between race, history, and the national identity.
 
-###### We will watch influential films from a variety genres and historical periods including horror, science-fiction, thrillers, and westerns drawn from across the silent era, classic Hollywood, and contemporary blockbusters. During each unit, we will also engage in critical play sessions to explore select game titles, and view and discuss gameplay footage from a host of others. Games played in the course will include *INSIDE* (2016), *The Oregon Trail* (1985), *Red Dead Redemption 2* (2018), *Never Alone - Kisima Inŋitchuŋa* (2014), and *Death Stranding* (2019). Other games to be viewed and discussed may include: *Rom Check Fail!* (2013), *Lemmings* (1991), *Pony Island* (2016), *Pokemon: SNAP!* (1999) *Mad Max* (2015), *Cyberpunk 2077* (2020), *Dune: II* (1992).
+###### We will watch influential films from a variety genres and historical periods including horror, science-fiction, and thrillers drawn from across the silent era, classic Hollywood, global cinema, and contemporary blockbusters. During each week, we will also engage in critical play sessions to explore a few select games in-depth, and view and discuss gameplay footage from a host of others. Games played in the course will include **INSIDE** (2016) **Wolfenstein II: The New Colossus** (2017), **Resident Evil 4** (2005), and **Death Stranding** (2019). Other games to be viewed and discussed may include: **Rom Check Fail!** (2013), **Lemmings** (1991), **Pony Island** (2016), **Pokemon: SNAP!** (1999), **Cyberpunk 2077** (2020), **Dune: II** (1992), **Super Mario Bros.** (1985).
 
 ---
 
@@ -29,32 +29,28 @@ syntaxHighlighter: no
 
 ---
 
-#### Unit 1
+##### **Week 1 - Introduction to the Course**
 
 ---
-##### **Week 1 - Narratives of Technology**
+##### **Week 2 - Grammars of Action**
 - **Watch** *Modern Times* (1936), dir. Charlie Chaplin (excerpted); *Rom Check Fail!*
 - **Read** Galloway "Gamic Action, Four Moments"
-- **Play** TBD by TA
+- **Play** TBD by *GTA 5*
 
-##### **Week 3 - Machines of Wonder**
+##### **Week 3 - Narratives of Technology**
 - **Watch** *Metropolis* (1927), dir. Fritz Lang; *Lemmings* (1991)
 - **Read** Benjamin, "The Work of Art in the Age of Mechanical Reproduction"
 - **Play** *Inside* (2016)
 
-##### **Week 4 - Apparatus of Control**
+##### **Week 4 - Allegories of Control**
 - **Watch** *Videodrome* (1983), dir. David Cronenberg; *Perfect Vermin* (2020); *Pony Island* (2016)*Pony Island* (2016)
 - **Read** Galloway, "Allegories of Control"
 - **Play** *Inside* (2016)
 
 ##### **Week 5 - Mechanisms of Perception**
 - **Watch** *Nope* (2022), dir. Jordan Peele; *Pokémon: SNAP!* (1999)
-- **Read** Beller, "Camera Obscura After All: The Racist Writing with Light"
+- **Read** Beller, "Camera Obscura After All: The Racist Writing with Light"; Galloway, "Origins of the First-Person Shooter"
 - **Play** *Inside* (2016)
-
----
-
-#### Unit 2
 
 ---
 ##### **Week 6 - Video Essays: Ideation and Genre Modeling**
