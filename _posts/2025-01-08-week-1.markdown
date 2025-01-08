@@ -1,1 +1,29 @@
 
+---
+layout: post
+title:  "Week 1 - Introduction to the Course"
+date:   2025-01-08 01:00:00
+date:   2023-01-08 03:00:00
+excerpt: 
+categories:
+tags:
+image:
+  feature: introduction.png
+  topPosition: -200px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+##### **Week 1 - Introduction to the Course**
+
+---
+
+###### Monday 01/08 — Welcome to the Course!
+- Overview of Course; Assignments & Expectations
+- Instructor & TA Introductions
+- [**Course Syllabus on Canvas**](#ADDLINK)
+
+---
+
+###### Friday 01/10 — Section: Peer Introductions and Gameroom Orientation
