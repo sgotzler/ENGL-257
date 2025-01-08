@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Assignments & Materials"
-date:   2023-08-16 01:00:00
-last_modified_at:  2023-08-16 01:00:00
+date:   2025-01-06 01:00:00
+last_modified_at:  2025-01-06 01:00:00
 excerpt: 
 categories: 
 tags: 
@@ -41,8 +41,6 @@ The foundation of everything we do in this course will be our weekly film viewin
 Each week our recitation section time in the Gameroom will be used to facilitate extended play of featured titles. To facilitate this, we will work in small groups to play, watch, and discuss these titles at the 5 gaming stations. TA’s will facilitate play-sessions, and from time to time may lead short critical discussions. In addition to gameplay sessions held during recitation sections, will be watching nine feature length films—some exceeding 120 minutes in runtime. As such, students will be responsible for viewing the film for each week closely and in its entirety prior to attending class. We will also be regularly viewing video capture of gameplay footage from a variety of games (10-15min each) that will form the basis of our in-class discussions. 
 
 Critical and scholarly sources will be excerpted, and uploaded to Canvas. In general, the materials for each week will be paired with a single required reading, and during unit 3 (weeks 10-13), short YouTube videos on game design principles may also be assigned. Throughout the term, optional readings may also be uploaded to the canvas site, these are not mandatory and will not be central to our in-class discussions. That being said, students are encouraged to examine or skim optional readings at their discretion and according to their inclination, as many may be helpful for developing their video essays. 
-
-**NOTE:** Depending on availability, I may also hold live streams on twitch during select evenings outside of class — in the event that these streaming sessions do occur they would be entirely optional, and participation or viewing of them would have no impact on a student’s grade.
 
 *Expectation and Effort*: Students will be expected to complete a regular weekly viewing load of anywhere between 90-150 minutes of films and gameplay capture footage, and complete assigned reading between 15-30 pages. 
 
