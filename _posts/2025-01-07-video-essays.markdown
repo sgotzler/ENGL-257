@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Video Essay Projects"
-date:   2023-08-16 01:00:00
-date:   2023-08-16 02:00:00
+date:   2025-01-07 01:00:00
+date:   2025-01-07 02:00:00
 excerpt:
 categories:
 tags:
@@ -25,7 +25,7 @@ syntaxHighlighter: no
 
 ###### [Phase 1: Ideation and Modeling](#head1)
 ###### [Phase 2: Storyboarding and Script-Drafting](#head2)
-###### [Phase 3: Assembly, Editing, and Revision](#head3)
+###### [Phase 3: Assembly, Media Capture, Editing, and Revision](#head3)
 
 ---
 
@@ -40,11 +40,11 @@ Before attending class in week 5 students should complete the following:
 - **View** the sample video essay [“Frames of Mind” by Jordan Tynes and Maurizio Viano](http://mediacommons.org/intransition/2015/03/12/frames-mind)
 - **View** the sample video essay ["Special Effectivities" by Ian Bryce Jones](http://mediacommons.org/intransition/special-effectivities?fbclid=IwAR2aBlrkkFzZAPgPf8jA3FKC-NAIRcprhQKzVYpRAbz9HLfvwq5mHWywfuA)
 - **View** the sample video essay ["Tarkovsky/This Side of the Screen" by Rick Warner](https://vimeo.com/205626288)
-- **View** the sample video essay ["Avatar in the Machine: The Fracture of Avatarial Identity in *SUPERHOT*" by Ben van Welzen](https://uncch.instructure.com/courses/33866/discussion_topics/230654)
+- **View** the sample video essay ["Avatar in the Machine: The Fracture of Avatarial Identity in *SUPERHOT*" by Ben van Welzen](https://adminliveunc-my.sharepoint.com/:v:/g/personal/sgotzler_ad_unc_edu/Ea7zHzV0oT5Hlk6nKnn-E3QBxa-mi4cUHY-yIQwZmaMRZQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=qfEjVj)
 
 ##### **Video Essay Proposals**
 
-All students will submit a formal proposal for their video essay projects by Wednesday, October 18th.
+All students will submit a formal proposal for their video essay projects by Friday, April 04th.
 
 Video Essay Proposals should be no more than 2-3 pages in length (incl. timeline), and must address each of the following three areas:
 
@@ -63,7 +63,7 @@ Post-Production: audio and visual editing, rough cut submission and final revisi
 
 **PLEASE NOTE:** Upon review, students may be asked to revise and resubmit their proposals if any of these areas have not been adequately addressed.
 
-Proposals will be submitted [**via Canvas**](https://uncch.instructure.com/courses/33866/assignments/279947)
+Proposals will be submitted [**via Canvas**](https://uncch.instructure.com/courses/78214/assignments/602566)
 
 ---
 
@@ -73,7 +73,7 @@ In the second phase of the project, students will begin gathering appropriate fi
 
 ##### **Storyboard and Draft Script**
 
-All students will submit a rough story board, and draft script for their video essay projects by Wednesday, November 17th.
+All students will submit a rough story board, and draft script for their video essay projects by Wednesday, April 16th.
 
 These should be assembled as a single document (either PDF or word document) and must contain each of the following elements:
 
@@ -95,7 +95,7 @@ Draft Scripts Should:
 
 **PLEASE NOTE:** Upon review, students may be asked to hold a follow-up conference with their TA in order to address any potential bottlenecks, or problems.
 
-Storyboards and Draft Scripts will be submitted [**via Canvas**](https://uncch.instructure.com/courses/33866/assignments/279946)
+Storyboards and Draft Scripts will be submitted [**via Canvas**](https://uncch.instructure.com/courses/78214/assignments/602564)
 
 ---
 
@@ -113,11 +113,11 @@ Before attending the instructional session students should complete the followin
 
 You should leave this instructional session feeling confident to continue experimenting with Adobe Premier by beginning to assemble your own essays, with self-guided reference to MDC materials. 
 
-This instructional session will be held during the our normal class time on **Monday 11/27**
+This instructional session will be held during the our normal class time on **Monday 04/14**
 
 ##### **Media Capture & Assembly Workshop**
 
-Our first editing workshop will take place on Tuesday, April 18th. Students should come to this session with their laptops ready to use with appropriate software installed. In class, students will begin working towards a complete rough cut assembly of their video essay projects. 
+Our first editing workshop will take place on Monday, April 21st. Students should come to this session with their laptops ready to use with appropriate software installed. In class, students will begin working towards a complete rough cut assembly of their video essay projects. 
 
 **In this session students will:**
 - discuss voice over recording logistics, and make plans for recording.
@@ -129,13 +129,13 @@ Our first editing workshop will take place on Tuesday, April 18th. Students shou
 - imported their media library into Premier.
 - completed editorial assembly of at least 1 section of the essay (i.e., rough cutting and timing of 90-120 sec.).
 
-A complete assembled rough cut is due by 3:35PM on Monday, December 4th.
+A complete assembled rough cut is due by 9:00AM on Friday, April 25th.
 
-Rough Cuts will be submitted [**via Canvas**](https://uncch.instructure.com/courses/33866/assignments/279948)
+Rough Cuts will be submitted [**via Canvas**](https://uncch.instructure.com/courses/78214/assignments/602567)
 
 ##### **Peer Review Editorial Workshop**
 
-Our second editing workshop will take place on Monday, December 4th. Students should come to this session with their complete rough cuts assembled and submitted via canvas. In class, students will work in small groups to view each other's essays and offer peer review feedback for revision and further editing.  
+Our second editing workshop will take place on Friday, April 25th. Students should come to this session with their complete rough cuts assembled and submitted via canvas. In class, students will work in small groups to view each other's essays and offer peer review feedback for revision and further editing.  
 
 **In this session students will:**
 - share progress with their peers, and view peer rough cuts.
@@ -147,8 +147,8 @@ Our second editing workshop will take place on Monday, December 4th. Students sh
 - recieved critical feedback on their video essay rough cuts from at least 3 of their peers.
 - generated a revision plan outlining specific edits and change notes for final cuts.
 
-There will also be time during this session to schedule time for instructor follow-up during office hours.
+There will also be time during this session to schedule time for TA / instructor follow-up during office hours.
 
-A complete revised final cut is due at: **date/tme TBD**.
+A complete revised final cut is due at: **Thursday, May 1st @ 5:00PM**.
 
-Final Cuts will be submitted [**via Canvas**](https://uncch.instructure.com/courses/33866/assignments/279945)
+Final Cuts will be submitted [**via Canvas**](https://uncch.instructure.com/courses/78214/assignments/602565)

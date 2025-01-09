@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Week 4 - Allegories of Control"
+date:   2025-01-27 01:00:00
+last_modified_at:  2025-01-27 01:00:00
+excerpt: 
+categories: 
+tags: 
+image:
+  feature: week3.jpg
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+##### **Week 4 — Allegories of Control**
+
+---
+
+###### Monday 01/27 - *INSIDE* Discussion - machines, bodies, interfaces
+
+---
+
+###### Wednesday 01/29 - *Videodrome* and allegories of postmodern control
+
+- **Watch** *Videodrome* (1983), dir. David Cronenberg; *Perfect Vermin* (2020) [**Available on YouTube**](https://www.youtube.com/watch?v=XKiJ1zf3XJo); *Pony Island* (2016) [**Available via OneDrive**]()
+- **Read** Galloway, "Allegories of Control" [**PDF on Canvas**]()
+---
+
+###### Friday 01/31 - Section: Critical Play Session
+- **Play** *INSIDE* (2016) 
