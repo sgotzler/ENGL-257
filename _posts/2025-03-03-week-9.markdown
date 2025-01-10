@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Week 9 - Unsettling the Remediations of Colonialism"
-date:   2023-10-13 01:00:00
-last_modified_at:  2023-10-13 01:00:00
+date:   2025-02-28 01:00:00
+last_modified_at:  2025-02-28 01:00:00
 excerpt: 
 categories: 
 tags: 
