@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Week 1 - Narratives of Technology"
-date:   2023-08-18 01:00:00
-date:   2023-08-18 03:00:00
+title:  "Week 2 - Grammars of Action"
+date:   2025-01-13 01:00:00
+date:   2025-01-13 03:00:00
 excerpt: 
 categories:
 tags:
@@ -14,22 +14,20 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-##### **Week 1 - Narratives of Technology**
+##### **Week 2 - Grammars of Action**
 
 ---
 
-###### Monday 08/21 — Introduction to the Course
-- Overview of Course; Assignments & Expectations
-- Instructor & TA Introductions
-- [**Course Syllabus on Canvas**](https://uncch.instructure.com/courses/33866/files?preview=4882941)
+###### Monday 01/13 — Strategies for Critical Play
+- **Discuss** Learning through Play and the Building Blocks of Gamic Analysis
 
 ---
 
-###### Wednesday 08/23 — Grammars of Action
-
+###### Wednesday 01/15 — Grammars of Action
 - **Watch** *Modern Times* (1936), dir. Charlie Chaplin [**Opening & Factory Sequence 00:00-18:00**](https://www.dailymotion.com/video/x3mhpli); *Rom Check Fail!* (2013) [**Gameplay on YouTube**](https://www.youtube.com/watch?v=mWp4wtzL5WE)
 - **Read** Galloway "Gamic Action, Four Moments" [**PDF on Canvas**](https://uncch.instructure.com/courses/33866/files/folder/Readings?preview=4600651)
 
 ---
 
-###### Friday 08/25 — Section: Peer Introductions and Gameroom Orientation
+###### Friday 08/25 — Section: Critical Play Session
+- **Play** *INSIDE* (2016)
