@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Video Essay Projects"
-date:   2023-08-16 01:00:00
-date:   2023-08-16 02:00:00
+date:   2025-01-07 01:00:00
+date:   2025-01-07 02:00:00
 excerpt:
 categories:
 tags:
