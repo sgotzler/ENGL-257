@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Week 4 - Apparatus of Control"
-date:   2023-09-01 01:00:00
-date:   2023-09-01 01:00:00
+title:  "Week 4 - Allegories of Control"
+date:   2025-01-24 01:00:00
+date:   2025-01-24 01:00:00
 excerpt: 
 categories:
 tags:
@@ -13,7 +13,7 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-##### **Week 4 - Apparatus of Control**
+##### **Week 4 - Allegories of Control**
 
 ---
 
