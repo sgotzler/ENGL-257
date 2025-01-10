@@ -119,4 +119,4 @@ syntaxHighlighter: no
 ---
 
 ##### **FINAL EXAMS**
-- **Attend** Course Wrap Screening Party - SAT 05/03 12-3PM ET
+- **Attend** Course Wrap Screening Party - **SAT 05/03 12-3PM ET**
