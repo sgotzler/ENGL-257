@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Week 6 - Video Essay Projects: Ideation and Modeling"
-date:   2023-09-15 01:00:00
-last_modified_at:  2023-09-15 01:00:00
+title:  "Week 6 - Operational Logics, Playable Models"
+date:   2025-02-07 01:00:00
+last_modified_at:  2025-02-07 01:00:00
 excerpt: 
 categories: 
 tags: 
