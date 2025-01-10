@@ -54,9 +54,9 @@ In this course, we will be keeping play journals. These journals will be created
 
 Throughout the term students will then use their journal entries (whether as responses to instructor prompts, or as direct observations of the gameplay experience) to compose brief critical play essays (300-500 words) engaging with the critical play process and the analytical focus of the course texts and materials. These short essays will provide a space for students to develop insights that may inform their final projects and tackle core writing tasks related to the video essay assignment (see below).
 
-- Journal Essay #1: Gameplay as Critical Process
-- Journal Essay #2: Conducting Gamic Analysis
-- Journal Essay #3: Integrating Secondary Sources
+- **Journal Essay #1:** Gameplay as Critical Process
+- **Journal Essay #2:** Conducting Gamic Analysis
+- **Journal Essay #3:** Integrating Secondary Sources
 
 *Expectations and Effort*: there are no set expectations for student’s week-to-week journal entries, as this is a personal space for them to generate insights and brainstorm ideas. 
 
