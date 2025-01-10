@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Week 6 - Video Essay Projects: Ideation and Modeling"
+date:   2023-09-15 01:00:00
+last_modified_at:  2023-09-15 01:00:00
+excerpt: 
+categories: 
+tags: 
+image:
+  feature: week5.jpg
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+##### **Week 6 — Video Essays Phase 1: Ideation and Planning**
+
+---
+
+###### Monday 09/25 - **NO CLASS - WELLNESS DAY**
+
+---
+
+###### Wednesday 09/27 - Video Essay Collaborative Ideation Workshop
+- **Watch** [Tynes and Viano, "Frames of Mind"](http://mediacommons.org/intransition/2015/03/12/frames-mind); [Ian Bryce Jones, "Special Effectivities"](http://mediacommons.org/intransition/special-effectivities?fbclid=IwAR2aBlrkkFzZAPgPf8jA3FKC-NAIRcprhQKzVYpRAbz9HLfvwq5mHWywfuA); [Rick Warner, "Tarkovsky/This Side of the Screen"](https://vimeo.com/205626288); [Ben van Welzen, "Avatar in the Machine: The Fracture of Avatarial Identity in *SUPERHOT*"](https://uncch.instructure.com/courses/33866/discussion_topics/230654)
+
+---
+
+###### Friday 09/29
+- **Play** *Red Dead Redemption 2* (2018) 
+

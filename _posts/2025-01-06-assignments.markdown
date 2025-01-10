@@ -17,7 +17,7 @@ syntaxHighlighter: no
 ### Required Materials
 
 #### Texts
-All readings and viewing material will be available online (and free of charge) throughout the course [Canvas site](https://uncch.instructure.com/courses/78214/files/folder/Readings?), or on site in the Greenlaw Gameroom.
+All readings and viewing material will be available online (and free of charge) throughout the course [Canvas site](https://uncch.instructure.com/courses/33866/files), or on site in the Greenlaw Gameroom.
 
 #### Technology
 
@@ -42,9 +42,9 @@ Each week our recitation section time in the Gameroom will be used to facilitate
 
 Critical and scholarly sources will be excerpted, and uploaded to Canvas. In general, the materials for each week will be paired with a single required reading. Occasionally, short YouTube videos on game design principles may also be assigned. Throughout the term, optional readings may also be uploaded to the canvas site, these are not mandatory and will not be central to our in-class discussions. That being said, students are encouraged to examine or skim optional readings at their discretion and according to their inclination, as many may be helpful for developing their video essays. 
 
-*Expectation and Effort*: Students will be expected to complete a regular weekly viewing load of anywhere between 90-150 minutes of films and complete assigned reading between 15-30 pages. 
+Expectation and Effort: Students will be expected to complete a regular weekly viewing load of anywhere between 90-150 minutes of films and complete assigned reading between 15-30 pages. 
 
-The best way to ensure that you earn a successful grade, and have the most meaningful learning experience, is to complete the weekly viewings on time and examine the readings ahead of discussion. Demonstrating, on a weekly basis, that you’ve made a consistent effort to meaningfully engage with the course viewing and reading materials is one primary mechanism for the “participation and course contributions” grade in this course, (see below). The other primary mechanism for determining “participation and course contributions” is your engagement and focus during the critical play sessions in the Greenlaw Gameroom. TA’s will develop and share their own expectations for play sessions and assess students accordingly. 
+The best way to ensure that you earn a successful grade, and have the most meaningful learning experience, is to complete the weekly viewings on time and examine the readings ahead of discussion. Demonstrating, on a weekly basis, that you’ve made a consistent effort to meaningfully engage with the course viewing and reading materials is one primary mechanism for the “participation and course contributions” grade in this course, (see below). The other primary mechanism for determining “participation and course contributions” is your engagement and focus during the critical play sessions in the Greenlaw Gameroom. TA’s will develop and share their own expectations for play sessions, and assess students accordingly. 
 
 ---
 
@@ -54,11 +54,11 @@ In this course, we will be keeping play journals. These journals will be created
 
 Throughout the term students will then use their journal entries (whether as responses to instructor prompts, or as direct observations of the gameplay experience) to compose brief critical play essays (300-500 words) engaging with the critical play process and the analytical focus of the course texts and materials. These short essays will provide a space for students to develop insights that may inform their final projects and tackle core writing tasks related to the video essay assignment (see below).
 
-— Journal Essay #1 – Gameplay as Critical Process
-— Journal Essay #2 – Conducting Gamic Analysis 
-— Journal Essay #3 – Integrating Secondary Sources
+—	Journal Essay #1 – Gameplay as Critical Process
+—	Journal Essay #2 – Conducting Gamic Analysis 
+—	Journal Essay #3 – Integrating Secondary Sources
 
-*Expectations and Effort*: there are no set expectations for student’s week-to-week journal entries, as this is a personal space for them to generate insights and brainstorm ideas. 
+Expectations and Effort: there are no set expectations for student’s week-to-week journal entries, as this is a personal space for them to generate insights and brainstorm ideas. 
 
 However, the critical play essays should conform to a range between 300-500 words. They should make use of salient textual details drawn from the films and games as evidence, and they should offer some kind of analytical claim, even if only a provisional or suggestive one.
 
@@ -74,7 +74,7 @@ Students will use these video essay project to make original arguments about the
 
 Throughout the semester we will scaffold this assignment with additional technical instruction and tutorials, by viewing and analyzing other video essays as models, and working in groups to provide feedback and advice on composition, editing, and revision of these projects. 
 
-*Expectation and Effort*: These finished video essays should be 5-7min in length, must utilize a minimum of 3 secondary sources drawn either from the course syllabus or independent student research, and should engage in analysis of both video games and films as primary sources.
+Expectation and Effort: These finished video essays should be 5-7min in length, must utilize a minimum of 3 secondary sources drawn either from the course syllabus or independent student research, and should engage in analysis of both video games and films as primary sources.
 
 Instruction during weeks 12-15 will be dedicated solely to developing these video essay projects. 
 
