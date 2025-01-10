@@ -7,7 +7,7 @@ excerpt:
 categories:
 tags:
 image:
-  feature: gameroom.png
+  feature: Gameroom.png
   topPosition: -200px
 bgContrast: dark
 bgGradientOpacity: darker
