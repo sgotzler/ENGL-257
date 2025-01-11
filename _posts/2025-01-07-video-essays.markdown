@@ -16,9 +16,9 @@ syntaxHighlighter: no
 
 ### **Video Essay Projects**
 
-###### The capstone assignment for this course will be a video essay project that we will screen together as a class at the end of the semester and publish online. These essays will showcase our various explorations of, and interventions in, the study of video games and narrative cinema. 
+###### The capstone assignment for this course will be a video essay project that we will screen together as a class at the end of the semester. These essays will showcase our various explorations of, and interventions in, the study of video games and narrative cinema. 
 
-###### Students will use these video essay project to make original arguments about the interpenetrated histories, forms, and/or genres of video games and narrative cinema, drawing on primary sources drawn from the course syllabus and conducting secondary research on their own. In the process, we will work together to craft visual arguments about the visual media examined in the class.
+###### Students will use these video essay project to make original arguments about the interpenetrated histories, forms, and/or genres of video games and narrative cinema, drawing on primary sources from the course syllabus and conducting secondary research on their own. In the process, we will work together to craft visual arguments about the visual culture examined in the class.
 
 ###### Throughout the semester we will scaffold this assignment with additional technical instruction and tutorials, by viewing and analyzing other video essays as models, and working in groups to provide feedback and advice on composition, editing, and revision of these projects. 
 
@@ -29,22 +29,20 @@ syntaxHighlighter: no
 
 ---
 
-#### <a name="head1"></a>**Phase 1: Ideation and Modeling**
+#### <a name="head1"></a>**Phase 1: Ideation and Planningg**
 
-In the first phase of this project, students will view several sample video essays, and spend time in class discussing them. These samples will be analyzed as variable samples of the genre, and will form the basis of a collaborative ideation exercise to facilitate brainstorming ideas for possible video essays. This initial period of ideation will be followed by the submission of a formal proposal at the end of Unit 2. The proposal will identify a topical focus for their essay, and explain its relevance to the course.
+In the first phase of this project, students will view several sample video essays, and spend time in class discussing them. These samples will be analyzed as variable models of the genre, and will form the basis of a collaborative ideation exercise to facilitate brainstorming ideas for possible video essays. This initial period of ideation will be followed by the submission of a formal proposal at the end of week 12. The proposal will identify a topical focus for their essay, and explain its relevance to the course.
 
 ##### **Collaborative Ideation Workshop**
 
-Before attending class in week 5 students should complete the following: 
+Before attending class in week 12 students should complete the following: 
 
 - **View** the sample video essay [“Frames of Mind” by Jordan Tynes and Maurizio Viano](http://mediacommons.org/intransition/2015/03/12/frames-mind)
-- **View** the sample video essay ["Special Effectivities" by Ian Bryce Jones](http://mediacommons.org/intransition/special-effectivities?fbclid=IwAR2aBlrkkFzZAPgPf8jA3FKC-NAIRcprhQKzVYpRAbz9HLfvwq5mHWywfuA)
-- **View** the sample video essay ["Tarkovsky/This Side of the Screen" by Rick Warner](https://vimeo.com/205626288)
-- **View** the sample video essay ["Avatar in the Machine: The Fracture of Avatarial Identity in *SUPERHOT*" by Ben van Welzen](https://uncch.instructure.com/courses/33866/discussion_topics/230654)
+- **View** the sample video essay ["Avatar in the Machine: The Fracture of Avatarial Identity in *SUPERHOT*" by Ben van Welzen](https://adminliveunc-my.sharepoint.com/:v:/g/personal/sgotzler_ad_unc_edu/Ea7zHzV0oT5Hlk6nKnn-E3QBxa-mi4cUHY-yIQwZmaMRZQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=DyYhMT)
 
 ##### **Video Essay Proposals**
 
-All students will submit a formal proposal for their video essay projects by Wednesday, October 18th.
+All students will submit a formal proposal for their video essay projects by Friday, April 4th.
 
 Video Essay Proposals should be no more than 2-3 pages in length (incl. timeline), and must address each of the following three areas:
 
@@ -63,17 +61,20 @@ Post-Production: audio and visual editing, rough cut submission and final revisi
 
 **PLEASE NOTE:** Upon review, students may be asked to revise and resubmit their proposals if any of these areas have not been adequately addressed.
 
-Proposals will be submitted [**via Canvas**](https://uncch.instructure.com/courses/33866/assignments/279947)
+Proposals will be submitted [**via Canvas**](https://uncch.instructure.com/courses/78214/assignments/602566)
 
 ---
 
 #### <a name="head2"></a>**Phase 2: Storyboarding and Script-Drafting**
 
-In the second phase of the project, students will begin gathering appropriate film and gameplay clips, storyboarding their essay projects, and composing a draft of their scripts. This phase will be supported by a video essay composition workshop in class on Monday, November 13th, and will culminate in the submission of a rough storyboard and draft script.
+In the second phase of the project, students will begin gathering appropriate film and gameplay clips, and continuing to use sample essays as models, they will storyboard their essay projects, and compose a draft of their scripts. This phase will be supported by a video essay composition workshop in class on Monday, April 07th, and will culminate in the submission of a rough storyboard and draft script.
+
+- **View** the sample video essay ["Special Effectivities" by Ian Bryce Jones](http://mediacommons.org/intransition/special-effectivities?fbclid=IwAR2aBlrkkFzZAPgPf8jA3FKC-NAIRcprhQKzVYpRAbz9HLfvwq5mHWywfuA)
+- **View** the sample video essay ["Tarkovsky/This Side of the Screen" by Rick Warner](https://vimeo.com/205626288)
 
 ##### **Storyboard and Draft Script**
 
-All students will submit a rough story board, and draft script for their video essay projects by Wednesday, November 17th.
+All students will submit a rough story board, and draft script for their video essay projects by Wednesday, April 16th.
 
 These should be assembled as a single document (either PDF or word document) and must contain each of the following elements:
 
@@ -95,7 +96,7 @@ Draft Scripts Should:
 
 **PLEASE NOTE:** Upon review, students may be asked to hold a follow-up conference with their TA in order to address any potential bottlenecks, or problems.
 
-Storyboards and Draft Scripts will be submitted [**via Canvas**](https://uncch.instructure.com/courses/33866/assignments/279946)
+Storyboards and Draft Scripts will be submitted [**via Canvas**](https://uncch.instructure.com/courses/78214/assignments/602564)
 
 ---
 
@@ -113,29 +114,29 @@ Before attending the instructional session students should complete the followin
 
 You should leave this instructional session feeling confident to continue experimenting with Adobe Premier by beginning to assemble your own essays, with self-guided reference to MDC materials. 
 
-This instructional session will be held during the our normal class time on **Monday 11/27**
+This instructional session will be held during the our normal class time on **Monday 04/14**
 
 ##### **Media Capture & Assembly Workshop**
 
-Our first editing workshop will take place on Tuesday, April 18th. Students should come to this session with their laptops ready to use with appropriate software installed. In class, students will begin working towards a complete rough cut assembly of their video essay projects. 
+Our scriptwriting and media capture workshops will take place on Wednesday, April 16th and Monday, April 21st respectively. Students should come to this session with their laptops ready to use with appropriate software installed. In class, students will begin working towards a complete rough cut assembly of their video essay projects. 
 
-**In this session students will:**
+**In thes sessions students will:**
 - discuss voice over recording logistics, and make plans for recording.
 - re-visit and expand work timelines from proposal for final phase.
 - begin assembling the rough cut of their video essay.
 
-**By the end of this session students should have:**
+**By the end of these sessions students should have:**
 - created a new Premier Pro Project for their video essays.
 - imported their media library into Premier.
 - completed editorial assembly of at least 1 section of the essay (i.e., rough cutting and timing of 90-120 sec.).
 
-A complete assembled rough cut is due by 3:35PM on Monday, December 4th.
+A complete assembled rough cut is due by 9:00AM on Friday, April 25th.
 
-Rough Cuts will be submitted [**via Canvas**](https://uncch.instructure.com/courses/33866/assignments/279948)
+Rough Cuts will be submitted [**via Canvas**](https://uncch.instructure.com/courses/78214/assignments/602567)
 
-##### **Peer Review Editorial Workshop**
+##### **Rough Cut Peer Review**
 
-Our second editing workshop will take place on Monday, December 4th. Students should come to this session with their complete rough cuts assembled and submitted via canvas. In class, students will work in small groups to view each other's essays and offer peer review feedback for revision and further editing.  
+Our peer review editorial session will take place in recitation sections on Friday, April 25th. Students should come to this session with their rough cuts assembled and submitted via canvas. In class, students will work in small groups to view each other's essays and offer peer review feedback for revision and further editing.  
 
 **In this session students will:**
 - share progress with their peers, and view peer rough cuts.
@@ -149,6 +150,6 @@ Our second editing workshop will take place on Monday, December 4th. Students sh
 
 There will also be time during this session to schedule time for instructor follow-up during office hours.
 
-A complete revised final cut is due at: **date/tme TBD**.
+A complete revised final cut is due on **Thursday, 05/01 @ 5:00PM ET**.
 
-Final Cuts will be submitted [**via Canvas**](https://uncch.instructure.com/courses/33866/assignments/279945)
+Final Cuts will be submitted [**via Canvas**](https://uncch.instructure.com/courses/78214/assignments/602565)
