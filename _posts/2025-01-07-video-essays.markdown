@@ -82,7 +82,9 @@ These should be assembled as a single document (either PDF or word document) and
 
 2. Draft Script— a complete rough draft of the scripted dialogue that you will incorporate as voice-over for the essay. (500-700 words)
 
-For our scripts, we want to maximize depth over breadth. As such, analytical focus is paramount to crafting a effective script. The visual components of your composition should do as much, or more, argumentative work as your spoken words, (e.g., illustrating key concepts, demonstrating comparative frames, justifying analytical claims).
+3. Bibliography — A complete bibliography of all works cited (primary and secondary) in the video essay, formatted according to MLA style, as well as a list of all film, and games to be used in the composition of the video essay.
+
+For our scripts, we want to maximize depth rather than breadth. As such, analytical focus is paramount to crafting a effective script. The visual components of your composition should do as much, or more, argumentative work as your spoken words, (e.g., illustrating key concepts, demonstrating comparative frames, justifying analytical claims).
 
 In an essay of this length, scripts should strive for a synthesis of secondary texts and primary examples within the following scope.
 
@@ -91,8 +93,6 @@ Draft Scripts Should:
 - identify and illustrate 1 observed pattern of textual detail and/or gamic action
 - introduce and explain 1 insight drawn from secondary research
 - elaborate and demonstrate 1 theoretical/critical concept
-
-3. Bibliography — A complete bibliography of all works cited (primary and secondary) in the video essay, formatted according to MLA style, as well as a list of all film, and games to be used in the composition of the video essay.
 
 **PLEASE NOTE:** Upon review, students may be asked to hold a follow-up conference with their TA in order to address any potential bottlenecks, or problems.
 
