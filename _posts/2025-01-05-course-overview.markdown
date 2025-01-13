@@ -83,7 +83,7 @@ syntaxHighlighter: no
 ##### **Week 10 - TA Guest Lectures**
 - **Watch** *Overlord* (2018), dir. Julius Avery
 - **Play** *Wolfenstein II: The New Colossus* (2017); *Wolfenstein 3D* (1992)
-- 
+
 ##### **Week 11 - TA Guest Lectures**
 - **Watch** *Throne of Blood* (1957), dir. Akira Kurosawa
 - **Play** *Resident Evil 4* (2005)
