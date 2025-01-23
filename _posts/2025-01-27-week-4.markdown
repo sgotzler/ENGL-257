@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Week 4 - Allegories of Control"
-date:   2025-01-24 01:00:00
-date:   2025-01-24 01:00:00
+date:   2025-01-23 01:00:00
+date:   2025-01-23 01:00:00
 excerpt: 
 categories:
 tags:
@@ -17,14 +17,15 @@ syntaxHighlighter: no
 
 ---
 
-###### Monday 09/11 - *INSIDE* Discussion - narrative and gamic action
+###### Monday 01/27 - *Metropolis* art in the age of mechanical reproduction 
+- **Make-Up Lecture on Narratives of Technology from 01/22** 
 
 ---
 
-###### Wednesday 09/13 - *Videodrome* and allegories of postmodern control
+###### Wednesday 01/29 - *Videodrome* and allegories of postmodern control
 
-- **Watch** *Videodrome* (1983), dir. David Cronenberg; *Perfect Vermin* (2020) [**Available on YouTube**](https://www.youtube.com/watch?v=XKiJ1zf3XJo); *Pony Island* (2016) [**Available via Canvas**](https://uncch.instructure.com/courses/33866/discussion_topics/230654)
-- **Read** Galloway, "Allegories of Control" [**PDF on Canvas**](https://uncch.instructure.com/courses/33866/files/folder/Readings?preview=4600654)
+- **Watch** *Videodrome* (1983), dir. David Cronenberg; *Perfect Vermin* (2020) [**Available on YouTube**](https://www.youtube.com/watch?v=XKiJ1zf3XJo); *Pony Island* (2016) [**Available via Canvas**](https://uncch.instructure.com/courses/78214/discussion_topics/543036)
+- **Read** Galloway, "Allegories of Control" [**PDF on Canvas**](https://uncch.instructure.com/courses/78214/files/folder/Readings?preview=9998519)
 
 ---
 
