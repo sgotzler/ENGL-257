@@ -17,7 +17,7 @@ syntaxHighlighter: no
 
 ---
 
-###### Monday 02/03 - *INSIDE* Discussion: Machines, Bodies, Interfaces, and Control
+###### Monday 02/03 - Discussion: Machines and Bodies, Interfaces and Allegorithms in *INSIDE*
 
 ---
 
