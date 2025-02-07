@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Week 6 - Operational Logics, Playable Models"
-date:   2025-02-07 01:00:00
-last_modified_at:  2025-02-07 01:00:00
+date:   2025-02-06 01:00:00
+last_modified_at:  2025-02-06 01:00:00
 excerpt: 
 categories: 
 tags: 
