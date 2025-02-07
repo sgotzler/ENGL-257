@@ -13,19 +13,19 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-##### **Week 6 — Video Essays Phase 1: Ideation and Planning**
+##### **Week 6 — Operational Logics, Playable Models**
 
 ---
 
-###### Monday 09/25 - **NO CLASS - WELLNESS DAY**
+###### Monday 02/10 - **NO CLASS - WELLNESS DAY**
 
 ---
 
-###### Wednesday 09/27 - Video Essay Collaborative Ideation Workshop
-- **Watch** [Tynes and Viano, "Frames of Mind"](http://mediacommons.org/intransition/2015/03/12/frames-mind); [Ian Bryce Jones, "Special Effectivities"](http://mediacommons.org/intransition/special-effectivities?fbclid=IwAR2aBlrkkFzZAPgPf8jA3FKC-NAIRcprhQKzVYpRAbz9HLfvwq5mHWywfuA); [Rick Warner, "Tarkovsky/This Side of the Screen"](https://vimeo.com/205626288); [Ben van Welzen, "Avatar in the Machine: The Fracture of Avatarial Identity in *SUPERHOT*"](https://uncch.instructure.com/courses/33866/discussion_topics/230654)
+###### Wednesday 02/12 - Process, Logic, Model
+- **READ** Wardrip-Fruin, "Operational Logics and Playable Models" [**PDF on Canvas**](https://uncch.instructure.com/courses/78214/files/folder/Readings?preview=10328819)
 
 ---
 
 ###### Friday 09/29
-- **Play** *Red Dead Redemption 2* (2018) 
+- **Play** *Death Stranding* (2019) 
 
