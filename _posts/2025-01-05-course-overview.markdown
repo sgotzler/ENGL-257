@@ -112,7 +112,7 @@ syntaxHighlighter: no
 
 ---
 
-##### **Week 16 - Conclustion to the Course**
+##### **Week 16 - Conclusion to the Course**
 - **Complete** Course Evaluations and Feedback Survey
 - **Submit** Video Essay FINAL Cut **(05/01 @ 5:00PM ET)**
 
