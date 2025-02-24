@@ -1,37 +1,36 @@
 ---
 layout: post
-title:  "Week 8 - Digital Dispossessions of Manifest Destiny"
-date:   2025-02-21 01:00:00
-last_modified_at:  2023-02-21 01:00:00
+title:  "Week 8 - Ontological Dependencies"
+date:   2025-02-23 01:00:00
+last_modified_at:  2023-02-23 01:00:00
 excerpt: 
 categories: 
 tags: 
 image:
-  feature: week7.webp
+  feature: week12.webp
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-##### **Week 8 — Digital Dispossessions of Manifest Destiny**
+##### **Week 8 — Ontological Dependencies**
+
+###### Monday 02/24 - *Mad Max: Fury Road*: flow cinema
+- Make-Up Lecture on Narrative Flows from 02/19
+---
+
+###### Wednesday 02/26 - *Death Stranding* Discussion: chains of dependency
+- ***Death Stranding*** - finish cut-scenes and gameplay up to [01:25:46] [**Video on YouTube**](https://www.youtube.com/watch?v=2_p9wLMNOeM)
+- **Watch** *Cyberpunk 2077* (2020)[**Available via Canvas**](https://uncch.instructure.com/courses/78214/discussion_topics/543036)
 
 ---
 
-###### Monday 10/09 - *The Oregon Trail* and *When Rivers Were Trails* Discussion: Digital Dispossessions
-
-- **Read** Bird, "Digital Dispossessions" [**PDF on Canvas**](https://uncch.instructure.com/courses/33866/files/folder/Readings?preview=4600659); Katherine Slater, "Who Gets to Die of Dysentary?: Ideology, Geography, and *The Oregon Trail*" [**PDF on Canvas**](https://uncch.instructure.com/courses/33866/files/folder/Readings?preview=4600661)
-
----
-
-###### Wednesday 10/11 - *Ravenous* - Manifest Destiny, Re-Mediated
-
-- **Watch** *Ravenous* (1999), dir. Antonia Bird [**Available via Canvas**](https://uncch.instructure.com/courses/33866/discussion_topics/230654)
+###### Friday 02/28 - Critical Play Session
+- **Play** *Death Stranding* (2019) 
 
 ---
 
-###### Friday 10/13 - Critical Play Session
-
-- **Play** *Never Alone (Kisima Inŋitchuŋa)* (2014) 
-
-
-
+###### Monday 03/03 - *Blade Runner: 2049* - dependency inversions and social reproduction
+- **Watch** *Blade Runner: 2049* (2017), dir. Denis Villeneuve [**Available via Canvas**](https://uncch.instructure.com/courses/78214/discussion_topics/543036)
+- **Watch** "Low Level Design 108 - Dependency Inversion Principle" [**Video on YouTube**](https://www.youtube.com/watch?v=_CQuOfIqaGE)
+- **Read** Sherryl Vint, "Vitality and reproduction in *Blade Runner 2049*" [**Available on Canvas**](https://uncch.instructure.com/courses/78214/files/folder/Readings?preview=9998510)
