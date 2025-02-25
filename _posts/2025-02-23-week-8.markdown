@@ -18,6 +18,7 @@ syntaxHighlighter: no
 ###### Monday 02/24 - *Mad Max: Fury Road*: flow cinema
 
 - Make-Up Lecture on Narrative Flows from 02/19
+
 ---
 
 ###### Wednesday 02/26 - *Death Stranding* Discussion: chains of dependency
