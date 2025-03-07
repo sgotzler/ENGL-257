@@ -29,7 +29,7 @@ syntaxHighlighter: no
 
 ---
 
-#### <a name="head1"></a>**Phase 1: Ideation and Planningg**
+#### <a name="head1"></a>**Phase 1: Ideation and Modeling**
 
 In the first phase of this project, students will view several sample video essays, and spend time in class discussing them. These samples will be analyzed as variable models of the genre, and will form the basis of a collaborative ideation exercise to facilitate brainstorming ideas for possible video essays. This initial period of ideation will be followed by the submission of a formal proposal at the end of week 12. The proposal will identify a topical focus for their essay, and explain its relevance to the course.
 
