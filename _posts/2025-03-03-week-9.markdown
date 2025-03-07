@@ -1,35 +1,26 @@
 ---
 layout: post
-title:  "Week 9 - Unsettling the Remediations of Colonialism"
-date:   2025-02-28 01:00:00
-last_modified_at:  2025-02-28 01:00:00
+title:  "Week 9 - The *Death Stranding* Experience"
+date:   2025-03-03 01:00:00
+last_modified_at:  2025-03-03 01:00:00
 excerpt: 
 categories: 
 tags: 
 image:
-  feature: week8.jpg
+  feature: week15.jpg
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-##### **Week 9 — Unsettling the Re-Mediations of Colonialism**
+##### **Week 9 — The Death Stranding Experience**
 
 ---
 
-###### Monday 10/16 - *Never Alone* Discussion: Sovereignty and Representation
-
-- **Read** La Pensée et al, "Towards Sovereign Games" [**PDF on Canvas**](https://uncch.instructure.com/courses/33866/files/folder/Readings?preview=4600658)
+###### Wednesday 03/05 - Discussion: the *Death Stranding Experience* playing between video games and cinema
 
 ---
 
-###### Wednesday 10/18 - *The Revenant* - Indigineity and conspicuous realism in the settle-colonial pastoral
-
-- **Watch** *The Revenant* (2015), dir. Alejandro González Iñárritu [**Available via Canvas**](https://uncch.instructure.com/courses/33866/discussion_topics/230654)
-
----
-
-###### Friday 10/20 - FALL BREAK
-
-- **NO SECTION**
+###### Friday 03/07 - Critical Play Session
+- **Play** *Death Stranding* (2019) 
 
