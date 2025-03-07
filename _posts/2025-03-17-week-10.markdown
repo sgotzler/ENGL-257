@@ -1,33 +1,32 @@
 ---
 layout: post
-title:  "Week 10 - Adaptive Exchanges"
-date:   2025-03-17 01:00:00
-last_modified_at:  2025-03-17 01:00:00
+title:  "Week 10 - TA Guest Lectures"
+date:   2025-03-07 01:00:00
+last_modified_at:  2025-03-07 01:00:00
 excerpt: 
 categories: 
 tags: 
 image:
-  feature: week15.jpg
+  feature: week10a.jpg
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-##### **Week 10 — Adaptive Exchanges**
+##### **Week 10 — TA Guest Lectures**
 
 ---
 
-###### Monday 10/23 - Pink Time #2
-- NO CLASS - Pink Time
+###### Monday 03/17 - Video Essay Projects
+- Assignment Overview, Timeline, and Planning Discussion
 
 ---
 
-###### Wednesday 10/25 - Adaptive Exchanges
-- debrief Pink Time #2
-- Unit 3 Introduction: Adaptation, Exchange, Environment
+###### Wednesday 03/19 - *Overlord* and *Wolfenstein II: The New Colossus*
+- Guest Lecture by TA Zayla Crocker - "Nazi Brains, and Klan Guts: Playing with Alternative Histories and Overlapping Traumas in Wolfenstein II: The New Colossus"
 
 ---
 
-###### Friday 10/27 - Critical Play Session
-- **Play** *Death Stranding* (2019) 
+###### Friday 03/21 - Critical Play Session
+- **Play** *Wolfenstein II: The New Colossus* (2017) 
 
