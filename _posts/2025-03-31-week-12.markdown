@@ -1,32 +1,30 @@
 ---
 layout: post
-title:  "Week 12 - Ontological Dependencies"
+title:  "Week 12 - Video Essays: Ideation and Planning"
 date:   2025-03-28 01:00:00
 last_modified_at:  2025-03-28 01:00:00
 excerpt: 
 categories: 
 tags: 
 image:
-  feature: week11.jpg
+  feature: week9.jpg
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-##### **Week 12 — Ontological Dependencies**
+##### **Week 12 — Video Essays: Ideation and Planning**
 
-###### Monday 11/06 - *Death Stranding* Discussion: chains of dependency
-- ***Death Stranding*** - finish cut-scenes and gameplay up to [01:25:46] [**Video on YouTube**](https://www.youtube.com/watch?v=2_p9wLMNOeM)
-- **Watch** *Cyberpunk 2077* (2020)[**Available via Canvas**](https://uncch.instructure.com/courses/33866/discussion_topics/230654)
+###### Monday 03/31 - *Resident Evil 4* Discussion
 
 ---
 
-###### Wednesday 11/08 - *Blade Runner: 2049* - dependency inversions and social reproduction
-- **Watch** *Blade Runner: 2049* (2017), dir. Denis Villeneuve [**Available via Canvas**](https://uncch.instructure.com/courses/33866/discussion_topics/230654)
-- **Watch** "Low Level Design 108 - Dependency Inversion Principle" [**Video on YouTube**](https://www.youtube.com/watch?v=_CQuOfIqaGE)
-- **Read** Sherryl Vint, "Vitality and reproduction in *Blade Runner 2049*" [**Available on Canvas**](https://uncch.instructure.com/courses/33866/files/folder/Readings?preview=4600662)
+###### Wednesday 04/02 - **Video Essays - Phase I**
+- **Watch** Ian Bryce Jones, "Special Effectivities" [**Available on Vimeo**](https://vimeo.com/286446396?embedded=true&source=vimeo_logo&owner=39594657)
+- **Watch** Rick Warner, "Tarkovsky / This Side of the Screen" [**Available on Vimeo**](https://vimeo.com/groups/essay/videos/205626288)
+- **In-Class** Essay Topic Ideation and Proposal Process Overview
 
 ---
 
-###### Friday 11/10 - Critical Play Session
-- **Play** *Death Stranding* (2019) 
+###### Friday 04/04 - Project Development
+- Video Essay Proposal Writing Workshop
