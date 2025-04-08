@@ -13,7 +13,7 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-##### **Week 13 — Video Essays: Storyboarding and Script-Blocking**
+##### **Week 13 — Video Essays - Phase II**
 
 ---
 
