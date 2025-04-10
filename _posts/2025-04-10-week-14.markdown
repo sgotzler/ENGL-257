@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Week 14 - Video Essays: Audio Recording and Media Capture"
+date:   2025-04-11 01:00:00
+last_modified_at:  2025-04-11 01:00:00
+excerpt: 
+categories: 
+tags: 
+image:
+  feature: week5.jpg
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+##### **Week 14 - Video Essays: Audio Recording and Media Capture**
+
+---
+
+###### Monday 04/14 - Editing w/ Adobe Premier
+
+- **Download & Install** [Adobe Premier Pro](https://software.sites.unc.edu/adobe/)
+- **Attend** Instructional Session on Editing Video with Premier Pro w/ UNC Media & Design Center Staff
+
+---
+
+###### Wednesday 04/16 - Video Essays Phase II
+
+- **Attend** Audio Recording and Media Capture Workshop
+
+---
+
+###### Friday 04/18 - Recitations Cancelled
+
+- **NO CLASS** - UNIVERSITY HOLIDAY
