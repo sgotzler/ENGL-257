@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Week 15 - Video Essays: Assembly and Editing"
+date:   2025-04-20 01:00:00
+last_modified_at:  2025-04-20 01:00:00
+excerpt: 
+categories: 
+tags: 
+image:
+  feature: week15a.png
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+##### **Week 15 – Video Essays: Assembly and Editing**
+
+---
+
+###### Monday 04/21
+- **Attend** Video Essay Assembly Workshop
+- **Review** Adobe resources on [YouTube](https://www.youtube.com/watch?v=z7kRV5ckmIM)
+- **_OPTIONAL_** Gameplay Capture Card Support in the Gameroom (03:30PM-05:30PM)
+
+---
+
+###### Wednesday 04/23 
+- **NO CLASS**: *asynchronous assembly and editing* 
+- **Review** TA Feedback on Storyboard + Draft Scripts
+
+---
+
+###### Friday 04/25
+- **Attend** Video Essay Rough Cut Peer Review in Recitation
+
+
