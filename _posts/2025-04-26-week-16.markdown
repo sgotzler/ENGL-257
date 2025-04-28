@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Week 16 - Conclusion to the Course"
+date:   2025-04-26 01:00:00
+last_modified_at:  2025-04-26 01:00:00
+excerpt: 
+categories: 
+tags: 
+image:
+  feature: week16.png
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+##### **Week 16 – Conclusion to the Course**
+
+---
+
+###### Monday 04/28 - Course Conclusion
+- **Submit** Course Feedback Survey 
+
+**Final Cut** [Due 05/01 @ 5PM via Canvas](https://uncch.instructure.com/courses/78214/assignments/602565)
+
+---
+
+###### Saturday 05/03 - Final Exam Period
+- **Attend** Screening Party
+
+
