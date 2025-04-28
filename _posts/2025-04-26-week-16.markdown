@@ -19,8 +19,7 @@ syntaxHighlighter: no
 
 ###### Monday 04/28 - Course Conclusion
 - **Submit** Course Feedback Survey 
-
-**Final Cut** [Due 05/01 @ 5PM via Canvas](https://uncch.instructure.com/courses/78214/assignments/602565)
+- **Final Cut** [Due 05/01 @ 5PM via Canvas](https://uncch.instructure.com/courses/78214/assignments/602565)
 
 ---
 
