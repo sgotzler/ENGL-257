@@ -7,7 +7,7 @@ excerpt:
 categories: 
 tags: 
 image:
-  feature: week16.png
+  feature: screening-party.jpg
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
@@ -24,6 +24,6 @@ syntaxHighlighter: no
 ---
 
 ###### Saturday 05/03 - Final Exam Period
-- **Attend** Screening Party
+- **Attend** Screening Party in GL 101 12-3PM ET
 
 
