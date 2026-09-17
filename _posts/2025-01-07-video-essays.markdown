@@ -8,7 +8,6 @@ categories:
 tags:
 image:
   feature: video_essays.jpg
-  topPosition: -100px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no

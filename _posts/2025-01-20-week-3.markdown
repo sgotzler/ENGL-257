@@ -8,7 +8,7 @@ categories:
 tags:
 image:
   feature: week2.jpg
-  topPosition: -100px
+  focus: 50% 44%
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no

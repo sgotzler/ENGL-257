@@ -6,11 +6,7 @@ layout: default
     <div class="section-backgroundImage">
 
       {% if page.image.feature %}
-        <img class="post-featuredImage" src="{{ page.image.feature | prepend: site.baseurl_featured_img }}" style="
-        {% if page.image.topPosition %}
-          top:{{ page.image.topPosition }};
-        {% endif %}
-        " alt="">
+        <img class="post-featuredImage" src="{{ page.image.feature | prepend: site.baseurl_featured_img }}" style="object-position: {{ page.image.focus | default: '50% 50%' }};" alt="">
       {% endif %}
 
     </div>
@@ -74,7 +70,7 @@ layout: default
           {% if page.previous.image.feature %}
             src="{{ page.previous.image.feature | prepend: site.baseurl_featured_img }}"
           {% endif %}
-          style="top:0" alt="">
+          style="object-position: {{ page.previous.image.focus | default: '50% 50%' }};" alt="">
         </div>
         <div class="section-gradient
         {% if page.previous.bgGradientOpacity == "darker" %}

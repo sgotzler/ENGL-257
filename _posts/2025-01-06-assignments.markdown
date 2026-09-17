@@ -8,7 +8,6 @@ categories:
 tags: 
 image:
   feature: assignments.jpg
-  topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no

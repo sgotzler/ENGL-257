@@ -8,7 +8,6 @@ categories:
 tags:  
 image:
   feature: cyberpunk.jpg
-  topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no

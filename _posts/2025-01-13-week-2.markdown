@@ -8,7 +8,7 @@ categories:
 tags:
 image:
   feature: introduction.png
-  topPosition: -200px
+  focus: 50% 30%
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no

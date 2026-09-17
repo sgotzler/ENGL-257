@@ -8,7 +8,6 @@ categories:
 tags:
 image:
   feature: Gameroom.png
-  topPosition: -200px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no

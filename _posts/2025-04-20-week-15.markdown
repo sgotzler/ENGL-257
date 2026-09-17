@@ -8,7 +8,6 @@ categories:
 tags: 
 image:
   feature: week15a.png
-  topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
