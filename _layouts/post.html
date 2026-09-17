@@ -46,7 +46,13 @@ layout: default
     <div class="container container--content">
       <div class="content-body">
 
-        {{ content }}
+        {% if page.url contains '/week-' %}
+          {% include cards-week.html %}
+        {% elsif page.url contains '/course-overview' %}
+          {% include cards-overview.html %}
+        {% else %}
+          {{ content }}
+        {% endif %}
 
       </div>
     </div>

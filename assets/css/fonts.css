@@ -1,0 +1,21 @@
+/*
+ * Body font override for ENGL-257.
+ * Loaded after main.css in _includes/head.html, so these rules win.
+ * To undo: delete this file and its <link> line in head.html.
+ *
+ * The course pages write most prose as ###### (h6) and week labels as ##### (h5),
+ * so those get the body font too. Tiles, banners, h2 (Roboto) and h3/h4 (PT Sans) are unchanged.
+ */
+
+/* The theme never sets a page background, so dark-mode browsers painted a black band
+   behind the header and exposed the white plate of the title logo. Paint it white explicitly. */
+html,
+body {
+  background-color: #fff;
+}
+
+html,
+h5,
+h6 {
+  font-family: "IBM Plex Sans", "Helvetica Neue", Arial, sans-serif;
+}

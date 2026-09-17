@@ -1,0 +1,51 @@
+{% comment %}
+  Week pages: the whole week becomes one card. The ##### week title is the dark strip;
+  each ###### day becomes a row with a shaded date cell and a content cell.
+  Day headings look like "Wednesday 02/12 - Process, Logic, Model" (or with an em dash),
+  so the first two words become the date cell and the rest becomes the session title.
+  Days whose title says NO CLASS or Cancelled get a muted row.
+  Splits on the <h6> headings rather than on --- dividers, which some weeks skip.
+  The markdown is unchanged; remove this include from _layouts/post.html to undo.
+{% endcomment %}
+{% assign parts = content | split: '<h6' %}
+<div class="cards cards--week">
+  <section class="card weekCard">
+    <header class="card-strip">{{ parts[0] | replace: '<hr />', '' }}</header>
+    <div class="weekCard-days">
+    {% for part in parts offset:1 %}
+      {% assign chunk = part | prepend: '<h6' | replace: '<hr />', '' %}
+      {% assign pieces = chunk | split: '</h6>' %}
+      {% assign body = pieces[1] | strip %}
+
+      {% comment %} Inner HTML of the <h6>, keeping italics and bold. {% endcomment %}
+      {% assign openTag = pieces[0] | split: '">' | first %}
+      {% assign inner = pieces[0] | remove_first: openTag | remove_first: '">' | strip %}
+      {% assign words = inner | split: ' ' %}
+      {% assign dayName = words[0] %}
+      {% assign dayDate = words[1] %}
+      {% assign title = inner | remove_first: dayName | strip | remove_first: dayDate | strip %}
+      {% assign lead = title | slice: 0, 2 %}
+      {% if lead == '- ' or lead == '— ' or lead == '– ' %}
+        {% assign title = title | slice: 2, 10000 | strip %}
+      {% elsif title == '-' or title == '—' or title == '–' %}
+        {% assign title = '' %}
+      {% endif %}
+
+      {% assign quiet = false %}
+      {% if title contains 'NO CLASS' or title contains 'No Class' or title contains 'Cancelled' or title contains 'CANCELLED' %}
+        {% assign quiet = true %}
+      {% endif %}
+      <div class="weekCard-day{% if quiet %} weekCard-day--quiet{% endif %}">
+        <div class="weekCard-date">
+          <span class="weekCard-dayName">{{ dayName }}</span>
+          <span class="weekCard-dayDate">{{ dayDate }}</span>
+        </div>
+        <div class="weekCard-content">
+          {% if title != '' %}<h6 class="weekCard-title">{{ title }}</h6>{% endif %}
+          {% unless body == '' %}{{ body }}{% endunless %}
+        </div>
+      </div>
+    {% endfor %}
+    </div>
+  </section>
+</div>

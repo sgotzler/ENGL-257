@@ -1,0 +1,29 @@
+{% comment %}
+  Course overview: keeps the intro as prose, then turns each week in the outline
+  (a ##### heading plus its list) into a card in a grid. #### labels between weeks
+  close the grid, print as section headings, and open a new grid.
+  The markdown is unchanged; remove this include from _layouts/post.html to undo.
+{% endcomment %}
+{% assign parts = content | split: '<h5' %}
+<div class="cards cards--overview">
+  <div class="cards-intro">{{ parts[0] | replace: '<hr />', '' }}</div>
+  <div class="cards-grid">
+  {% for part in parts offset:1 %}
+    {% assign sub = part | split: '<h4' %}
+    {% assign chunk = sub[0] | prepend: '<h5' | replace: '<hr />', '' %}
+    {% assign pieces = chunk | split: '</h5>' %}
+    {% assign body = pieces[1] | strip %}
+    <section class="card{% if body == '' %} card--stripOnly{% endif %}">
+      <header class="card-strip">{{ pieces[0] }}</h5></header>
+      {% unless body == '' %}<div class="card-body">{{ body }}</div>{% endunless %}
+    </section>
+    {% if sub.size > 1 %}
+  </div>
+      {% for label in sub offset:1 %}
+  <div class="cards-label">{{ label | prepend: '<h4' | replace: '<hr />', '' }}</div>
+      {% endfor %}
+  <div class="cards-grid">
+    {% endif %}
+  {% endfor %}
+  </div>
+</div>
