@@ -22,5 +22,6 @@ syntaxHighlighter: no
 ---
 
 ###### Friday 03/07 - Critical Play Session
-- **Play** *Death Stranding* (2019) 
+- **Play** *Death Stranding* (2019)
+- **Submit** Journal #3 **(03/07 @ 11:59PM ET)**
 

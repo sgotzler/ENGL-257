@@ -29,11 +29,17 @@ syntaxHighlighter: no
 
 ---
 
+![The Gameroom]({{ site.baseurl_featured_img }}Gameroom.png)
+
 ##### **Week 1 - Introduction to the Course**
 - **Review** [Course Syllabus](https://uncch.instructure.com/courses/78214/files?preview=10009466)
 - **Attend** Gameroom Orientation in Section on Friday
 
 ---
+
+#### INSIDE
+
+![INSIDE]({{ site.baseurl_featured_img }}video_essays.jpg)
 
 ##### **Week 2 - Grammars of Action**
 - **Watch** *Modern Times* (1936), dir. Charlie Chaplin (excerpted); *Rom Check Fail!*
@@ -47,7 +53,7 @@ syntaxHighlighter: no
 - **Submit** Journal #1 **(01/24 @ 11:59PM ET)**
 
 ##### **Week 4 - Allegories of Control**
-- **Watch** *Videodrome* (1983), dir. David Cronenberg; *Perfect Vermin* (2020); *Pony Island* (2016)*Pony Island* (2016)
+- **Watch** *Videodrome* (1983), dir. David Cronenberg; *Perfect Vermin* (2020); *Pony Island* (2016)
 - **Read** Galloway, "Allegories of Control"
 - **Play** *INSIDE* (2016)
 
@@ -57,6 +63,10 @@ syntaxHighlighter: no
 - **Play** *INSIDE* (2016)
 
 ---
+
+#### Death Stranding
+
+![Death Stranding]({{ site.baseurl_featured_img }}week15.jpg)
 
 ##### **Week 6 - Operational Logics, Playable Models**
 - **Read** Wardrip-Fruin, "Operational Logics and Playable Models"
@@ -73,13 +83,17 @@ syntaxHighlighter: no
 - **Read** Vint, "Vitality and reproduction in *Blade Runner 2049*"; "Dependency Inversion Principle for Software Development"
 - **Play** *Death Stranding* (2019)
 
-##### **Week 9 - Extractive Loops** 
-- **Watch** *Dune* (2021), dir. Denis Villeneuve;*Dune II* (1992)
-- **Read** Fent & Kojola, "Political Ecologies of Time and Temporality in Resource Extraction"; "What are Loops in Game Design?"
+##### **Week 9 - The Death Stranding Experience**
+- **Discuss** the *Death Stranding* Experience: playing, between video games and cinema
 - **Play** *Death Stranding* (2019)
 - **Submit** Journal #3 **(03/07 @ 11:59PM ET)**
   
 ---
+
+#### TA Guest Lectures
+
+![TA Guest Lectures]({{ site.baseurl_featured_img }}week11a.jpg){: .banner-faces}
+
 ##### **Week 10 - TA Guest Lectures**
 - **Watch** *Overlord* (2018), dir. Julius Avery
 - **Play** *Wolfenstein II: The New Colossus* (2017); *Wolfenstein 3D* (1992)
@@ -91,6 +105,8 @@ syntaxHighlighter: no
 ---
 
 #### Final Projects
+
+![Final Projects]({{ site.baseurl_featured_img }}week16.png)
 
 ##### **Week 12 - Video Essays: Ideation and Planning**
 - **Watch** [Ian Bryce Jones, "Special Effectivies"](http://mediacommons.org/intransition/special-effectivities?fbclid=IwAR2aBlrkkFzZAPgPf8jA3FKC-NAIRcprhQKzVYpRAbz9HLfvwq5mHWywfuA); [Rick Warner, "Tarkovsky/This Side of the Screen"](https://vimeo.com/205626288)
