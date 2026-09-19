@@ -24,13 +24,13 @@ syntaxHighlighter: no
 
 ---
 
-###### Wednesday 04/23 
-- **NO CLASS**: *asynchronous assembly and editing* 
+###### Wednesday 04/23 - **NO CLASS** - *asynchronous assembly and editing*
 - **Review** TA Feedback on Storyboard + Draft Scripts
 
 ---
 
 ###### Friday 04/25
 - **Attend** Video Essay Rough Cut Peer Review in Recitation
+- **Submit** Rough Cut **(04/25 @ 9:00AM ET)**
 
 

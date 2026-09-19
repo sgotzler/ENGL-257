@@ -109,19 +109,19 @@ syntaxHighlighter: no
 ![Final Projects]({{ site.baseurl_featured_img }}week16.png)
 
 ##### **Week 12 - Video Essays: Ideation and Planning**
-- **Watch** [Ian Bryce Jones, "Special Effectivies"](http://mediacommons.org/intransition/special-effectivities?fbclid=IwAR2aBlrkkFzZAPgPf8jA3FKC-NAIRcprhQKzVYpRAbz9HLfvwq5mHWywfuA); [Rick Warner, "Tarkovsky/This Side of the Screen"](https://vimeo.com/205626288)
+- **Watch** [Ian Bryce Jones, "Special Effectivities"](http://mediacommons.org/intransition/special-effectivities?fbclid=IwAR2aBlrkkFzZAPgPf8jA3FKC-NAIRcprhQKzVYpRAbz9HLfvwq5mHWywfuA); [Rick Warner, "Tarkovsky/This Side of the Screen"](https://vimeo.com/205626288)
 - **Attend** Essay Topic Ideation Workshop
 - **Submit** Video Essay Proposal **(04/04 @ 11:59PM ET)**
 
-##### **Week 13 - Video Essays: Storyboards and Argument Blocking**
+##### **Week 13 - Video Essays: Storyboarding and Script-Blocking**
 - **Watch** [Tynes and Viano "Frames of Mind" from *In Transition*](http://mediacommons.org/intransition/2015/03/12/frames-mind); [Ben van Welzen "Avatar in the Machine: The Fracture of Avatarial Identity in *SUPERHOT*"](https://adminliveunc-my.sharepoint.com/:v:/g/personal/sgotzler_ad_unc_edu/Ea7zHzV0oT5Hlk6nKnn-E3QBxa-mi4cUHY-yIQwZmaMRZQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bdfzTz)
 - **Attend** Storyboards and Script Blocking Workshop
 
-##### **Week 14 - Video Essays: Scriptwriting and Audio Recording**
+##### **Week 14 - Video Essays: Audio Recording and Media Capture**
 - **Attend** Adobe Premier Tutorial Special Session w/ Media & Design Center Staff
 - **Submit** Storyboard + Draft Script **(04/16 @ 5:00PM ET)**
 
-##### **Week 15 - Video Essays: Media Capture, Editing, and Peer Review**
+##### **Week 15 - Video Essays: Assembly and Editing**
 - **Attend** Media Capture Workshop
 - **Submit** Rough Cut **(04/25 @ 9:00AM ET)**
 - **Attend** Rough Cut Workshop in Recitation Sections
