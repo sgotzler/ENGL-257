@@ -14,7 +14,7 @@ syntaxHighlighter: no
 ---
 ##### **Week 8 — Ontological Dependencies**
 
-###### Monday 02/24 - *Mad Max: Fury Road*: flow cinema
+###### Monday 02/24 - *Mad Max: Fury Road* - flow cinema
 
 - **Make-Up Lecture on Narrative Flows from 02/19**
 
@@ -30,8 +30,8 @@ syntaxHighlighter: no
 
 ---
 
-###### Monday 03/03 - *Blade Runner: 2049* - dependency inversions and social reproduction
-- **Watch** *Blade Runner: 2049* (2017), dir. Denis Villeneuve [**Available via Canvas**](https://uncch.instructure.com/courses/78214/discussion_topics/543036)
+###### Monday 03/03 - *Blade Runner 2049* - dependency inversions and social reproduction
+- **Watch** *Blade Runner 2049* (2017), dir. Denis Villeneuve [**Available via Canvas**](https://uncch.instructure.com/courses/78214/discussion_topics/543036)
 - **Watch** "Low Level Design 108 - Dependency Inversion Principle" [**Video on YouTube**](https://www.youtube.com/watch?v=_CQuOfIqaGE)
 - **Read** Sherryl Vint, "Vitality and reproduction in *Blade Runner 2049*" [**Available on Canvas**](https://uncch.instructure.com/courses/78214/files/folder/Readings?preview=9998510)
 - **Watch** *Cyberpunk 2077* (2020)[**Available via Canvas**](https://uncch.instructure.com/courses/78214/discussion_topics/543036)
