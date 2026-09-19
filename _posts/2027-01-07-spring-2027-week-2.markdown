@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Week 2 - TITLE"
+date:   2027-01-07 01:00:00
+permalink: /spring-2027/week-2
+excerpt: 
+categories: 
+tags: 
+image:
+  feature: FIXME.jpg
+  # focus: 50% 50%   # optional crop: horizontal% vertical%
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+##### **Week 2 - TITLE**
+
+---
+
+###### Monday 01/11 - TITLE
+- **Watch** 
+- **Read** 
+
+---
+
+###### Wednesday 01/13 - TITLE
+- **Watch** 
+- **Read** 
+
+---
+
+###### Friday 01/15 - Recitation: Critical Play Session
+- **Play** 

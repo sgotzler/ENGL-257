@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Week 5 - TITLE"
+date:   2027-01-28 01:00:00
+permalink: /spring-2027/week-5
+excerpt: 
+categories: 
+tags: 
+image:
+  feature: FIXME.jpg
+  # focus: 50% 50%   # optional crop: horizontal% vertical%
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+##### **Week 5 - TITLE**
+
+---
+
+###### Monday 02/01 - TITLE
+- **Watch** 
+- **Read** 
+
+---
+
+###### Wednesday 02/03 - TITLE
+- **Watch** 
+- **Read** 
+
+---
+
+###### Friday 02/05 - Recitation: Critical Play Session
+- **Play** 

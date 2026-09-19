@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Week 4 - TITLE"
+date:   2027-01-21 01:00:00
+permalink: /spring-2027/week-4
+excerpt: 
+categories: 
+tags: 
+image:
+  feature: FIXME.jpg
+  # focus: 50% 50%   # optional crop: horizontal% vertical%
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+##### **Week 4 - TITLE**
+
+---
+
+###### Monday 01/25 - TITLE
+- **Watch** 
+- **Read** 
+
+---
+
+###### Wednesday 01/27 - TITLE
+- **Watch** 
+- **Read** 
+
+---
+
+###### Friday 01/29 - Recitation: Critical Play Session
+- **Play** 

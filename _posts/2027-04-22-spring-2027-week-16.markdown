@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Week 16 - TITLE"
+date:   2027-04-22 01:00:00
+permalink: /spring-2027/week-16
+excerpt: 
+categories: 
+tags: 
+image:
+  feature: FIXME.jpg
+  # focus: 50% 50%   # optional crop: horizontal% vertical%
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+##### **Week 16 - TITLE**
+
+---
+
+###### Monday 04/26 - TITLE
+- **Watch** 
+- **Read** 

@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Week 6 - TITLE"
+date:   2027-02-04 01:00:00
+permalink: /spring-2027/week-6
+excerpt: 
+categories: 
+tags: 
+image:
+  feature: FIXME.jpg
+  # focus: 50% 50%   # optional crop: horizontal% vertical%
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+##### **Week 6 - TITLE**
+
+---
+
+###### Monday 02/08 - **NO CLASS - WELLNESS DAY**
+
+---
+
+###### Wednesday 02/10 - TITLE
+- **Watch** 
+- **Read** 
+
+---
+
+###### Friday 02/12 - Recitation: Critical Play Session
+- **Play** 

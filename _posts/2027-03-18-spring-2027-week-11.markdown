@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Week 11 - TITLE"
+date:   2027-03-18 01:00:00
+permalink: /spring-2027/week-11
+excerpt: 
+categories: 
+tags: 
+image:
+  feature: FIXME.jpg
+  # focus: 50% 50%   # optional crop: horizontal% vertical%
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+##### **Week 11 - TITLE**
+
+---
+
+###### Monday 03/22 - TITLE
+- **Watch** 
+- **Read** 
+
+---
+
+###### Wednesday 03/24 - TITLE
+- **Watch** 
+- **Read** 
+
+---
+
+###### Friday 03/26 - **NO CLASS - SPRING HOLIDAY**

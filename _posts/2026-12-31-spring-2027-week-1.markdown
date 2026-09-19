@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Week 1 - TITLE"
+date:   2026-12-31 01:00:00
+permalink: /spring-2027/week-1
+excerpt: 
+categories: 
+tags: 
+image:
+  feature: FIXME.jpg
+  # focus: 50% 50%   # optional crop: horizontal% vertical%
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+##### **Week 1 - TITLE**
+
+---
+
+###### Wednesday 01/06 - TITLE
+- **Watch** 
+- **Read** 
+
+---
+
+###### Friday 01/08 - Recitation: Critical Play Session
+- **Play** 

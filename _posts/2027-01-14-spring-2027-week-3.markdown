@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Week 3 - TITLE"
+date:   2027-01-14 01:00:00
+permalink: /spring-2027/week-3
+excerpt: 
+categories: 
+tags: 
+image:
+  feature: FIXME.jpg
+  # focus: 50% 50%   # optional crop: horizontal% vertical%
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+##### **Week 3 - TITLE**
+
+---
+
+###### Monday 01/18 - **NO CLASS - MLK JR. DAY**
+
+---
+
+###### Wednesday 01/20 - TITLE
+- **Watch** 
+- **Read** 
+
+---
+
+###### Friday 01/22 - Recitation: Critical Play Session
+- **Play** 

@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Week 12 - TITLE"
+date:   2027-03-25 01:00:00
+permalink: /spring-2027/week-12
+excerpt: 
+categories: 
+tags: 
+image:
+  feature: FIXME.jpg
+  # focus: 50% 50%   # optional crop: horizontal% vertical%
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+##### **Week 12 - TITLE**
+
+---
+
+###### Monday 03/29 - TITLE
+- **Watch** 
+- **Read** 
+
+---
+
+###### Wednesday 03/31 - TITLE
+- **Watch** 
+- **Read** 
+
+---
+
+###### Friday 04/02 - Recitation: Critical Play Session
+- **Play** 

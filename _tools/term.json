@@ -1,0 +1,24 @@
+{
+  "term": "Spring 2027",
+  "slug_prefix": "spring-2027",
+  "permalink_prefix": "/spring-2027/",
+  "meeting_days": ["Monday", "Wednesday", "Friday"],
+  "recitation_day": "Friday",
+  "recitation_label": "Recitation: Critical Play Session",
+  "first_class_day": "2027-01-06",
+  "last_class_day": "2027-04-26",
+  "post_date_offset_days": -4,
+  "_comment": "Dates below come from the UNC academic calendar (catalog.unc.edu). no_class marks days inside the term with no meeting; break is an inclusive range.",
+  "no_class": {
+    "2027-01-18": "NO CLASS - MLK JR. DAY",
+    "2027-02-08": "NO CLASS - WELLNESS DAY",
+    "2027-03-26": "NO CLASS - SPRING HOLIDAY"
+  },
+  "breaks": [
+    { "start": "2027-03-08", "end": "2027-03-14", "label": "Spring Break" }
+  ],
+  "final_exam": {
+    "date": "2027-05-06",
+    "label": "Final Exam Period"
+  }
+}
