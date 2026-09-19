@@ -3,6 +3,7 @@ layout: post
 title:  "Week 8 - TITLE"
 date:   2027-02-18 01:00:00
 permalink: /spring-2027/week-8
+term:   "Spring 2027"
 excerpt: 
 categories: 
 tags: 

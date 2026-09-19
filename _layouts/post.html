@@ -40,7 +40,7 @@ layout: default
   </section>
   <section class="section--last">
     <div class="container container--content">
-      <div class="content-body">
+      <div class="content-body{% if page.url contains '/video-essays' or page.url contains '/assignments' %} content-body--prose{% endif %}">
 
         {% if page.url contains '/week-' %}
           {% include cards-week.html %}

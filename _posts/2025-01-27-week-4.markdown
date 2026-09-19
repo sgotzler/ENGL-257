@@ -3,6 +3,7 @@ layout: post
 title:  "Week 4 - Allegories of Control"
 date:   2025-01-23 01:00:00
 date:   2025-01-23 01:00:00
+term:   "Spring 2025"
 excerpt: 
 categories:
 tags:

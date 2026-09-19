@@ -1,20 +1,32 @@
 <nav role="navigation" class="sidebar sidebar--right">
   <a href="{{site.baseurl}}" class="textLogo textLogo--white textLogo--sidebar">{{ site.name }}</a>
-  <ul class="sidebar-recentPosts">
-    {% for post in site.posts offset:0 limit:19 %}
-      {% if post.title == page.title %}
-        <!-- exclude current post -->
-      {% else %}
-      <li>
-        {% if post.image.feature %}
-          <a href="{{site.baseurl}}{{ post.url }}" class="sidebar-recentPosts-image-wrapper">
-            <img src="{{ post.image.feature | prepend: site.baseurl_featured_thumbnail }}" style="" alt="">
-          </a>
-        {% endif %}
-        <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>
-        <div class="postMeta">{{ post.date | date_to_string }}</div>
-      </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
+
+  {% comment %}
+    Posts grouped by their front-matter `term`, newest term first, and listed in course
+    order within each term (overview, assignments, video essays, then weeks 1-16 by date).
+    The theme's original version listed every post newest-first with no grouping.
+    Future-dated posts (e.g. a term that hasn't started) are not in site.posts yet.
+  {% endcomment %}
+  {% assign termGroups = site.posts | group_by: 'term' | sort: 'name' | reverse %}
+  {% for term in termGroups %}
+    {% if termGroups.size > 1 %}
+      <div class="sidebar-termLabel">{% if term.name == '' %}Other{% else %}{{ term.name }}{% endif %}</div>
+    {% endif %}
+    <ul class="sidebar-recentPosts">
+      {% assign termPosts = term.items | sort: 'date' %}
+      {% for post in termPosts %}
+        {% unless post.url == page.url %}
+          <li>
+            {% if post.image.feature %}
+              <a href="{{site.baseurl}}{{ post.url }}" class="sidebar-recentPosts-image-wrapper">
+                <img src="{{ post.image.feature | prepend: site.baseurl_featured_thumbnail }}" alt="">
+              </a>
+            {% endif %}
+            <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>
+            <div class="postMeta">{{ post.date | date_to_string }}</div>
+          </li>
+        {% endunless %}
+      {% endfor %}
+    </ul>
+  {% endfor %}
 </nav>

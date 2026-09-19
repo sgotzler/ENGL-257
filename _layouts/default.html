@@ -16,7 +16,8 @@
       {% include sidebar-toggle.html %}
     {% endif %}
 
-    {% if page.url == '/index.html' %}
+    {% comment %} The homepage is served at "/", so the theme's original '/index.html' test never matched. {% endcomment %}
+    {% if page.url == '/' or page.url == '/index.html' %}
       {% include subscribe.html %}
       {% include footer.html %}
     {% endif %}

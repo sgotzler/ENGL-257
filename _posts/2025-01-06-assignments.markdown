@@ -2,6 +2,7 @@
 layout: post
 title:  "Assignments & Materials"
 date:   2025-01-06 01:00:00
+term:   "Spring 2025"
 last_modified_at:  2025-01-06 01:00:00
 excerpt: 
 categories: 

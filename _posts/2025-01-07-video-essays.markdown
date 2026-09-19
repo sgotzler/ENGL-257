@@ -3,6 +3,7 @@ layout: post
 title:  "Video Essay Projects"
 date:   2025-01-07 01:00:00
 date:   2025-01-07 02:00:00
+term:   "Spring 2025"
 excerpt:
 categories:
 tags:

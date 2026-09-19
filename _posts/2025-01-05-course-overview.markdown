@@ -2,6 +2,7 @@
 layout: post
 title:  "Course Overview and Outline"
 date:   2025-01-05 01:00:00
+term:   "Spring 2025"
 last_modified_at:  2025-01-05 01:00:00
 excerpt: 
 categories: 

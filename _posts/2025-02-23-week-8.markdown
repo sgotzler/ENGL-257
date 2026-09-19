@@ -2,6 +2,7 @@
 layout: post
 title:  "Week 8 - Ontological Dependencies"
 date:   2025-02-23 01:00:00
+term:   "Spring 2025"
 last_modified_at:  2023-02-23 01:00:00
 excerpt: 
 categories: 

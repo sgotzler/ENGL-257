@@ -19,3 +19,24 @@ h5,
 h6 {
   font-family: "IBM Plex Sans", "Helvetica Neue", Arial, sans-serif;
 }
+
+/*
+ * Long-form pages (Video Essays, Assignments). The theme sets body text at 22px in a
+ * 670px column, which reads oversized next to the week cards; these bring it to 17px.
+ * _layouts/post.html adds .content-body--prose on those two pages only.
+ */
+.content-body--prose p,
+.content-body--prose li {
+  font-size: 17px;
+  line-height: 1.6;
+}
+/* Video Essays writes prose as ###### headings, which browsers make bold. */
+.content-body--prose h6 {
+  font-size: 17px;
+  line-height: 1.6;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+.content-body--prose h5 { font-size: 19px; line-height: 1.4; }
+.content-body--prose h4 { font-size: 24px; line-height: 1.3; }
+.content-body--prose h3 { font-size: 30px; line-height: 1.25; }

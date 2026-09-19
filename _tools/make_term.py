@@ -80,6 +80,7 @@ def page_for(week, cfg):
         f'title:  "Week {week["number"]} - TITLE"',
         f"date:   {post_date} 01:00:00",
         f"permalink: {cfg['permalink_prefix']}week-{week['number']}",
+        f'term:   "{cfg["term"]}"',
         "excerpt: ",
         "categories: ",
         "tags: ",
