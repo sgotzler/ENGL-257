@@ -28,6 +28,7 @@ syntaxHighlighter: no
 
 ---
 
-###### Friday 01/24 - Section: Critical Play Session
-- **Play** *INSIDE* (2016) 
+###### Friday 01/24 - Recitation: Critical Play Session
+- **Play** *INSIDE* (2016)
+- **Submit** Journal #1 **(01/24 @ 11:59PM ET)**
 

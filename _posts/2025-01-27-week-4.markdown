@@ -16,7 +16,7 @@ syntaxHighlighter: no
 
 ---
 
-###### Monday 01/27 - *Metropolis* art in the age of mechanical reproduction 
+###### Monday 01/27 - *Metropolis* and art in the age of mechanical reproduction
 - **Make-Up Lecture on Narratives of Technology from 01/22** 
 
 ---
@@ -28,5 +28,5 @@ syntaxHighlighter: no
 
 ---
 
-###### Friday 01/31 - Section: Critical Play Session
+###### Friday 01/31 - Recitation: Critical Play Session
 - **Play** *INSIDE* (2016) 

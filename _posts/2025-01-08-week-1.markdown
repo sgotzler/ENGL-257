@@ -24,4 +24,4 @@ syntaxHighlighter: no
 
 ---
 
-###### Friday 01/10 — Section: Peer Introductions and Gameroom Orientation
+###### Friday 01/10 — Recitation: Peer Introductions and Gameroom Orientation
