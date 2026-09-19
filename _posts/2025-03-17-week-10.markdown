@@ -28,6 +28,6 @@ syntaxHighlighter: no
 
 ---
 
-###### Friday 03/21 - Critical Play Session
+###### Friday 03/21 - Recitation: Critical Play Session
 - **Play** *Wolfenstein II: The New Colossus* (2017); *Wolfenstein 3D* (1992)
 

@@ -26,5 +26,5 @@ syntaxHighlighter: no
 
 ---
 
-###### Friday 03/28 - Critical Play Session
+###### Friday 03/28 - Recitation: Critical Play Session
 - **Play** *Resident Evil 4* (2005) 
