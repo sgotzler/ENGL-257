@@ -32,7 +32,7 @@ syntaxHighlighter: no
 
 ##### **Week 1 - Introduction to the Course**
 - **Review** [Course Syllabus](https://uncch.instructure.com/courses/78214/files?preview=10009466)
-- **Attend** Gameroom Orientation in Section on Friday
+- **Attend** Gameroom Orientation in Recitation on Friday
 
 ---
 
