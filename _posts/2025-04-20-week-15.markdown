@@ -17,7 +17,7 @@ syntaxHighlighter: no
 
 ---
 
-###### Monday 04/21
+###### Monday 04/21 - Video Essay Assembly
 - **Attend** Video Essay Assembly Workshop
 - **Review** Adobe resources on [YouTube](https://www.youtube.com/watch?v=z7kRV5ckmIM)
 - **_OPTIONAL_** Gameplay Capture Card Support in the Gameroom (03:30PM-05:30PM)
@@ -29,7 +29,7 @@ syntaxHighlighter: no
 
 ---
 
-###### Friday 04/25
+###### Friday 04/25 - Recitation: Rough Cut Peer Review
 - **Attend** Video Essay Rough Cut Peer Review in Recitation
 - **Submit** Rough Cut **(04/25 @ 9:00AM ET)**
 

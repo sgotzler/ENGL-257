@@ -26,6 +26,6 @@ syntaxHighlighter: no
 
 ---
 
-###### Friday 04/04 - Project Development
+###### Friday 04/04 - Recitation: Project Development
 - Video Essay Proposal Writing Workshop
 - **Submit** Video Essay Proposal **(04/04 @ 11:59PM ET)**

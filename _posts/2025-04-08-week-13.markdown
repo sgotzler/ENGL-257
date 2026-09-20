@@ -29,5 +29,5 @@ syntaxHighlighter: no
 
 ---
 
-###### Friday 04/11 - Project Development
+###### Friday 04/11 - Recitation: Project Development
 - **Attend** Storyboarding Workshop 
