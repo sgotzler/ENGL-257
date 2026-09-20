@@ -1,0 +1,8 @@
+# macOS Finder metadata
+.DS_Store
+
+# Local Jekyll build output and caches
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
