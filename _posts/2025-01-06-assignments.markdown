@@ -68,13 +68,13 @@ Play Journal essays will be assessed 3 times throughout the semester in weeks 3,
 
 #### FINAL: Video Essay Project
 
-The capstone assignment for this course will be a video essay project that we will screen together as a class at the end of the semester. These essays will showcase our various explorations of, and interventions in, the study of video games and narrative cinema. 
+The capstone assignment for this course will be a video essay project that we will screen together at the end of the semester, in a public screening and peer-voted awards ceremony. These essays will showcase our various explorations of, and interventions in, the study of video games and narrative cinema. 
 
-Students will use these video essay project to make original arguments about the interpenetrated histories, forms, and/or genres of video games and narrative cinema, drawing on primary sources drawn from the course syllabus and conducting secondary research on their own. In the process, we will work together to craft visual arguments about the visual culture examined in the class.
+Students will use these video essay project to make original arguments about the interpenetrated histories, forms, and/or genres of video games and narrative cinema, drawing on films and games of their own choosing, which need not come from the course syllabus, and conducting secondary research on their own. In the process, we will work together to craft visual arguments about the visual culture examined in the class.
 
 Throughout the semester we will scaffold this assignment with additional technical instruction and tutorials, by viewing and analyzing other video essays as models, and working in groups to provide feedback and advice on composition, editing, and revision of these projects. 
 
-*Expectation and Effort*: These finished video essays should be 5-7min in length, must utilize a minimum of 3 secondary sources drawn either from the course syllabus or independent student research, and should engage in analysis of both video games and films as primary sources.
+*Expectation and Effort*: These finished video essays should be 5-7min in length, must draw on a minimum of 3 secondary sources found through independent student research beyond the course readings, and should analyze at least one video game and one film as primary sources.
 
 Instruction during weeks 12-15 will be dedicated solely to developing these video essay projects. 
 

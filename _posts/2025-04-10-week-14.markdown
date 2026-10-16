@@ -20,7 +20,7 @@ syntaxHighlighter: no
 ###### Monday 04/14 - Editing w/ Adobe Premiere
 
 - **Download & Install** [Adobe Premiere Pro](https://software.sites.unc.edu/adobe/)
-- **Attend** Instructional Session on Editing Video with Premiere Pro w/ UNC Media & Design Center Staff
+- **Attend** Instructional Session on Editing Video with Premiere Pro
 
 ---
 

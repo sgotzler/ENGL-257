@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 9 - The Death Stranding Experience"
+title:  "Week 9 - Temporal Loops"
 date:   2025-03-03 01:00:00
 term:   "Spring 2025"
 last_modified_at:  2025-03-03 01:00:00
@@ -13,19 +13,19 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-##### **Week 9 — The Death Stranding Experience**
+##### **Week 9 — Temporal Loops**
 
 ---
 
-###### Monday 03/03 - *Blade Runner 2049* - dependency inversions and social reproduction
-- **Watch** *Blade Runner 2049* (2017), dir. Denis Villeneuve [**Available via Canvas**](https://uncch.instructure.com/courses/78214/discussion_topics/543036)
-- **Watch** "Low Level Design 108 - Dependency Inversion Principle" [**Video on YouTube**](https://www.youtube.com/watch?v=_CQuOfIqaGE)
-- **Read** Sherryl Vint, "Vitality and reproduction in *Blade Runner 2049*" [**Available on Canvas**](https://uncch.instructure.com/courses/78214/files/folder/Readings?preview=9998510)
-- **Watch** *Cyberpunk 2077* (2020)[**Available via Canvas**](https://uncch.instructure.com/courses/78214/discussion_topics/543036)
+###### Monday 03/03 - *Tenet* - temporal loops
+- **Watch** *Tenet* (2020), dir. Christopher Nolan
+- **Read** Christopher Hanson, "Recursive Temporalities"
 
 ---
 
-###### Wednesday 03/05 - Discussion: the *Death Stranding Experience* — playing, between video games and cinema
+###### Wednesday 03/05 - *Return of the Obra Dinn* - recursive temporalities
+- **Watch** *Return of the Obra Dinn* (2018)
+- **Watch** "Loops in Game Design?" (video)
 
 ---
 

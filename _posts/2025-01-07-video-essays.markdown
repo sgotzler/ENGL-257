@@ -16,9 +16,9 @@ syntaxHighlighter: no
 
 ### **Video Essay Projects**
 
-###### The capstone assignment for this course will be a video essay project that we will screen together as a class at the end of the semester. These essays will showcase our various explorations of, and interventions in, the study of video games and narrative cinema. 
+###### The capstone assignment for this course will be a video essay project that we will screen together at the end of the semester, in a public screening and peer-voted awards ceremony. These essays will showcase our various explorations of, and interventions in, the study of video games and narrative cinema. 
 
-###### Students will use these video essay project to make original arguments about the interpenetrated histories, forms, and/or genres of video games and narrative cinema, drawing on primary sources from the course syllabus and conducting secondary research on their own. In the process, we will work together to craft visual arguments about the visual culture examined in the class.
+###### Students will use these video essay project to make original arguments about the interpenetrated histories, forms, and/or genres of video games and narrative cinema, drawing on films and games of their own choosing, which need not come from the course syllabus, and conducting secondary research on their own. In the process, we will work together to craft visual arguments about the visual culture examined in the class.
 
 ###### Throughout the semester we will scaffold this assignment with additional technical instruction and tutorials, by viewing and analyzing other video essays as models, and working in groups to provide feedback and advice on composition, editing, and revision of these projects. 
 
@@ -102,17 +102,17 @@ Storyboards and Draft Scripts will be submitted [**via Canvas**](https://uncch.i
 
 #### <a name="head3"></a>**Phase 3: Assembly, Editing, and Revision**
 
-In the final phase of the project, students will attend an instructional session with the Media & Design Center to familiarize themselves with the video production and editing tools available in the Adobe software suite. Following this session, students will assemble a rough cut of their video essay projects, offer constructive feedback to each other through peer review, and engage in iterative composition practices to refine and revise their video essays prior to submission. These activites will be conducted through a series of in-class workshops during weeks 15 and 16.
+In the final phase of the project, students will attend a dedicated class session on technical instruction to familiarize themselves with the video production and editing tools available in the Adobe software suite. Following this session, students will assemble a rough cut of their video essay projects, offer constructive feedback to each other through peer review, and engage in iterative composition practices to refine and revise their video essays prior to submission. These activites will be conducted through a series of in-class workshops during weeks 15 and 16.
 
-##### **Instructional Session with the Media & Design Center**
+##### **Technical Instruction Session: Editing in Adobe Premiere Pro**
 
 Students should come to this session with their laptops ready to use with appropriate software installed. Students should also feel free to bring specific questions about particular video composition techniques (e.g., textual overlay; small multiples; side-by-side; or diagrammatic overlays) that they are interested in incorporating into their video essay projects.
 
 Before attending the instructional session students should complete the following: 
 
-- **Review** ["Premier Pro Quickstart Guide"](https://guides.lib.unc.edu/ld.php?content_id=67370743)
+- **Review** ["Premiere Pro Quickstart Guide"](https://guides.lib.unc.edu/ld.php?content_id=67370743)
 
-You should leave this instructional session feeling confident to continue experimenting with Adobe Premier by beginning to assemble your own essays, with self-guided reference to MDC materials. 
+You should leave this instructional session feeling confident to continue experimenting with Adobe Premiere Pro by beginning to assemble your own essays, with self-guided reference to the quickstart guide. 
 
 This instructional session will be held during the our normal class time on **Monday 04/14**
 
@@ -126,8 +126,8 @@ Our scriptwriting and media capture workshops will take place on Wednesday, Apri
 - begin assembling the rough cut of their video essay.
 
 **By the end of these sessions students should have:**
-- created a new Premier Pro Project for their video essays.
-- imported their media library into Premier.
+- created a new Premiere Pro Project for their video essays.
+- imported their media library into Premiere Pro.
 - completed editorial assembly of at least 1 section of the essay (i.e., rough cutting and timing of 90-120 sec.).
 
 A complete assembled rough cut is due by 9:00AM on Friday, April 25th.
